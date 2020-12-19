@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hey 👋, This is Sachin Chaurasiya
+### About me 🤓
+Hello there, I am Sachin chaurasiya and currently, I pursuing my bachelor's degree in information technology from Mumbai University.
+by profession, I am Full Stack Web developer, blogger and I would love to learn new technologies. so, implement those to build something unique.
+I work with a combination of self-learning and consistency. rather than results, I believe in the learning process to improve myself at every point.
 
-<!--
-**Sachin-chaurasiya/Sachin-chaurasiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Skills:* Python | Javascript | Django | Reactjs
 
-Here are some ideas to get you started:
+- ✍️ I am currently learning React JS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱  I am currently looking to collaborate on Web Projects 
+
+<a href = https://www.linkedin.com/in/sachin-chaurasiya-88a6b6178><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg height='30' weight='30'></a> • <a href = https://github.com/Sachin-chaurasiya><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg height='30' weight='30'></a> • <a href = https://twitter.com/sachindotcom><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg height='30' weight='30'></a>
