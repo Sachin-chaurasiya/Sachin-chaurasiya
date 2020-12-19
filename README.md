@@ -4,7 +4,7 @@ Hello there, I am Sachin chaurasiya and currently, I pursuing my bachelor's degr
 by profession, I am Full Stack Web developer, blogger and I would love to learn new technologies. so, implement those to build something unique.
 I work with a combination of self-learning and consistency. rather than results, I believe in the learning process to improve myself at every point.
 
-*Skills:* Python | Javascript | Django | Reactjs
+*Skills:* Python | Javascript | Django | Reactjs | Wordpress 
 
 - ✍️ I am currently learning React JS
 
