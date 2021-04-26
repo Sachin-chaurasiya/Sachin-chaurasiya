@@ -6,7 +6,7 @@ I work with a combination of self-learning and consistency. rather than results,
 
 *Skills:* Python | Javascript | Django | Reactjs | Wordpress 
 
-- ✍️ I am currently learning React JS
+- ✍️ I am currently learning NextJs and Redux
 
 - 🌱  I am currently looking to collaborate on Web Projects 
 
