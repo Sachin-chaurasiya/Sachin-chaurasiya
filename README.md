@@ -17,12 +17,15 @@
 
 ---
 
-<div style="margin-bottom:1rem;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sachin-chaurasiya&show_icons=true&locale=en&layout=compact" alt="Sachin-chaurasiya" /></div>
+<div align="center">
+  
+  ![SachinChaurasiya's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sachin-chaurasiya&theme=react&hide_border=true)
 
+<br/>
 
-
-
-<div><img align="center" src="https://github-readme-stats.vercel.app/api?username=Sachin-chaurasiya&show_icons=true&locale=en" alt="Sachin-chaurasiya" /></div>
+  ![SachinChaurasiya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sachin-chaurasiya&show_icons=true&theme=react)
+  
+</div>
 
 ---
 ## Connect with me
@@ -30,8 +33,8 @@
 <a href = https://www.linkedin.com/in/sachin-chaurasiya><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg height='30' weight='30'></a> 
   <a href = https://github.com/Sachin-chaurasiya><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg height='30' weight='30'></a>
   <a href = https://twitter.com/sachindotcom><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg height='30' weight='30'></a>
-  <a href = https://twitter.com/sachindotcom><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg height='30' weight='30'></a>
-<a href = https://twitter.com/sachindotcom><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/facebook.svg height='30' weight='30'></a>
+  <a href = "https://www.instagram.com/chotey87/"><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg height='30' weight='30'></a>
+<a href = "https://www.facebook.com/sachin.chaurasiya.10441/" ><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/facebook.svg height='30' weight='30'></a>
 
 **Thanks and Regards ❤**
 <hr/>
