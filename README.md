@@ -7,7 +7,7 @@ I love to connect with people and share knowledge with them.
   
  # Currently
  
-  - ✍️ I am currently learning NextJs and Redux
+  - ✍️ I am currently learning TypeScript.
   
   - 🌱  I am currently looking to collaborate on Web Projects 
   
