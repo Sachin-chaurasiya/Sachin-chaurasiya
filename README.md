@@ -1,6 +1,8 @@
 # Hey <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width= "28px"/> This is Sachin Chaurasiya
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Sachin-chaurasiya" alt="Sachin-chaurasiya" /> </p>
-  ### About me 🤓
+  
+
+### About me 🤓
   A passionate Full Stack developer with 1 year of freelance experience to build a web application .
 I build a web application using Reactjs and Django.
 I love to connect with people and share knowledge with them.
