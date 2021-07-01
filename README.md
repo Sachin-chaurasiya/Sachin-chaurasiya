@@ -63,11 +63,11 @@ I love to connect with people and share knowledge with them.
 
 <div align="center">
   
-  ![SachinChaurasiya's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sachin-chaurasiya&theme=react&hide_border=true)
+  ![SachinChaurasiya's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sachin-chaurasiya&theme=dracula&hide_border=true)
 
 <br/>
 
-  ![SachinChaurasiya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sachin-chaurasiya&show_icons=true&theme=react)
+  ![SachinChaurasiya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sachin-chaurasiya&show_icons=true&theme=dracula)
   
 </div>
 
