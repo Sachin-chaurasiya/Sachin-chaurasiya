@@ -15,10 +15,7 @@
   
 
 ### About me 🤓
-  A passionate Full Stack developer with 1 year of freelance experience to build a web application .
-I build a web application using Reactjs and Django.
-I love to connect with people and share knowledge with them.
-  I work with a combination of self-learning and consistency. rather than results, I believe in the learning process to improve myself at every point.
+I love to connect with people and share knowledge with them.I work with a combination of self-learning and consistency. rather than results, I believe in the learning process to improve myself at every point.
   
  # Currently
  
