@@ -59,7 +59,7 @@ I love to connect with people and share knowledge with them.I work with a combin
   <a href = "https://www.instagram.com/chotey87/"><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg height='30' weight='30'></a>
 <a href = "https://www.facebook.com/sachin.chaurasiya.10441/" ><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/facebook.svg height='30' weight='30'></a>
 
-**Thanks and Regards ❤**
+**Thanks and Regards**
 <hr/>
 
 [Sachin Chaurasiya](https://www.linkedin.com/in/sachin-chaurasiya/)
