@@ -13,7 +13,7 @@
   
 
 ### About me 🤓
-I love to connect with people and share knowledge with them.I work with a combination of self-learning and consistency. rather than results, I believe in the learning process to improve myself at every point.
+I love to connect with people and share knowledge with them. I work with a combination of self-learning and consistency. rather than results, I believe in the learning process to improve myself at every point.
   
  # Currently
  
