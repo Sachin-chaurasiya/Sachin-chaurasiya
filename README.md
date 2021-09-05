@@ -13,16 +13,20 @@
   
 
 ### About me 🤓
+
 Thank you for a look in. I am a passionate Full Stack developer and microblogger. Mostly I work with these technologies - Javascript, Typescript, ReactJS, Tailwind CSS, python, Django, Git, GitHub.
+
 As I mentioned I am a microblogger and I write about Javascript, React, Python and Django on blogging platforms like hashnode, dev community.
+
 I love to connect with people to share ideas, knowledge.
+
 My strength is I work with a combination of self-learning and consistency. Rather than results, I believe in the learning process to improve myself at every point.
 
 Talking about my experience I have 1 year of experience as a freelance developer where I had built web applications with technologies like  WordPress, Django and React.
 
 Currently, I working as a Software Engineer in a start-up company named deuex solutions Pvt Ltd.
 
-Besides all this, I love to contribute to an open-source project and currently, I am contributing to the [OpenMetadata](https://github.com/open-metadata/OpenMetadata) Open source community.
+Besides all this, I love to contribute to an open-source project and currently, I am contributing to the [Open-metadata](https://github.com/open-metadata/OpenMetadata) Open source community.
 
 
   
@@ -32,7 +36,7 @@ Besides all this, I love to contribute to an open-source project and currently, 
   
   - 🌱  I am currently looking to collaborate on Web Projects 
  
-  - Contributing to [OpenMetadata](https://github.com/open-metadata/OpenMetadata) Open source community.
+  - Contributing to [Open-metadata](https://github.com/open-metadata/OpenMetadata) Open source community.
   
   
 
