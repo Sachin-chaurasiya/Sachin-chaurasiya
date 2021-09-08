@@ -26,7 +26,7 @@ Talking about my experience I have 1 year of experience as a freelance developer
 
 Currently, I working as a Software Engineer in a start-up company named [deuex solutions Pvt Ltd](https://github.com/deuex-solutions).
 
-Besides all this, I love to contribute to an open-source project and currently, I am contributing to the [Open-metadata](https://github.com/open-metadata/OpenMetadata) Open source community.
+Besides all this, I love to contribute to an open-source project and currently, I am contributing to the OpenMetadata Open source community.
 
 
   
