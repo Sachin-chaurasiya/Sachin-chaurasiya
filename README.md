@@ -1,4 +1,4 @@
-# Hey <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width= "28px"/> This is Sachin Chaurasiya
+# Hey <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width= "24px"/> This is Sachin Chaurasiya
  
 <p align="center">
   
