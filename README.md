@@ -10,9 +10,10 @@
   </a>
 <img src="https://komarev.com/ghpvc/?username=Sachin-chaurasiya&label=Profile+Visitors&color=green" alt="Sachin-chaurasiya" /> 
 </p>	
-  
 
-### About me 🤓
+---
+
+# About me 🤓
 
 Thank you for a look in. I am a passionate Full Stack developer and microblogger. Mostly I work with these technologies - Javascript, Typescript, ReactJS, Tailwind CSS, python, Django, Git, GitHub.
 
@@ -65,7 +66,7 @@ Besides all this, I love to contribute to an open-source project and currently, 
   
 </div>
 
----
+
 ## Connect with me
 
 
