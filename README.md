@@ -45,14 +45,16 @@ Besides all this, I love to contribute to an open-source project and currently, 
 
 
 <h3 align="left">Languages and Tools:</h3>
-<div align="left">
+<div align="center">
 <p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.icons8.com/color/2x/django.png" alt="react" width="40" height="40"/> </a>
-</p>
-<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.icons8.com/color/344/typescript.png" alt="typescript" width="40" height="40"/> </a>
+ <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.icons8.com/color/344/typescript.png" alt="typescript" width="40" height="40"/> </a>
 </p>
 </div>
 
+<p align="center">
+<a href="https://app.daily.dev/Sachin87"><img src="https://api.daily.dev/devcards/95d65eed8db14a28bb2842c412c75381.png?r=hsx" width="400" alt="Sachin Chaurasiya's Dev Card"/></a>
+ </p>
 
 <div align="center">
   
