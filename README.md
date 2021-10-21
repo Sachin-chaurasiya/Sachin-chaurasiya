@@ -48,43 +48,43 @@ Besides all this, I love to contribute to an open-source project and currently, 
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <a href="#suhailkakar-tech">
+      <a href="#">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <a href="#suhailkakar-tech">
+      <a href="#">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
     <td align="center" width="96">
-      <a href="#suhailkakar-tech">
+      <a href="#">
         <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="48" height="48" alt="Django" />
       </a>
       <br>Django
     </td>
     <td align="center" width="96">
-      <a href="#suhailakar-tech">
+      <a href="#">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
       </a>
       <br>TypeScript
     </td>
     <td align="center" width="96">
-      <a href="#suhailkakar-tech">
+      <a href="#">
         <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React" />
       </a>
       <br>React JS
     </td>
     <td align="center" width="96">
-      <a href="#suhailkakar-tech">
+      <a href="#">
         <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
       </a>
       <br>Bootstrap
     </td>
      <td align="center" width="96"> 
-      <a href="#suhailkakar-tech" >
+      <a href="#" >
         <img src="https://i.ibb.co/QXHcMvM/58481021cef1014c0b5e494b.png" width="48" height="48" alt="Mongo DB" />
       </a>
       <br>MongoDB
@@ -93,43 +93,43 @@ Besides all this, I love to contribute to an open-source project and currently, 
   
   <tr>
     <td align="center"  width="96">
-      <a href="#suhailkakar-tech">
+      <a href="#">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/480px-WordPress_blue_logo.svg.png" width="48" height="48" alt="WordPress" />
       </a>
       <br>WordPress
     </td>
     <td align="center" width="96">
-      <a href="#suhailkakar-tech" >
+      <a href="#" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
       </a>
       <br>Git
     </td>
    <td align="center" width="96">
-      <a href="#suhailkakar-tech">
+      <a href="#">
         <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.cb8046c163f77190406dfbf4dec89848.svg" width="48" height="48" alt="TailWind" />
       </a>
       <br>TailWind CSS
     </td>
     <td align="center" width="96">
-      <a href="#suhailkakar-tech">
+      <a href="#">
         <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="45" height="45" alt="Figma" />
       </a>
       <br>Figma
     </td>
     <td align="center" width="96">
-      <a href="#suhailakar-tech">
+      <a href="#">
         <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="48" height="48" alt="Material UI" />
       </a>
       <br>Material ui
     </td>
    <td align="center" width="96">
-    <a href="https://www.w3schools.com/css/" target="_blank"> 
+    <a href="#" target="_blank"> 
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
     </a>
     <br/> CSS3
    </td>
    <td align="center" width="96">
-     <a href="https://www.w3.org/html/" target="_blank">
+     <a href="#" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
     </a>
     <br/>HTML5
@@ -137,13 +137,13 @@ Besides all this, I love to contribute to an open-source project and currently, 
   </tr>
    <tr>
 <!-- <td align="center" width="96"> 
-      <a href="#suhailkakar-tech" >
+      <a href="#" >
         <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="48" height="48" alt="Redux" />
       </a>
       <br>Redux
     </td> -->
     <!--     <td align="center" width="96">
-      <a href="#suhailkakar-tech" >
+      <a href="#" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="48" height="48" alt="GraphQL" />
       </a>
       <br>GraphQL
