@@ -45,12 +45,112 @@ Besides all this, I love to contribute to an open-source project and currently, 
 
 
 <h3 align="left">Languages and Tools:</h3>
-<div align="center">
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.icons8.com/color/2x/django.png" alt="react" width="40" height="40"/> </a>
- <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.icons8.com/color/344/typescript.png" alt="typescript" width="40" height="40"/> </a>
-</p>
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a href="#suhailkakar-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="#suhailkakar-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="#suhailkakar-tech">
+        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="48" height="48" alt="Django" />
+      </a>
+      <br>Django
+    </td>
+    <td align="center" width="96">
+      <a href="#suhailakar-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <a href="#suhailkakar-tech">
+        <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React" />
+      </a>
+      <br>React JS
+    </td>
+    <td align="center" width="96">
+      <a href="#suhailkakar-tech">
+        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>Bootstrap
+    </td>
+     <td align="center" width="96"> 
+      <a href="#suhailkakar-tech" >
+        <img src="https://i.ibb.co/QXHcMvM/58481021cef1014c0b5e494b.png" width="48" height="48" alt="Mongo DB" />
+      </a>
+      <br>MongoDB
+    </td>
+  </tr>
+  
+  <tr>
+    <td align="center"  width="96">
+      <a href="#suhailkakar-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/480px-WordPress_blue_logo.svg.png" width="48" height="48" alt="WordPress" />
+      </a>
+      <br>WordPress
+    </td>
+    <td align="center" width="96">
+      <a href="#suhailkakar-tech" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+   <td align="center" width="96">
+      <a href="#suhailkakar-tech">
+        <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.cb8046c163f77190406dfbf4dec89848.svg" width="48" height="48" alt="TailWind" />
+      </a>
+      <br>TailWind CSS
+    </td>
+    <td align="center" width="96">
+      <a href="#suhailkakar-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="45" height="45" alt="Figma" />
+      </a>
+      <br>Figma
+    </td>
+    <td align="center" width="96">
+      <a href="#suhailakar-tech">
+        <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="48" height="48" alt="Material UI" />
+      </a>
+      <br>Material ui
+    </td>
+   <td align="center" width="96">
+    <a href="https://www.w3schools.com/css/" target="_blank"> 
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+    </a>
+    <br/> CSS3
+   </td>
+   <td align="center" width="96">
+     <a href="https://www.w3.org/html/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+    </a>
+    <br/>HTML5
+   </td>
+  </tr>
+   <tr>
+<!-- <td align="center" width="96"> 
+      <a href="#suhailkakar-tech" >
+        <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="48" height="48" alt="Redux" />
+      </a>
+      <br>Redux
+    </td> -->
+    <!--     <td align="center" width="96">
+      <a href="#suhailkakar-tech" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="48" height="48" alt="GraphQL" />
+      </a>
+      <br>GraphQL
+    </td> -->
+  </tr>
+    
+</table>
 
 <p align="center">
 <a href="https://app.daily.dev/Sachin87"><img src="https://api.daily.dev/devcards/95d65eed8db14a28bb2842c412c75381.png?r=qgd" width="400" alt="Sachin Chaurasiya's Dev Card"/></a>
