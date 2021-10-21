@@ -64,9 +64,10 @@ Besides all this, I love to contribute to an open-source project and currently, 
 
   ![SachinChaurasiya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sachin-chaurasiya&show_icons=true&theme=dracula)
    	
-  
-  
 </div>
+
+[![Sachin’s github activity graph](https://activity-graph.herokuapp.com/graph?username=Sachin-chaurasiya&theme=dracula)](https://github.com/Sachin-chaurasiya)
+
 
 
 ## Connect with me
