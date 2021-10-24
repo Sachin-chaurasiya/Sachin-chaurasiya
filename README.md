@@ -8,7 +8,6 @@
   <a href="https://sachinchaurasiya.hashnode.dev/">
     <img  alt="SachinChaurasiya Blog" title="My Blog" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
   </a>
-<img src="https://komarev.com/ghpvc/?username=Sachin-chaurasiya&label=Profile+Visitors&color=green" alt="Sachin-chaurasiya" /> 
 </p>	
 
 ---
