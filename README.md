@@ -175,7 +175,7 @@ Besides all this, I love to contribute to an open-source project and currently, 
   <a href = https://github.com/Sachin-chaurasiya><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg height='30' weight='30'></a>
   <a href = https://twitter.com/sachindotcom><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg height='30' weight='30'></a>
   <a href = "https://www.instagram.com/chotey87/"><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg height='30' weight='30'></a>
-<a href = "https://www.facebook.com/sachin.chaurasiya.10441/" ><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/facebook.svg height='30' weight='30'></a>
+<a href = "https://www.facebook.com/sachinchaurasiya87" ><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/facebook.svg height='30' weight='30'></a>
 
 **Thanks and Regards**
 <hr/>
