@@ -10,6 +10,12 @@
   <a href="https://sachinchaurasiya.hashnode.dev/">
     <img  alt="SachinChaurasiya Blog" title="My Blog" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
   </a>
+  <a href="https://dev.to/sachinchaurasiya">
+   <img alt="Sachin-chaurasiya" width="32px" title="Dev.to profile" src="https://user-images.githubusercontent.com/59080942/138895700-00d9c419-8d09-4be3-b78e-ad549d6c96dc.png"/>
+ </a>
+ 
+
+ 
 </p>	
 
 ---
