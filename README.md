@@ -1,4 +1,5 @@
 
+ ![github](https://github.githubassets.com/images/icons/emoji/octocat.png)
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%23FFFFFF&center=true&vCenter=true&lines=Hey+%F0%9F%91%8B+This+is+Sachin+Chaurasiya;Software+Engineer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;OpenSource+Contributor+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Technical+Blogger+%F0%9F%93%9D)](https://git.io/typing-svg)
 
  
