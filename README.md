@@ -154,15 +154,15 @@ Besides all this, I love to contribute to an open-source project and currently, 
 <p align="center">
 <a href="https://app.daily.dev/Sachin87"><img src="https://api.daily.dev/devcards/95d65eed8db14a28bb2842c412c75381.png?r=qgd" width="400" alt="Sachin Chaurasiya's Dev Card"/></a>
  </p>
+ 
+ ---
 
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sachin-chaurasiya&show_icons=true&theme=dracula" />
-
-
   <img width="48%" src="http://github-readme-streak-stats.herokuapp.com?user=Sachin-chaurasiya&theme=dracula&hide_border=true" />
-
-  
 </div>
+
+---
 
 [![Sachin’s github activity graph](https://activity-graph.herokuapp.com/graph?username=Sachin-chaurasiya&theme=dracula)](https://github.com/Sachin-chaurasiya)
 
