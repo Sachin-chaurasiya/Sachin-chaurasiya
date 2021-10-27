@@ -53,7 +53,7 @@ Besides all this, I love to contribute to an open-source project and currently, 
   
 
 
-<h3 align="left">Languages and Tools:</h3>
+# Languages and Tools
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -178,7 +178,7 @@ Besides all this, I love to contribute to an open-source project and currently, 
 
 ---
 
-### :zap: Recent Activity
+# :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#951](https://github.com/open-metadata/OpenMetadata/pull/951) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
@@ -194,7 +194,7 @@ Besides all this, I love to contribute to an open-source project and currently, 
 <!--END_SECTION:activity-->
 
 
-## Connect with me
+# Connect with me
 
 
   <a href = https://github.com/Sachin-chaurasiya><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg height='30' weight='30'></a>
