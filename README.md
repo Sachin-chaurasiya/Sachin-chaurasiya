@@ -22,7 +22,7 @@
 
 ---
 
-# About me 🤓
+# About me 👨🏻‍💻
 
 Thank you for a look in. I am a passionate Full Stack developer and microblogger. Mostly I work with these technologies - Javascript, Typescript, ReactJS, Tailwind CSS, python, Django, Git, GitHub.
 
