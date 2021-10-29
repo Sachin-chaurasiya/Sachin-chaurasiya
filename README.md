@@ -161,7 +161,7 @@ Besides all this, I love to contribute to an open-source project and currently, 
     
 </table>
 
-# #DevCard 🗂�
+# #DevCard 🗂
 <p align="center">
 <a href="https://app.daily.dev/Sachin87"><img src="https://api.daily.dev/devcards/95d65eed8db14a28bb2842c412c75381.png?r=qgd" width="400" alt="Sachin Chaurasiya's Dev Card"/></a>
  </p>
