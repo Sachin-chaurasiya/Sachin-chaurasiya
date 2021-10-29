@@ -40,7 +40,7 @@ Besides all this, I love to contribute to an open-source project and currently, 
 
 
   
- # Currently
+ # Currently 📝
  
   - ✍️ I am currently learning TypeScript.
   
@@ -53,7 +53,7 @@ Besides all this, I love to contribute to an open-source project and currently, 
   
 
 
-# Languages and Tools
+# Languages and Tools 🛠
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -161,6 +161,7 @@ Besides all this, I love to contribute to an open-source project and currently, 
     
 </table>
 
+# #DevCard
 <p align="center">
 <a href="https://app.daily.dev/Sachin87"><img src="https://api.daily.dev/devcards/95d65eed8db14a28bb2842c412c75381.png?r=qgd" width="400" alt="Sachin Chaurasiya's Dev Card"/></a>
  </p>
@@ -194,7 +195,7 @@ Besides all this, I love to contribute to an open-source project and currently, 
 <!--END_SECTION:activity-->
 
 
-# Connect with me
+# Connect with me 
 
 
   <a href = https://github.com/Sachin-chaurasiya><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg height='30' weight='30'></a>
