@@ -161,12 +161,14 @@ Besides all this, I love to contribute to an open-source project and currently, 
     
 </table>
 
-# #DevCard
+# #DevCard 🗂�
 <p align="center">
 <a href="https://app.daily.dev/Sachin87"><img src="https://api.daily.dev/devcards/95d65eed8db14a28bb2842c412c75381.png?r=qgd" width="400" alt="Sachin Chaurasiya's Dev Card"/></a>
  </p>
  
  ---
+
+# Github Stats 📈📊
 
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sachin-chaurasiya&show_icons=true&theme=dracula" />
@@ -179,7 +181,7 @@ Besides all this, I love to contribute to an open-source project and currently, 
 
 ---
 
-# :zap: Recent Activity
+# :zap: Recent Activity 
 
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#973](https://github.com/open-metadata/OpenMetadata/pull/973) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
