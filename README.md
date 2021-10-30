@@ -1,9 +1,7 @@
-
  <p align="left"><img src="https://github.githubassets.com/images/icons/emoji/octocat.png" /></p>
  <p align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&size=24&width=500&height=36&lines=Hey+%F0%9F%91%8B+This+is+Sachin+Chaurasiya;Software+Engineer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;OpenSource+Contributor+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Technical+Blogger+%F0%9F%93%9D"/></p>
  <p align="right"><img src="https://github.githubassets.com/images/icons/emoji/octocat.png"/></p>
 
- 
 <p align="center">
   
   <a href="https://www.linkedin.com/in/sachin-chaurasiya/">
@@ -15,10 +13,8 @@
   <a href="https://dev.to/sachinchaurasiya">
    <img alt="Sachin-chaurasiya" width="32px" title="Dev.to profile" src="https://user-images.githubusercontent.com/59080942/138895700-00d9c419-8d09-4be3-b78e-ad549d6c96dc.png"/>
  </a>
- 
 
- 
-</p>	
+</p>
 
 ---
 
@@ -32,28 +28,24 @@ I love to connect with people to share ideas, knowledge.
 
 My strength is I work with a combination of self-learning and consistency. Rather than results, I believe in the learning process to improve myself at every point.
 
-Talking about my experience I have 1 year of experience as a freelance developer where I had built web applications with technologies like  WordPress, Django and React.
+Talking about my experience I have 1 year of experience as a freelance developer where I had built web applications with technologies like WordPress, Django and React.
 
 Currently, I working as a Software Engineer in a start-up company named [deuex solutions Pvt Ltd](https://github.com/deuex-solutions).
 
 Besides all this, I love to contribute to an open-source project and currently, I am contributing to the OpenMetadata Open source community.
 
+# Currently 📝
 
-  
- # Currently 📝
- 
-  - ✍️ I am currently learning TypeScript.
-  
-  - 🌱  I am currently looking to collaborate on Web Projects 
- 
-  - Contributing to [Open-metadata](https://github.com/open-metadata/OpenMetadata) Open source community.
+- ✍️ I am currently learning TypeScript.
 
-  - Loooking for help on unit testing with React.
-  
-  
+- 🌱 I am currently looking to collaborate on Web Projects
 
+- Contributing to [Open-metadata](https://github.com/open-metadata/OpenMetadata) Open source community.
+
+- Loooking for help on unit testing with React.
 
 # Languages and Tools 🛠
+
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -162,6 +154,7 @@ Besides all this, I love to contribute to an open-source project and currently, 
 </table>
 
 # #DevCard 🗂
+
 <p align="center">
 <a href="https://app.daily.dev/Sachin87"><img src="https://api.daily.dev/devcards/95d65eed8db14a28bb2842c412c75381.png?r=qgd" width="400" alt="Sachin Chaurasiya's Dev Card"/></a>
  </p>
@@ -181,9 +174,10 @@ Besides all this, I love to contribute to an open-source project and currently, 
 
 ---
 
-# :zap: Recent Activity 
+# :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+
 1. 🎉 Merged PR [#978](https://github.com/open-metadata/OpenMetadata/pull/978) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 2. ❗️ Opened issue [#977](https://github.com/open-metadata/OpenMetadata/issues/977) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 3. ❗️ Opened issue [#976](https://github.com/open-metadata/OpenMetadata/issues/976) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
@@ -196,16 +190,21 @@ Besides all this, I love to contribute to an open-source project and currently, 
 10. 🗣 Commented on [#613](https://github.com/EddieHubCommunity/LinkFree/issues/613) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
 <!--END_SECTION:activity-->
 
+### Latest Posts
 
-# Connect with me 
+<!-- BLOG-POST-LIST:START -->
 
+---
 
-  <a href = https://github.com/Sachin-chaurasiya><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg height='30' weight='30'></a>
-  <a href = https://twitter.com/sachindotcom><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg height='30' weight='30'></a>
-  <a href = "https://www.instagram.com/chotey87/"><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg height='30' weight='30'></a>
+# Connect with me
+
+<a href = https://github.com/Sachin-chaurasiya><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg height='30' weight='30'></a>
+<a href = https://twitter.com/sachindotcom><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg height='30' weight='30'></a>
+<a href = "https://www.instagram.com/chotey87/"><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg height='30' weight='30'></a>
 <a href = "https://www.facebook.com/sachinchaurasiya87" ><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/facebook.svg height='30' weight='30'></a>
 
 **Thanks and Regards**
+
 <hr/>
 
 [Sachin Chaurasiya](https://www.linkedin.com/in/sachin-chaurasiya/)
