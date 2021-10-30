@@ -191,8 +191,8 @@ Besides all this, I love to contribute to an open-source project and currently, 
 <!--END_SECTION:activity-->
 
 # Latest Posts ✍️
-
 <!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
