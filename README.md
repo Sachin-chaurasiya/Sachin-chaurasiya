@@ -1,4 +1,8 @@
-# Hey <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width= "24px"/> This is Sachin Chaurasiya
+
+ <p align="left"><img src="https://github.githubassets.com/images/icons/emoji/octocat.png" /></p>
+ <p align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&size=24&width=500&height=36&lines=Hey+%F0%9F%91%8B+This+is+Sachin+Chaurasiya;Software+Engineer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;OpenSource+Contributor+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Technical+Blogger+%F0%9F%93%9D"/></p>
+ <p align="right"><img src="https://github.githubassets.com/images/icons/emoji/octocat.png"/></p>
+
  
 <p align="center">
   
@@ -8,11 +12,17 @@
   <a href="https://sachinchaurasiya.hashnode.dev/">
     <img  alt="SachinChaurasiya Blog" title="My Blog" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
   </a>
+  <a href="https://dev.to/sachinchaurasiya">
+   <img alt="Sachin-chaurasiya" width="32px" title="Dev.to profile" src="https://user-images.githubusercontent.com/59080942/138895700-00d9c419-8d09-4be3-b78e-ad549d6c96dc.png"/>
+ </a>
+ 
+
+ 
 </p>	
 
 ---
 
-# About me 🤓
+# About me 👨🏻‍💻
 
 Thank you for a look in. I am a passionate Full Stack developer and microblogger. Mostly I work with these technologies - Javascript, Typescript, ReactJS, Tailwind CSS, python, Django, Git, GitHub.
 
@@ -30,7 +40,7 @@ Besides all this, I love to contribute to an open-source project and currently, 
 
 
   
- # Currently
+ # Currently 📝
  
   - ✍️ I am currently learning TypeScript.
   
@@ -43,7 +53,7 @@ Besides all this, I love to contribute to an open-source project and currently, 
   
 
 
-<h3 align="left">Languages and Tools:</h3>
+# Languages and Tools 🛠
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -151,11 +161,14 @@ Besides all this, I love to contribute to an open-source project and currently, 
     
 </table>
 
+# #DevCard 🗂
 <p align="center">
 <a href="https://app.daily.dev/Sachin87"><img src="https://api.daily.dev/devcards/95d65eed8db14a28bb2842c412c75381.png?r=qgd" width="400" alt="Sachin Chaurasiya's Dev Card"/></a>
  </p>
  
  ---
+
+# Github Stats 📈📊
 
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sachin-chaurasiya&show_icons=true&theme=dracula" />
@@ -166,12 +179,25 @@ Besides all this, I love to contribute to an open-source project and currently, 
 
 [![Sachin’s github activity graph](https://activity-graph.herokuapp.com/graph?username=Sachin-chaurasiya&theme=dracula)](https://github.com/Sachin-chaurasiya)
 
-### :zap: Recent Activity
+---
+
+# :zap: Recent Activity 
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#978](https://github.com/open-metadata/OpenMetadata/pull/978) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+2. ❗️ Opened issue [#977](https://github.com/open-metadata/OpenMetadata/issues/977) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+3. ❗️ Opened issue [#976](https://github.com/open-metadata/OpenMetadata/issues/976) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+4. 💪 Opened PR [#973](https://github.com/open-metadata/OpenMetadata/pull/973) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+5. 🎉 Merged PR [#971](https://github.com/open-metadata/OpenMetadata/pull/971) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+6. ❌ Closed PR [#248](https://github.com/open-metadata/OpenMetadata/pull/248) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+7. 🗣 Commented on [#248](https://github.com/open-metadata/OpenMetadata/issues/248) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+8. 💪 Opened PR [#971](https://github.com/open-metadata/OpenMetadata/pull/971) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+9. 🗣 Commented on [#613](https://github.com/EddieHubCommunity/LinkFree/issues/613) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+10. 🗣 Commented on [#613](https://github.com/EddieHubCommunity/LinkFree/issues/613) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+<!--END_SECTION:activity-->
 
 
-## Connect with me
+# Connect with me 
 
 
   <a href = https://github.com/Sachin-chaurasiya><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg height='30' weight='30'></a>
