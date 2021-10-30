@@ -190,7 +190,7 @@ Besides all this, I love to contribute to an open-source project and currently, 
 10. 🗣 Commented on [#613](https://github.com/EddieHubCommunity/LinkFree/issues/613) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
 <!--END_SECTION:activity-->
 
-### Latest Posts
+# Latest Posts ✍️
 
 <!-- BLOG-POST-LIST:START -->
 
