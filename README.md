@@ -192,6 +192,11 @@ Besides all this, I love to contribute to an open-source project and currently, 
 
 # Latest Posts ✍️
 <!-- BLOG-POST-LIST:START -->
+- [Learn Django Series](https://dev.to/sachinchaurasiya/learn-django-series-1721)
+- [Some of the Best Open-Source Projects to make your life easier.](https://dev.to/sachinchaurasiya/some-of-the-best-open-source-projects-to-make-your-life-easier-1lia)
+- [How to setup mongodb atlas?](https://dev.to/sachinchaurasiya/how-to-setup-mongodb-atlas-an7)
+- [What are Views in Django?](https://dev.to/sachinchaurasiya/what-are-views-in-django-6cd)
+- [Django project vs app](https://dev.to/sachinchaurasiya/django-project-vs-app-27dm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
