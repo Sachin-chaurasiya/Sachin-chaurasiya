@@ -197,6 +197,11 @@ Besides all this, I love to contribute to an open-source project and currently, 
 - [How to setup mongodb atlas?](https://dev.to/sachinchaurasiya/how-to-setup-mongodb-atlas-an7)
 - [What are Views in Django?](https://dev.to/sachinchaurasiya/what-are-views-in-django-6cd)
 - [Django project vs app](https://dev.to/sachinchaurasiya/django-project-vs-app-27dm)
+- [MVT Pattern Of Django](https://dev.to/sachinchaurasiya/mvt-pattern-of-django-1cea)
+- [Simple Guide for Django Admin Interface](https://dev.to/sachinchaurasiya/simple-guide-for-django-admin-interface-1g6d)
+- [Understanding Django Application Lifecycle](https://dev.to/sachinchaurasiya/understanding-django-application-lifecycle-3c3o)
+- [Let's set up the Environment for Django](https://dev.to/sachinchaurasiya/let-s-set-up-the-environment-for-django-40d8)
+- [An Introduction to The web framework for perfectionists with deadlines (Django)](https://dev.to/sachinchaurasiya/an-introduction-to-the-web-framework-for-perfectionists-with-deadlines-django-1m19)
 <!-- BLOG-POST-LIST:END -->
 
 ---
