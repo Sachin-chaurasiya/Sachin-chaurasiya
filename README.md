@@ -200,8 +200,8 @@ Besides all this, I love to contribute to an open-source project and currently, 
 - [MVT Pattern Of Django](https://dev.to/sachinchaurasiya/mvt-pattern-of-django-1cea)
 - [Simple Guide for Django Admin Interface](https://dev.to/sachinchaurasiya/simple-guide-for-django-admin-interface-1g6d)
 - [Understanding Django Application Lifecycle](https://dev.to/sachinchaurasiya/understanding-django-application-lifecycle-3c3o)
-- [Let's set up the Environment for Django](https://dev.to/sachinchaurasiya/let-s-set-up-the-environment-for-django-40d8)
-- [An Introduction to The web framework for perfectionists with deadlines (Django)](https://dev.to/sachinchaurasiya/an-introduction-to-the-web-framework-for-perfectionists-with-deadlines-django-1m19)
+- [Let&#39;s set up the Environment for Django](https://dev.to/sachinchaurasiya/let-s-set-up-the-environment-for-django-40d8)
+- [An Introduction to The web framework for perfectionists with deadlines &lpar;Django&rpar;](https://dev.to/sachinchaurasiya/an-introduction-to-the-web-framework-for-perfectionists-with-deadlines-django-1m19)
 <!-- BLOG-POST-LIST:END -->
 
 ---
