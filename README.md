@@ -206,7 +206,7 @@ Besides all this, I love to contribute to an open-source project and currently, 
 
 ---
 
-# Connect with me
+# How to Connect with me
 
 <a href = https://github.com/Sachin-chaurasiya><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg height='30' weight='30'></a>
 <a href = https://twitter.com/sachindotcom><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg height='30' weight='30'></a>
