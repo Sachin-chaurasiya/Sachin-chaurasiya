@@ -177,7 +177,7 @@ Besides all this, I love to contribute to an open-source project and currently, 
 
 ---
 
-# :zap: Recent Activity
+# Recent Activity :zap: 
 
 <!--START_SECTION:activity-->
 
