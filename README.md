@@ -173,7 +173,7 @@ Besides all this, I love to contribute to an open-source project and currently, 
 
 ---
 
-<!-- [![Sachin’s github activity graph](https://activity-graph.herokuapp.com/graph?username=Sachin-chaurasiya&theme=dracula)](https://github.com/Sachin-chaurasiya) -->
+[![Sachin’s github activity graph](https://activity-graph.herokuapp.com/graph?username=Sachin-chaurasiya&theme=dracula)](https://github.com/Sachin-chaurasiya)
 
 ---
 
