@@ -181,16 +181,16 @@ Besides all this, I love to contribute to an open-source project and currently, 
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#1568](https://github.com/open-metadata/OpenMetadata/pull/1568) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-2. ❗️ Opened issue [#1567](https://github.com/open-metadata/OpenMetadata/issues/1567) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-3. 💪 Opened PR [#1565](https://github.com/open-metadata/OpenMetadata/pull/1565) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-4. 🎉 Merged PR [#1564](https://github.com/open-metadata/OpenMetadata/pull/1564) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-5. ❗️ Closed issue [#247](https://github.com/open-metadata/OpenMetadata/issues/247) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-6. ❗️ Closed issue [#124](https://github.com/Tejas1510/Awesome-Javascript-and-React-Project/issues/124) in [Tejas1510/Awesome-Javascript-and-React-Project](https://github.com/Tejas1510/Awesome-Javascript-and-React-Project)
-7. ❌ Closed PR [#128](https://github.com/Tejas1510/Awesome-Javascript-and-React-Project/pull/128) in [Tejas1510/Awesome-Javascript-and-React-Project](https://github.com/Tejas1510/Awesome-Javascript-and-React-Project)
-8. 💪 Opened PR [#1538](https://github.com/open-metadata/OpenMetadata/pull/1538) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-9. ❗️ Opened issue [#1537](https://github.com/open-metadata/OpenMetadata/issues/1537) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-10. 🗣 Commented on [#1534](https://github.com/open-metadata/OpenMetadata/issues/1534) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+1. 💪 Opened PR [#1571](https://github.com/open-metadata/OpenMetadata/pull/1571) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+2. 💪 Opened PR [#1568](https://github.com/open-metadata/OpenMetadata/pull/1568) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+3. ❗️ Opened issue [#1567](https://github.com/open-metadata/OpenMetadata/issues/1567) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+4. 💪 Opened PR [#1565](https://github.com/open-metadata/OpenMetadata/pull/1565) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+5. 🎉 Merged PR [#1564](https://github.com/open-metadata/OpenMetadata/pull/1564) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+6. ❗️ Closed issue [#247](https://github.com/open-metadata/OpenMetadata/issues/247) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+7. ❗️ Closed issue [#124](https://github.com/Tejas1510/Awesome-Javascript-and-React-Project/issues/124) in [Tejas1510/Awesome-Javascript-and-React-Project](https://github.com/Tejas1510/Awesome-Javascript-and-React-Project)
+8. ❌ Closed PR [#128](https://github.com/Tejas1510/Awesome-Javascript-and-React-Project/pull/128) in [Tejas1510/Awesome-Javascript-and-React-Project](https://github.com/Tejas1510/Awesome-Javascript-and-React-Project)
+9. 💪 Opened PR [#1538](https://github.com/open-metadata/OpenMetadata/pull/1538) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+10. ❗️ Opened issue [#1537](https://github.com/open-metadata/OpenMetadata/issues/1537) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 <!--END_SECTION:activity-->
 
 # Latest Posts ✍️
