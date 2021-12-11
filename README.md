@@ -195,6 +195,7 @@ Besides all this, I love to contribute to an open-source project and currently, 
 
 # Latest Posts ✍️
 <!-- BLOG-POST-LIST:START -->
+- [Python dictionary and structuring data](https://dev.to/sachinchaurasiya/python-dictionary-and-structuring-data-djl)
 - [Learn Django Series](https://dev.to/sachinchaurasiya/learn-django-series-1721)
 - [Some of the Best Open-Source Projects to make your life easier.](https://dev.to/sachinchaurasiya/some-of-the-best-open-source-projects-to-make-your-life-easier-1lia)
 - [How to setup mongodb atlas?](https://dev.to/sachinchaurasiya/how-to-setup-mongodb-atlas-an7)
@@ -204,7 +205,6 @@ Besides all this, I love to contribute to an open-source project and currently, 
 - [Simple Guide for Django Admin Interface](https://dev.to/sachinchaurasiya/simple-guide-for-django-admin-interface-1g6d)
 - [Understanding Django Application Lifecycle](https://dev.to/sachinchaurasiya/understanding-django-application-lifecycle-3c3o)
 - [Let&#39;s set up the Environment for Django](https://dev.to/sachinchaurasiya/let-s-set-up-the-environment-for-django-40d8)
-- [An Introduction to The web framework for perfectionists with deadlines &lpar;Django&rpar;](https://dev.to/sachinchaurasiya/an-introduction-to-the-web-framework-for-perfectionists-with-deadlines-django-1m19)
 <!-- BLOG-POST-LIST:END -->
 
 ---
