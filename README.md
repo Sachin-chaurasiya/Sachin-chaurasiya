@@ -181,16 +181,16 @@ Besides all this, I love to contribute to an open-source project and currently, 
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#1723](https://github.com/open-metadata/OpenMetadata/pull/1723) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-2. ❗️ Closed issue [#1722](https://github.com/open-metadata/OpenMetadata/issues/1722) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-3. ❗️ Opened issue [#1722](https://github.com/open-metadata/OpenMetadata/issues/1722) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-4. 💪 Opened PR [#1719](https://github.com/open-metadata/OpenMetadata/pull/1719) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-5. 💪 Opened PR [#1717](https://github.com/open-metadata/OpenMetadata/pull/1717) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-6. 🎉 Merged PR [#1](https://github.com/Sachin-chaurasiya/HuluClone/pull/1) in [Sachin-chaurasiya/HuluClone](https://github.com/Sachin-chaurasiya/HuluClone)
-7. 💪 Opened PR [#1](https://github.com/Sachin-chaurasiya/HuluClone/pull/1) in [Sachin-chaurasiya/HuluClone](https://github.com/Sachin-chaurasiya/HuluClone)
-8. ❗️ Closed issue [#1626](https://github.com/open-metadata/OpenMetadata/issues/1626) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-9. 🎉 Merged PR [#1649](https://github.com/open-metadata/OpenMetadata/pull/1649) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-10. 💪 Opened PR [#1649](https://github.com/open-metadata/OpenMetadata/pull/1649) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+1. 🎉 Merged PR [#1719](https://github.com/open-metadata/OpenMetadata/pull/1719) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+2. 🎉 Merged PR [#1718](https://github.com/open-metadata/OpenMetadata/pull/1718) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+3. ❗️ Closed issue [#1703](https://github.com/open-metadata/OpenMetadata/issues/1703) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+4. 💪 Opened PR [#1723](https://github.com/open-metadata/OpenMetadata/pull/1723) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+5. ❗️ Closed issue [#1722](https://github.com/open-metadata/OpenMetadata/issues/1722) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+6. ❗️ Opened issue [#1722](https://github.com/open-metadata/OpenMetadata/issues/1722) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+7. 💪 Opened PR [#1719](https://github.com/open-metadata/OpenMetadata/pull/1719) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+8. 💪 Opened PR [#1717](https://github.com/open-metadata/OpenMetadata/pull/1717) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+9. 🎉 Merged PR [#1](https://github.com/Sachin-chaurasiya/HuluClone/pull/1) in [Sachin-chaurasiya/HuluClone](https://github.com/Sachin-chaurasiya/HuluClone)
+10. 💪 Opened PR [#1](https://github.com/Sachin-chaurasiya/HuluClone/pull/1) in [Sachin-chaurasiya/HuluClone](https://github.com/Sachin-chaurasiya/HuluClone)
 <!--END_SECTION:activity-->
 
 # Latest Posts ✍️
