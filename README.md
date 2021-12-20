@@ -23,9 +23,9 @@
 
 # About me 👨🏻‍💻
 
-Thank you for a look in. I am a passionate Full Stack developer and microblogger. Mostly I work with these technologies - Javascript, Typescript, ReactJS, Tailwind CSS, python, Django, Git, GitHub.
+Thank you for a look in. I am a passionate Full Stack developer and technical blogger. Mostly I work with these technologies - Javascript, Typescript, ReactJS, Tailwind CSS, python, Django, Git, GitHub.
 
-As I mentioned I am a microblogger and I write about Javascript, React, Python and Django on blogging platforms like hashnode, dev community.
+As I mentioned I am a technical blogger and I write about Javascript, React, Python and Django on blogging platforms like hashnode, dev community.
 
 I love to connect with people to share ideas, knowledge.
 
