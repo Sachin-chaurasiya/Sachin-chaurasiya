@@ -195,16 +195,16 @@ Besides all this, I love to contribute to an open-source project and currently, 
 
 # Latest Posts ✍️
 <!-- BLOG-POST-LIST:START -->
-- [Python dictionary and structuring data](https://dev.to/sachinchaurasiya/python-dictionary-and-structuring-data-djl)
-- [Learn Django Series](https://dev.to/sachinchaurasiya/learn-django-series-1721)
-- [Some of the Best Open-Source Projects to make your life easier.](https://dev.to/sachinchaurasiya/some-of-the-best-open-source-projects-to-make-your-life-easier-1lia)
-- [How to setup mongodb atlas?](https://dev.to/sachinchaurasiya/how-to-setup-mongodb-atlas-an7)
-- [What are Views in Django?](https://dev.to/sachinchaurasiya/what-are-views-in-django-6cd)
-- [Django project vs app](https://dev.to/sachinchaurasiya/django-project-vs-app-27dm)
-- [MVT Pattern Of Django](https://dev.to/sachinchaurasiya/mvt-pattern-of-django-1cea)
-- [Simple Guide for Django Admin Interface](https://dev.to/sachinchaurasiya/simple-guide-for-django-admin-interface-1g6d)
-- [Understanding Django Application Lifecycle](https://dev.to/sachinchaurasiya/understanding-django-application-lifecycle-3c3o)
-- [Let&#39;s set up the Environment for Django](https://dev.to/sachinchaurasiya/let-s-set-up-the-environment-for-django-40d8)
+- [5 Awesome Libraries To Use In Your Next ReactJs Project](https://blog.sachinchaurasiya.dev/5-awesome-libraries-to-use-in-your-next-reactjs-project)
+- [Python dictionary and structuring data](https://blog.sachinchaurasiya.dev/python-dictionary-and-structuring-data)
+- [How to Setup MongoDB Atlas?](https://blog.sachinchaurasiya.dev/how-to-setup-mongodb-atlas)
+- [Some of the Best Open-Source Projects to make your life easier.](https://blog.sachinchaurasiya.dev/some-of-the-best-open-source-projects-to-make-your-life-easier)
+- [What are Views in Django?](https://blog.sachinchaurasiya.dev/what-are-views-in-django)
+- [Django project vs app](https://blog.sachinchaurasiya.dev/django-project-vs-app)
+- [Mvt Pattern Of Django](https://blog.sachinchaurasiya.dev/mvt-pattern-of-django)
+- [Simple Guide for Django Admin Interface](https://blog.sachinchaurasiya.dev/simple-guide-for-django-admin-interface)
+- [Understanding Django Application LifeCycle.](https://blog.sachinchaurasiya.dev/understanding-django-application-lifecycle)
+- [What is Mongo DB ? and why it is getting more popularity?](https://blog.sachinchaurasiya.dev/what-is-mongo-db-and-why-it-is-getting-more-popularity)
 <!-- BLOG-POST-LIST:END -->
 
 ---
