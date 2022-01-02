@@ -195,6 +195,7 @@ Besides all this, I love to contribute to an open-source project and currently, 
 
 # Latest Posts ✍️
 <!-- BLOG-POST-LIST:START -->
+- [The Simple Guide to Seo For Your Application](https://blog.sachinchaurasiya.dev/the-simple-guide-to-seo-for-your-application)
 - [5 Awesome Libraries To Use In Your Next ReactJs Project](https://blog.sachinchaurasiya.dev/5-awesome-libraries-to-use-in-your-next-reactjs-project)
 - [Python dictionary and structuring data](https://blog.sachinchaurasiya.dev/python-dictionary-and-structuring-data)
 - [How to Setup MongoDB Atlas?](https://blog.sachinchaurasiya.dev/how-to-setup-mongodb-atlas)
@@ -204,7 +205,6 @@ Besides all this, I love to contribute to an open-source project and currently, 
 - [Mvt Pattern Of Django](https://blog.sachinchaurasiya.dev/mvt-pattern-of-django)
 - [Simple Guide for Django Admin Interface](https://blog.sachinchaurasiya.dev/simple-guide-for-django-admin-interface)
 - [Understanding Django Application LifeCycle.](https://blog.sachinchaurasiya.dev/understanding-django-application-lifecycle)
-- [What is Mongo DB ? and why it is getting more popularity?](https://blog.sachinchaurasiya.dev/what-is-mongo-db-and-why-it-is-getting-more-popularity)
 <!-- BLOG-POST-LIST:END -->
 
 ---
