@@ -197,7 +197,7 @@ Besides all this, I love to contribute to an open-source project and currently, 
 <!-- BLOG-POST-LIST:START -->
 - [The Simple Guide to Seo For Your Application](https://blog.sachinchaurasiya.dev/the-simple-guide-to-seo-for-your-application)
 - [5 Awesome Libraries To Use In Your Next ReactJs Project](https://blog.sachinchaurasiya.dev/5-awesome-libraries-to-use-in-your-next-reactjs-project)
-- [Python dictionary and structuring data](https://blog.sachinchaurasiya.dev/python-dictionary-and-structuring-data)
+- [An Introduction to Python Dictionary and Structuring Data](https://blog.sachinchaurasiya.dev/an-introduction-to-python-dictionary-and-structuring-data)
 - [How to Setup MongoDB Atlas?](https://blog.sachinchaurasiya.dev/how-to-setup-mongodb-atlas)
 - [Some of the Best Open-Source Projects to make your life easier.](https://blog.sachinchaurasiya.dev/some-of-the-best-open-source-projects-to-make-your-life-easier)
 - [What are Views in Django?](https://blog.sachinchaurasiya.dev/what-are-views-in-django)
