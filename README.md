@@ -1,7 +1,6 @@
  <p align="center"><img src="https://github.githubassets.com/images/icons/emoji/octocat.png" /></p>
  <p align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&size=24&width=500&height=36&lines=Hey+%F0%9F%91%8B+This+is+Sachin+Chaurasiya;Software+Engineer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;OpenSource+Contributor+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Technical+Blogger+%F0%9F%93%9D"/></p>
 
-
 <p align="center">
   
   <a href="https://www.linkedin.com/in/sachin-chaurasiya/">
@@ -177,7 +176,7 @@ Besides all this, I love to contribute to an open-source project and currently, 
 
 ---
 
-# Recent Activity :zap: 
+# Recent Activity :zap:
 
 <!--START_SECTION:activity-->
 
@@ -193,21 +192,9 @@ Besides all this, I love to contribute to an open-source project and currently, 
 10. ❗️ Opened issue [#182](https://github.com/markodenic/awesome-tech-blogs/issues/182) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
 <!--END_SECTION:activity-->
 
-# Latest Posts ✍️
-<!-- BLOG-POST-LIST:START -->
-- [The Simple Guide to Seo For Your Application](https://blog.sachinchaurasiya.dev/the-simple-guide-to-seo-for-your-application)
-- [5 Awesome Libraries To Use In Your Next ReactJs Project](https://blog.sachinchaurasiya.dev/5-awesome-libraries-to-use-in-your-next-reactjs-project)
-- [An Introduction to Python Dictionary and Structuring Data](https://blog.sachinchaurasiya.dev/an-introduction-to-python-dictionary-and-structuring-data)
-- [How to Setup MongoDB Atlas?](https://blog.sachinchaurasiya.dev/how-to-setup-mongodb-atlas)
-- [Some of the Best Open-Source Projects to make your life easier.](https://blog.sachinchaurasiya.dev/some-of-the-best-open-source-projects-to-make-your-life-easier)
-- [What are Views in Django?](https://blog.sachinchaurasiya.dev/what-are-views-in-django)
-- [Django project vs app](https://blog.sachinchaurasiya.dev/django-project-vs-app)
-- [Mvt Pattern Of Django](https://blog.sachinchaurasiya.dev/mvt-pattern-of-django)
-- [Simple Guide for Django Admin Interface](https://blog.sachinchaurasiya.dev/simple-guide-for-django-admin-interface)
-- [Understanding Django Application LifeCycle.](https://blog.sachinchaurasiya.dev/understanding-django-application-lifecycle)
-<!-- BLOG-POST-LIST:END -->
+# Latest Blog Posts ✍️
 
----
+<!-- HASHNODE_BLOG:START -->
 
 # How to Connect with me
 
