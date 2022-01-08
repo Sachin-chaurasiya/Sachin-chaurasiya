@@ -10,8 +10,6 @@
  </a>
 </p>
 
----
-
 # About me 👨🏻‍💻
 
 Thank you for a look in. I am a passionate Full Stack developer and technical blogger. Mostly I work with these technologies - Javascript, Typescript, ReactJS, Tailwind CSS, python, Django, Git, GitHub.
@@ -153,8 +151,6 @@ Besides all this, I love to contribute to an open-source project and currently, 
     
 </table>
 
----
-
 # Github Stats 📈📊
 
 <div align="center">
@@ -162,11 +158,7 @@ Besides all this, I love to contribute to an open-source project and currently, 
   <img width="48%" src="http://github-readme-streak-stats.herokuapp.com?user=Sachin-chaurasiya&theme=dracula&hide_border=true" />
 </div>
 
----
-
 [![Sachin’s github activity graph](https://activity-graph.herokuapp.com/graph?username=Sachin-chaurasiya&theme=dracula)](https://github.com/Sachin-chaurasiya)
-
----
 
 # Recent Activity :zap:
 
