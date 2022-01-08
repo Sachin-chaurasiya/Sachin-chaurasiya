@@ -182,6 +182,11 @@ Besides all this, I love to contribute to an open-source project and currently, 
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://blog.sachinchaurasiya.dev//how-to-show-your-latest-blogs-on-github-profile" title="How To Show Your Latest Blogs On GitHub Profile"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1641656369112/jgl9lKj2C.jpeg" alt="How To Show Your Latest Blogs On GitHub Profile" width="250px" align="left" /></a>
+<a href="https://blog.sachinchaurasiya.dev//how-to-show-your-latest-blogs-on-github-profile" title="How To Show Your Latest Blogs On GitHub Profile"><strong>How To Show Your Latest Blogs On GitHub Profile</strong></a>
+<br/> As a developer, we love to build our online presence and for that, we do a lot of things like sharing tips and tricks, writing in-depth guides to discuss any tech, writing tutorials on how to build x with y and all.
+we use different platforms to shar... </p> <br/> <br/>
+<p align="left">
 <a href="https://blog.sachinchaurasiya.dev//the-simple-guide-to-seo-for-your-application" title="The Simple Guide to Seo For Your Application"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1641141804806/jf65rDWnZ.png" alt="The Simple Guide to Seo For Your Application" width="250px" align="left" /></a>
 <a href="https://blog.sachinchaurasiya.dev//the-simple-guide-to-seo-for-your-application" title="The Simple Guide to Seo For Your Application"><strong>The Simple Guide to Seo For Your Application</strong></a>
 <br/> We as a developer mostly focused on solving problems and building stuff. but some other things need our focus and time. Seo(Search Engine Optimization) is one of them, and we can't say that it's not a developer job it's some Seo expert job. 
@@ -197,10 +202,4 @@ In this post, we will discuss 5 Reac... </p> <br/> <br/>
 <br/> In This article, I will discuss dictionary data type which provides a flexible way to access and organize data. Also, I will discuss how they are created, how to access, remove, add elements from them.
 
 This article defines what is dictionary data ty... </p> <br/> <br/>
-<p align="left">
-<a href="https://blog.sachinchaurasiya.dev//how-to-setup-mongodb-atlas" title="How to Setup MongoDB Atlas?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1641578521417/k4pzF780X.png" alt="How to Setup MongoDB Atlas?" width="250px" align="left" /></a>
-<a href="https://blog.sachinchaurasiya.dev//how-to-setup-mongodb-atlas" title="How to Setup MongoDB Atlas?"><strong>How to Setup MongoDB Atlas?</strong></a>
-<br/> MongoDB is a NoSQL database and we can use MongoDB with different programming languages. MongoDB can be used locally or on Cloud. so in this article will discuss how to set up MongoDB on the cloud and connect with your application.
-
-This is just for ... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
