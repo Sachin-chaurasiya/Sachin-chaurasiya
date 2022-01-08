@@ -181,4 +181,26 @@ Besides all this, I love to contribute to an open-source project and currently, 
 # Latest Blog Posts ✍️
 
 <!-- HASHNODE_BLOG:START -->
+<p align="left">
+<a href="https://blog.sachinchaurasiya.dev//the-simple-guide-to-seo-for-your-application" title="The Simple Guide to Seo For Your Application"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1641141804806/jf65rDWnZ.png" alt="The Simple Guide to Seo For Your Application" width="250px" align="left" /></a>
+<a href="https://blog.sachinchaurasiya.dev//the-simple-guide-to-seo-for-your-application" title="The Simple Guide to Seo For Your Application"><strong>The Simple Guide to Seo For Your Application</strong></a>
+<br/> We as a developer mostly focused on solving problems and building stuff. but some other things need our focus and time. Seo(Search Engine Optimization) is one of them, and we can't say that it's not a developer job it's some Seo expert job. 
+There ar... </p> <br/> <br/>
+<p align="left">
+<a href="https://blog.sachinchaurasiya.dev//5-awesome-libraries-to-use-in-your-next-reactjs-project" title="5 Awesome Libraries To Use In Your Next ReactJs Project"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1641048305462/MtwFxOW8k.jpeg" alt="5 Awesome Libraries To Use In Your Next ReactJs Project" width="250px" align="left" /></a>
+<a href="https://blog.sachinchaurasiya.dev//5-awesome-libraries-to-use-in-your-next-reactjs-project" title="5 Awesome Libraries To Use In Your Next ReactJs Project"><strong>5 Awesome Libraries To Use In Your Next ReactJs Project</strong></a>
+<br/> We all know Reactjs is a UI library using which we can build user interfaces rapidly. but Reactjs ecosystem is so rich that you can build dynamic interactive web applications just by using some external libraries.
+In this post, we will discuss 5 Reac... </p> <br/> <br/>
+<p align="left">
+<a href="https://blog.sachinchaurasiya.dev//an-introduction-to-python-dictionary-and-structuring-data" title="An Introduction to Python Dictionary and Structuring Data"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1641578268648/PxG_pZCvM.jpeg" alt="An Introduction to Python Dictionary and Structuring Data" width="250px" align="left" /></a>
+<a href="https://blog.sachinchaurasiya.dev//an-introduction-to-python-dictionary-and-structuring-data" title="An Introduction to Python Dictionary and Structuring Data"><strong>An Introduction to Python Dictionary and Structuring Data</strong></a>
+<br/> In This article, I will discuss dictionary data type which provides a flexible way to access and organize data. Also, I will discuss how they are created, how to access, remove, add elements from them.
+
+This article defines what is dictionary data ty... </p> <br/> <br/>
+<p align="left">
+<a href="https://blog.sachinchaurasiya.dev//how-to-setup-mongodb-atlas" title="How to Setup MongoDB Atlas?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1641578521417/k4pzF780X.png" alt="How to Setup MongoDB Atlas?" width="250px" align="left" /></a>
+<a href="https://blog.sachinchaurasiya.dev//how-to-setup-mongodb-atlas" title="How to Setup MongoDB Atlas?"><strong>How to Setup MongoDB Atlas?</strong></a>
+<br/> MongoDB is a NoSQL database and we can use MongoDB with different programming languages. MongoDB can be used locally or on Cloud. so in this article will discuss how to set up MongoDB on the cloud and connect with your application.
+
+This is just for ... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
