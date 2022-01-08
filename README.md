@@ -158,6 +158,8 @@ Besides all this, I love to contribute to an open-source project and currently, 
   <img width="48%" src="http://github-readme-streak-stats.herokuapp.com?user=Sachin-chaurasiya&theme=dracula&hide_border=true" />
 </div>
 
+<br/><br/>
+
 [![Sachin’s github activity graph](https://activity-graph.herokuapp.com/graph?username=Sachin-chaurasiya&theme=dracula)](https://github.com/Sachin-chaurasiya)
 
 # Recent Activity :zap:
