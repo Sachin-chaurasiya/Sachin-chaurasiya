@@ -1,19 +1,19 @@
  <p align="center"><img src="https://github.githubassets.com/images/icons/emoji/octocat.png" /></p>
  <p align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&size=24&width=500&height=36&lines=Hey+%F0%9F%91%8B+This+is+Sachin+Chaurasiya;Software+Engineer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;OpenSource+Contributor+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Technical+Blogger+%F0%9F%93%9D"/></p>
 
+### Connect with me
+
 <p align="center">
-  
-  <a href="https://www.linkedin.com/in/sachin-chaurasiya/">
-    <img  alt="Sachin's LinkedIn" title="My LinkedIn Followers" src="https://img.shields.io/badge/LinkedIn-1.3K-blue?color=blue&label=LinkedIn&logo=linkedin&logoColor=white&style=for-the-badge" />
-  </a>
+
+<a href = https://www.linkedin.com/in/sachin-chaurasiya><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg height='30' weight='30'></a>
+<a href = https://twitter.com/sachindotcom><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg height='30' weight='30'></a>
+<a href = "https://www.facebook.com/sachinchaurasiya87" ><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/facebook.svg height='30' weight='30'></a>
+
   <a href="https://sachinchaurasiya.hashnode.dev/">
     <img  alt="SachinChaurasiya Blog" title="My Blog" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
   </a>
   <a href="https://dev.to/sachinchaurasiya">
    <img alt="Sachin-chaurasiya" width="32px" title="Dev.to profile" src="https://user-images.githubusercontent.com/59080942/138895700-00d9c419-8d09-4be3-b78e-ad549d6c96dc.png"/>
- </a>
- <a href="https://g.dev/sachin-chaurasiya">
-  <img alt="sachin=chaurasiya" width="32px" title="Google developer profile" src="https://user-images.githubusercontent.com/59080942/143176678-9226ba67-980a-4b8d-bcd0-b88fe154527c.png"/>
  </a>
 
 </p>
@@ -155,13 +155,7 @@ Besides all this, I love to contribute to an open-source project and currently, 
     
 </table>
 
-# DevCard 🗂
-
-<p align="center">
-<a href="https://app.daily.dev/Sachin87"><img src="https://api.daily.dev/devcards/95d65eed8db14a28bb2842c412c75381.png?r=64p" width="400" alt="Sachin Chaurasiya's Dev Card"/></a>
- </p>
- 
- ---
+---
 
 # Github Stats 📈📊
 
@@ -195,16 +189,3 @@ Besides all this, I love to contribute to an open-source project and currently, 
 # Latest Blog Posts ✍️
 
 <!-- HASHNODE_BLOG:START -->
-
-# How to Connect with me
-
-<a href = https://github.com/Sachin-chaurasiya><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg height='30' weight='30'></a>
-<a href = https://twitter.com/sachindotcom><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg height='30' weight='30'></a>
-<a href = "https://www.instagram.com/chotey87/"><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg height='30' weight='30'></a>
-<a href = "https://www.facebook.com/sachinchaurasiya87" ><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/facebook.svg height='30' weight='30'></a>
-
-**Thanks and Regards**
-
-<hr/>
-
-[Sachin Chaurasiya](https://www.linkedin.com/in/sachin-chaurasiya/)
