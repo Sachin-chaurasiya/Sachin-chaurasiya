@@ -182,6 +182,11 @@ Besides all this, I love to contribute to an open-source project and currently, 
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://blog.sachinchaurasiya.dev//how-much-javascript-you-need-to-know-to-start-with-reactjs" title="How Much JavaScript You Need To Know To Start With ReactJs"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1641794458731/Hmq7fYzs1.png" alt="How Much JavaScript You Need To Know To Start With ReactJs" width="250px" align="left" /></a>
+<a href="https://blog.sachinchaurasiya.dev//how-much-javascript-you-need-to-know-to-start-with-reactjs" title="How Much JavaScript You Need To Know To Start With ReactJs"><strong>How Much JavaScript You Need To Know To Start With ReactJs</strong></a>
+<br/> If you are planning to learn to react then you must know the most recent JavaScript features that you will use over and over in React.
+There is no need to be an expert in these topics right away, but as you more deep dive into React, the more you wil... </p> <br/> <br/>
+<p align="left">
 <a href="https://blog.sachinchaurasiya.dev//what-is-reactjs-and-why-it-is-so-popular" title="What is ReactJs and Why it is so popular?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1641734464648/hkWx4B7_A.png" alt="What is ReactJs and Why it is so popular?" width="250px" align="left" /></a>
 <a href="https://blog.sachinchaurasiya.dev//what-is-reactjs-and-why-it-is-so-popular" title="What is ReactJs and Why it is so popular?"><strong>What is ReactJs and Why it is so popular?</strong></a>
 <br/> In this article, we will be discussing what is ReactJs and why it is so popular among developers. 
@@ -198,9 +203,4 @@ we use different platforms to shar... </p> <br/> <br/>
 <a href="https://blog.sachinchaurasiya.dev//the-simple-guide-to-seo-for-your-application" title="The Simple Guide to Seo For Your Application"><strong>The Simple Guide to Seo For Your Application</strong></a>
 <br/> We as a developer mostly focused on solving problems and building stuff. but some other things need our focus and time. Seo(Search Engine Optimization) is one of them, and we can't say that it's not a developer job it's some Seo expert job. 
 There ar... </p> <br/> <br/>
-<p align="left">
-<a href="https://blog.sachinchaurasiya.dev//5-awesome-libraries-to-use-in-your-next-reactjs-project" title="5 Awesome Libraries To Use In Your Next ReactJs Project"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1641048305462/MtwFxOW8k.jpeg" alt="5 Awesome Libraries To Use In Your Next ReactJs Project" width="250px" align="left" /></a>
-<a href="https://blog.sachinchaurasiya.dev//5-awesome-libraries-to-use-in-your-next-reactjs-project" title="5 Awesome Libraries To Use In Your Next ReactJs Project"><strong>5 Awesome Libraries To Use In Your Next ReactJs Project</strong></a>
-<br/> We all know Reactjs is a UI library using which we can build user interfaces rapidly. but Reactjs ecosystem is so rich that you can build dynamic interactive web applications just by using some external libraries.
-In this post, we will discuss 5 Reac... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
