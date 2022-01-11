@@ -182,6 +182,16 @@ Besides all this, I love to contribute to an open-source project and currently, 
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://blog.sachinchaurasiya.dev//learning-some-important-concepts-of-react-js-part-1" title="Learning Some Important Concepts of React Js (part-1)"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1641911817292/Lt4s1fKCf.png" alt="Learning Some Important Concepts of React Js (part-1)" width="250px" align="left" /></a>
+<a href="https://blog.sachinchaurasiya.dev//learning-some-important-concepts-of-react-js-part-1" title="Learning Some Important Concepts of React Js (part-1)"><strong>Learning Some Important Concepts of React Js (part-1)</strong></a>
+<br/> In this post, we'll discuss some important concepts of React Js. Some Concepts are not just related to React js instead they are universal.
+List of things that we'll discuss in this post.
+
+SPA (Single Page Application)
+Declarative
+Composition
+The Vir... </p> <br/> <br/>
+<p align="left">
 <a href="https://blog.sachinchaurasiya.dev//how-much-javascript-you-need-to-know-to-start-with-reactjs" title="How Much JavaScript You Need To Know To Start With ReactJs"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1641794458731/Hmq7fYzs1.png" alt="How Much JavaScript You Need To Know To Start With ReactJs" width="250px" align="left" /></a>
 <a href="https://blog.sachinchaurasiya.dev//how-much-javascript-you-need-to-know-to-start-with-reactjs" title="How Much JavaScript You Need To Know To Start With ReactJs"><strong>How Much JavaScript You Need To Know To Start With ReactJs</strong></a>
 <br/> If you are planning to learn to react then you must know the most recent JavaScript features that you will use over and over in React.
@@ -198,9 +208,4 @@ According to official website of reactjs, reactjs is a javascript library that i
 <a href="https://blog.sachinchaurasiya.dev//how-to-show-your-latest-blogs-on-github-profile" title="How To Show Your Latest Blogs On GitHub Profile"><strong>How To Show Your Latest Blogs On GitHub Profile</strong></a>
 <br/> As a developer, we love to build our online presence and for that, we do a lot of things like sharing tips and tricks, writing in-depth guides to discuss any tech, writing tutorials on how to build x with y and all.
 we use different platforms to shar... </p> <br/> <br/>
-<p align="left">
-<a href="https://blog.sachinchaurasiya.dev//the-simple-guide-to-seo-for-your-application" title="The Simple Guide to Seo For Your Application"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1641141804806/jf65rDWnZ.png" alt="The Simple Guide to Seo For Your Application" width="250px" align="left" /></a>
-<a href="https://blog.sachinchaurasiya.dev//the-simple-guide-to-seo-for-your-application" title="The Simple Guide to Seo For Your Application"><strong>The Simple Guide to Seo For Your Application</strong></a>
-<br/> We as a developer mostly focused on solving problems and building stuff. but some other things need our focus and time. Seo(Search Engine Optimization) is one of them, and we can't say that it's not a developer job it's some Seo expert job. 
-There ar... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
