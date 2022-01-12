@@ -182,6 +182,12 @@ Besides all this, I love to contribute to an open-source project and currently, 
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://blog.sachinchaurasiya.dev//learning-some-important-concepts-of-react-js-part-2" title="Learning Some Important Concepts of React Js (part-2)"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1641970409308/PBek5A7SB.jpeg" alt="Learning Some Important Concepts of React Js (part-2)" width="250px" align="left" /></a>
+<a href="https://blog.sachinchaurasiya.dev//learning-some-important-concepts-of-react-js-part-2" title="Learning Some Important Concepts of React Js (part-2)"><strong>Learning Some Important Concepts of React Js (part-2)</strong></a>
+<br/> In a previous article that is part-1, we discussed some important concepts of React js.
+https://blog.sachinchaurasiya.dev/learning-some-important-concepts-of-react-js-part-1 
+This is the second part of the important concepts of ReactJs and in this pa... </p> <br/> <br/>
+<p align="left">
 <a href="https://blog.sachinchaurasiya.dev//learning-some-important-concepts-of-react-js-part-1" title="Learning Some Important Concepts of React Js (part-1)"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1641911817292/Lt4s1fKCf.png" alt="Learning Some Important Concepts of React Js (part-1)" width="250px" align="left" /></a>
 <a href="https://blog.sachinchaurasiya.dev//learning-some-important-concepts-of-react-js-part-1" title="Learning Some Important Concepts of React Js (part-1)"><strong>Learning Some Important Concepts of React Js (part-1)</strong></a>
 <br/> In this post, we'll discuss some important concepts of React Js. Some Concepts are not just related to React js instead they are universal.
@@ -203,9 +209,4 @@ There is no need to be an expert in these topics right away, but as you more dee
 Let's get started 
 What is Reactjs?
 According to official website of reactjs, reactjs is a javascript library that is used for building the user interf... </p> <br/> <br/>
-<p align="left">
-<a href="https://blog.sachinchaurasiya.dev//how-to-show-your-latest-blogs-on-github-profile" title="How To Show Your Latest Blogs On GitHub Profile"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1641656369112/jgl9lKj2C.jpeg" alt="How To Show Your Latest Blogs On GitHub Profile" width="250px" align="left" /></a>
-<a href="https://blog.sachinchaurasiya.dev//how-to-show-your-latest-blogs-on-github-profile" title="How To Show Your Latest Blogs On GitHub Profile"><strong>How To Show Your Latest Blogs On GitHub Profile</strong></a>
-<br/> As a developer, we love to build our online presence and for that, we do a lot of things like sharing tips and tricks, writing in-depth guides to discuss any tech, writing tutorials on how to build x with y and all.
-we use different platforms to shar... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
