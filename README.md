@@ -182,6 +182,11 @@ Besides all this, I love to contribute to an open-source project and currently, 
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://blog.sachinchaurasiya.dev//how-to-show-recent-github-activities-on-your-profile-readme" title="How to show recent GitHub activities on your profile readme"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1641913658099/mODu4fv-P.jpeg" alt="How to show recent GitHub activities on your profile readme" width="250px" align="left" /></a>
+<a href="https://blog.sachinchaurasiya.dev//how-to-show-recent-github-activities-on-your-profile-readme" title="How to show recent GitHub activities on your profile readme"><strong>How to show recent GitHub activities on your profile readme</strong></a>
+<br/> We all know Github is a great platform to collaborate with people and contribute to open source projects.   daily, we do perform some activities on GitHub like creating an issue, creating a pull request, code review and all other things.
+These are th... </p> <br/> <br/>
+<p align="left">
 <a href="https://blog.sachinchaurasiya.dev//learning-some-important-concepts-of-react-js-part-2" title="Learning Some Important Concepts of React Js (part-2)"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1641970409308/PBek5A7SB.jpeg" alt="Learning Some Important Concepts of React Js (part-2)" width="250px" align="left" /></a>
 <a href="https://blog.sachinchaurasiya.dev//learning-some-important-concepts-of-react-js-part-2" title="Learning Some Important Concepts of React Js (part-2)"><strong>Learning Some Important Concepts of React Js (part-2)</strong></a>
 <br/> In a previous article that is part-1, we discussed some important concepts of React js.
@@ -202,11 +207,4 @@ The Vir... </p> <br/> <br/>
 <a href="https://blog.sachinchaurasiya.dev//how-much-javascript-you-need-to-know-to-start-with-reactjs" title="How Much JavaScript You Need To Know To Start With ReactJs"><strong>How Much JavaScript You Need To Know To Start With ReactJs</strong></a>
 <br/> If you are planning to learn to react then you must know the most recent JavaScript features that you will use over and over in React.
 There is no need to be an expert in these topics right away, but as you more deep dive into React, the more you wil... </p> <br/> <br/>
-<p align="left">
-<a href="https://blog.sachinchaurasiya.dev//what-is-reactjs-and-why-it-is-so-popular" title="What is ReactJs and Why it is so popular?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1641734464648/hkWx4B7_A.png" alt="What is ReactJs and Why it is so popular?" width="250px" align="left" /></a>
-<a href="https://blog.sachinchaurasiya.dev//what-is-reactjs-and-why-it-is-so-popular" title="What is ReactJs and Why it is so popular?"><strong>What is ReactJs and Why it is so popular?</strong></a>
-<br/> In this article, we will be discussing what is ReactJs and why it is so popular among developers. 
-Let's get started 
-What is Reactjs?
-According to official website of reactjs, reactjs is a javascript library that is used for building the user interf... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
