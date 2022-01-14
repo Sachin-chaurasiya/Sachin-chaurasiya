@@ -182,6 +182,11 @@ Besides all this, I love to contribute to an open-source project and currently, 
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://blog.sachinchaurasiya.dev//build-your-first-cli-application-with-typer" title="Build Your First CLI Application With Typer"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1641649653562/cKD_ncecJ.png" alt="Build Your First CLI Application With Typer" width="250px" align="left" /></a>
+<a href="https://blog.sachinchaurasiya.dev//build-your-first-cli-application-with-typer" title="Build Your First CLI Application With Typer"><strong>Build Your First CLI Application With Typer</strong></a>
+<br/> Howdy everyone, In this article, we will be building a CLI application with Typer and Python. we will build a to-do application with CRUD(Create Read Update Delete) functionality.
+Before building our to-do CLI first let's discuss what is typer and it... </p> <br/> <br/>
+<p align="left">
 <a href="https://blog.sachinchaurasiya.dev//how-to-show-recent-github-activities-on-your-profile-readme" title="How to show recent GitHub activities on your profile readme"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1641913658099/mODu4fv-P.jpeg" alt="How to show recent GitHub activities on your profile readme" width="250px" align="left" /></a>
 <a href="https://blog.sachinchaurasiya.dev//how-to-show-recent-github-activities-on-your-profile-readme" title="How to show recent GitHub activities on your profile readme"><strong>How to show recent GitHub activities on your profile readme</strong></a>
 <br/> We all know Github is a great platform to collaborate with people and contribute to open source projects.   daily, we do perform some activities on GitHub like creating an issue, creating a pull request, code review and all other things.
@@ -202,9 +207,4 @@ SPA (Single Page Application)
 Declarative
 Composition
 The Vir... </p> <br/> <br/>
-<p align="left">
-<a href="https://blog.sachinchaurasiya.dev//how-much-javascript-you-need-to-know-to-start-with-reactjs" title="How Much JavaScript You Need To Know To Start With ReactJs"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1641794458731/Hmq7fYzs1.png" alt="How Much JavaScript You Need To Know To Start With ReactJs" width="250px" align="left" /></a>
-<a href="https://blog.sachinchaurasiya.dev//how-much-javascript-you-need-to-know-to-start-with-reactjs" title="How Much JavaScript You Need To Know To Start With ReactJs"><strong>How Much JavaScript You Need To Know To Start With ReactJs</strong></a>
-<br/> If you are planning to learn to react then you must know the most recent JavaScript features that you will use over and over in React.
-There is no need to be an expert in these topics right away, but as you more deep dive into React, the more you wil... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
