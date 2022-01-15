@@ -26,11 +26,13 @@ Currently, I working as a Software Engineer in a start-up company named [deuex s
 
 Besides all this, I love to contribute to an open-source project and currently, I am contributing to the OpenMetadata Open source community.
 
-### Connect with me
 
-<a href = https://www.linkedin.com/in/sachin-chaurasiya><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg height='30' weight='30'></a>
+<div align="center">
+ <h3>Connect with me</h3>
+ <a href = https://www.linkedin.com/in/sachin-chaurasiya><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg height='30' weight='30'></a>
 <a href = https://twitter.com/sachindotcom><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg height='30' weight='30'></a>
 <a href = "https://www.facebook.com/sachinchaurasiya87" ><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/facebook.svg height='30' weight='30'></a>
+</div>
 
 # Currently 📝
 
@@ -178,7 +180,7 @@ Besides all this, I love to contribute to an open-source project and currently, 
 10. ❗️ Closed issue [#2190](https://github.com/open-metadata/OpenMetadata/issues/2190) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 <!--END_SECTION:activity-->
 
-# Latest Blog Posts ✍️
+# Recent Blog Posts ✍️
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
@@ -208,3 +210,7 @@ Declarative
 Composition
 The Vir... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
+
+# PS: I love Coffee.
+
+<a href="https://www.buymeacoffee.com/sachin87" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
