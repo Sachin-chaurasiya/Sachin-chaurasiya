@@ -168,16 +168,16 @@ Besides all this, I love to contribute to an open-source project and currently, 
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2249](https://github.com/open-metadata/OpenMetadata/pull/2249) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-2. ❗️ Closed issue [#2179](https://github.com/open-metadata/OpenMetadata/issues/2179) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-3. 🗣 Commented on [#2249](https://github.com/open-metadata/OpenMetadata/issues/2249) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-4. 💪 Opened PR [#2251](https://github.com/open-metadata/OpenMetadata/pull/2251) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-5. 💪 Opened PR [#2244](https://github.com/open-metadata/OpenMetadata/pull/2244) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-6. 💪 Opened PR [#2243](https://github.com/open-metadata/OpenMetadata/pull/2243) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-7. ❗️ Closed issue [#2158](https://github.com/open-metadata/OpenMetadata/issues/2158) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-8. 🗣 Commented on [#2158](https://github.com/open-metadata/OpenMetadata/issues/2158) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-9. 🗣 Commented on [#73](https://github.com/appwrite/docs/issues/73) in [appwrite/docs](https://github.com/appwrite/docs)
-10. 💪 Opened PR [#2214](https://github.com/open-metadata/OpenMetadata/pull/2214) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+1. 💪 Opened PR [#2258](https://github.com/open-metadata/OpenMetadata/pull/2258) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+2. 🎉 Merged PR [#2249](https://github.com/open-metadata/OpenMetadata/pull/2249) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+3. ❗️ Closed issue [#2179](https://github.com/open-metadata/OpenMetadata/issues/2179) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+4. 🗣 Commented on [#2249](https://github.com/open-metadata/OpenMetadata/issues/2249) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+5. 💪 Opened PR [#2251](https://github.com/open-metadata/OpenMetadata/pull/2251) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+6. 💪 Opened PR [#2244](https://github.com/open-metadata/OpenMetadata/pull/2244) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+7. 💪 Opened PR [#2243](https://github.com/open-metadata/OpenMetadata/pull/2243) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+8. ❗️ Closed issue [#2158](https://github.com/open-metadata/OpenMetadata/issues/2158) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+9. 🗣 Commented on [#2158](https://github.com/open-metadata/OpenMetadata/issues/2158) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+10. 🗣 Commented on [#73](https://github.com/appwrite/docs/issues/73) in [appwrite/docs](https://github.com/appwrite/docs)
 <!--END_SECTION:activity-->
 
 # Recent Blog Posts ✍️
