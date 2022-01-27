@@ -184,6 +184,11 @@ Besides all this, I love to contribute to an open-source project and currently, 
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://blog.sachinchaurasiya.dev//7-useful-websites-for-web-developers" title="7 Useful Websites For Web Developers"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1643274672274/4LMfiEsx4.png" alt="7 Useful Websites For Web Developers" width="250px" align="left" /></a>
+<a href="https://blog.sachinchaurasiya.dev//7-useful-websites-for-web-developers" title="7 Useful Websites For Web Developers"><strong>7 Useful Websites For Web Developers</strong></a>
+<br/> As web developers, daily we try to solve some problems and to solve those problems we may need to have some handy tools/websites where we can look up to.
+Today in this article, I will be sharing 7 useful websites with you that will somehow help you i... </p> <br/> <br/>
+<p align="left">
 <a href="https://blog.sachinchaurasiya.dev//top-5-websites-to-find-great-illustrations" title="Top 5 Websites To Find Great Illustrations"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1642779320101/LDStSv-0D.jpeg" alt="Top 5 Websites To Find Great Illustrations" width="250px" align="left" /></a>
 <a href="https://blog.sachinchaurasiya.dev//top-5-websites-to-find-great-illustrations" title="Top 5 Websites To Find Great Illustrations"><strong>Top 5 Websites To Find Great Illustrations</strong></a>
 <br/> When we work with website designing and development we might need to add some illustrations to give some visuals so that users can visualize what we are designing and developing.
@@ -198,12 +203,6 @@ Before building our to-do CLI first let's discuss what is typer and it... </p> <
 <a href="https://blog.sachinchaurasiya.dev//how-to-show-recent-github-activities-on-your-profile-readme" title="How to show recent GitHub activities on your profile readme"><strong>How to show recent GitHub activities on your profile readme</strong></a>
 <br/> We all know Github is a great platform to collaborate with people and contribute to open source projects.   daily, we do perform some activities on GitHub like creating an issue, creating a pull request, code review and all other things.
 These are th... </p> <br/> <br/>
-<p align="left">
-<a href="https://blog.sachinchaurasiya.dev//learning-some-important-concepts-of-react-js-part-2" title="Learning Some Important Concepts of React Js (part-2)"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1641970409308/PBek5A7SB.jpeg" alt="Learning Some Important Concepts of React Js (part-2)" width="250px" align="left" /></a>
-<a href="https://blog.sachinchaurasiya.dev//learning-some-important-concepts-of-react-js-part-2" title="Learning Some Important Concepts of React Js (part-2)"><strong>Learning Some Important Concepts of React Js (part-2)</strong></a>
-<br/> In a previous article that is part-1, we discussed some important concepts of React js.
-https://blog.sachinchaurasiya.dev/learning-some-important-concepts-of-react-js-part-1 
-This is the second part of the important concepts of ReactJs and in this pa... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 # PS: I love Coffee.
