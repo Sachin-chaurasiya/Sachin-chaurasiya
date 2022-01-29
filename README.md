@@ -20,8 +20,6 @@ I love to connect with people to share ideas, knowledge.
 
 My strength is I work with a combination of self-learning and consistency. Rather than results, I believe in the learning process to improve myself at every point.
 
-Talking about my experience I have 1 year of experience as a freelance developer where I had built web applications with technologies like WordPress, Django and React.
-
 Currently, I working as a Software Engineer in a start-up company named [deuex solutions Pvt Ltd](https://github.com/deuex-solutions).
 
 Besides all this, I love to contribute to an open-source project and currently, I am contributing to the OpenMetadata Open source community.
