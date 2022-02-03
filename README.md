@@ -166,16 +166,16 @@ Besides all this, I love to contribute to an open-source project and currently, 
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#2595](https://github.com/open-metadata/OpenMetadata/pull/2595) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-2. 💪 Opened PR [#2592](https://github.com/open-metadata/OpenMetadata/pull/2592) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-3. ❗️ Opened issue [#2590](https://github.com/open-metadata/OpenMetadata/issues/2590) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-4. 💪 Opened PR [#2589](https://github.com/open-metadata/OpenMetadata/pull/2589) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-5. ❗️ Opened issue [#2584](https://github.com/open-metadata/OpenMetadata/issues/2584) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-6. ❗️ Opened issue [#18638](https://github.com/FortAwesome/Font-Awesome/issues/18638) in [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome)
-7. 💪 Opened PR [#11](https://github.com/open-metadata/openmetadata-site/pull/11) in [open-metadata/openmetadata-site](https://github.com/open-metadata/openmetadata-site)
-8. 💪 Opened PR [#2557](https://github.com/open-metadata/OpenMetadata/pull/2557) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-9. 💪 Opened PR [#2552](https://github.com/open-metadata/OpenMetadata/pull/2552) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-10. 🗣 Commented on [#2551](https://github.com/open-metadata/OpenMetadata/issues/2551) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+1. 🎉 Merged PR [#2603](https://github.com/open-metadata/OpenMetadata/pull/2603) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+2. ❗️ Closed issue [#2549](https://github.com/open-metadata/OpenMetadata/issues/2549) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+3. 🗣 Commented on [#2528](https://github.com/open-metadata/OpenMetadata/issues/2528) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+4. 💪 Opened PR [#2595](https://github.com/open-metadata/OpenMetadata/pull/2595) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+5. 💪 Opened PR [#2592](https://github.com/open-metadata/OpenMetadata/pull/2592) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+6. ❗️ Opened issue [#2590](https://github.com/open-metadata/OpenMetadata/issues/2590) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+7. 💪 Opened PR [#2589](https://github.com/open-metadata/OpenMetadata/pull/2589) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+8. ❗️ Opened issue [#2584](https://github.com/open-metadata/OpenMetadata/issues/2584) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+9. ❗️ Opened issue [#18638](https://github.com/FortAwesome/Font-Awesome/issues/18638) in [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome)
+10. 💪 Opened PR [#11](https://github.com/open-metadata/openmetadata-site/pull/11) in [open-metadata/openmetadata-site](https://github.com/open-metadata/openmetadata-site)
 <!--END_SECTION:activity-->
 
 # Recent Blog Posts ✍️
