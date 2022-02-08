@@ -166,16 +166,16 @@ Besides all this, I love to contribute to an open-source project and currently, 
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#423](https://github.com/probablyup/markdown-to-jsx/issues/423) in [probablyup/markdown-to-jsx](https://github.com/probablyup/markdown-to-jsx)
-2. 💪 Opened PR [#2658](https://github.com/open-metadata/OpenMetadata/pull/2658) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-3. 🎉 Merged PR [#2627](https://github.com/open-metadata/OpenMetadata/pull/2627) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-4. ❗️ Opened issue [#2653](https://github.com/open-metadata/OpenMetadata/issues/2653) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-5. 🗣 Commented on [#2578](https://github.com/open-metadata/OpenMetadata/issues/2578) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-6. 🗣 Commented on [#1099](https://github.com/okta/okta-auth-js/issues/1099) in [okta/okta-auth-js](https://github.com/okta/okta-auth-js)
-7. 🗣 Commented on [#2578](https://github.com/open-metadata/OpenMetadata/issues/2578) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-8. 🗣 Commented on [#2503](https://github.com/open-metadata/OpenMetadata/issues/2503) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-9. ❗️ Closed issue [#2503](https://github.com/open-metadata/OpenMetadata/issues/2503) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-10. 💪 Opened PR [#2648](https://github.com/open-metadata/OpenMetadata/pull/2648) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+1. 💪 Opened PR [#2670](https://github.com/open-metadata/OpenMetadata/pull/2670) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+2. ❗️ Opened issue [#423](https://github.com/probablyup/markdown-to-jsx/issues/423) in [probablyup/markdown-to-jsx](https://github.com/probablyup/markdown-to-jsx)
+3. 💪 Opened PR [#2658](https://github.com/open-metadata/OpenMetadata/pull/2658) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+4. 🎉 Merged PR [#2627](https://github.com/open-metadata/OpenMetadata/pull/2627) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+5. ❗️ Opened issue [#2653](https://github.com/open-metadata/OpenMetadata/issues/2653) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+6. 🗣 Commented on [#2578](https://github.com/open-metadata/OpenMetadata/issues/2578) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+7. 🗣 Commented on [#1099](https://github.com/okta/okta-auth-js/issues/1099) in [okta/okta-auth-js](https://github.com/okta/okta-auth-js)
+8. 🗣 Commented on [#2578](https://github.com/open-metadata/OpenMetadata/issues/2578) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+9. 🗣 Commented on [#2503](https://github.com/open-metadata/OpenMetadata/issues/2503) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+10. ❗️ Closed issue [#2503](https://github.com/open-metadata/OpenMetadata/issues/2503) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 <!--END_SECTION:activity-->
 
 # Recent Blog Posts ✍️
