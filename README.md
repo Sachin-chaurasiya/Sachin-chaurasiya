@@ -168,14 +168,14 @@ Besides all this, I love to contribute to an open-source project and currently, 
 
 1. 🗣 Commented on [#7](https://github.com/ashutosh1919/react-awesome-shapes/issues/7) in [ashutosh1919/react-awesome-shapes](https://github.com/ashutosh1919/react-awesome-shapes)
 2. 🗣 Commented on [#7](https://github.com/ashutosh1919/react-awesome-shapes/issues/7) in [ashutosh1919/react-awesome-shapes](https://github.com/ashutosh1919/react-awesome-shapes)
-3. 🗣 Commented on [#3](https://github.com/ashutosh1919/react-awesome-shapes/issues/3) in [ashutosh1919/react-awesome-shapes](https://github.com/ashutosh1919/react-awesome-shapes)
-4. 🗣 Commented on [#5](https://github.com/ashutosh1919/react-awesome-shapes/issues/5) in [ashutosh1919/react-awesome-shapes](https://github.com/ashutosh1919/react-awesome-shapes)
-5. ❗️ Opened issue [#5](https://github.com/ashutosh1919/react-awesome-shapes/issues/5) in [ashutosh1919/react-awesome-shapes](https://github.com/ashutosh1919/react-awesome-shapes)
-6. 🗣 Commented on [#2](https://github.com/ashutosh1919/react-awesome-shapes/issues/2) in [ashutosh1919/react-awesome-shapes](https://github.com/ashutosh1919/react-awesome-shapes)
-7. 🗣 Commented on [#3](https://github.com/ashutosh1919/react-awesome-shapes/issues/3) in [ashutosh1919/react-awesome-shapes](https://github.com/ashutosh1919/react-awesome-shapes)
-8. 🗣 Commented on [#2](https://github.com/ashutosh1919/react-awesome-shapes/issues/2) in [ashutosh1919/react-awesome-shapes](https://github.com/ashutosh1919/react-awesome-shapes)
-9. ❗️ Opened issue [#4](https://github.com/ashutosh1919/react-awesome-shapes/issues/4) in [ashutosh1919/react-awesome-shapes](https://github.com/ashutosh1919/react-awesome-shapes)
-10. 💪 Opened PR [#3](https://github.com/ashutosh1919/react-awesome-shapes/pull/3) in [ashutosh1919/react-awesome-shapes](https://github.com/ashutosh1919/react-awesome-shapes)
+3. 🗣 Commented on [#7](https://github.com/ashutosh1919/react-awesome-shapes/issues/7) in [ashutosh1919/react-awesome-shapes](https://github.com/ashutosh1919/react-awesome-shapes)
+4. 🗣 Commented on [#3](https://github.com/ashutosh1919/react-awesome-shapes/issues/3) in [ashutosh1919/react-awesome-shapes](https://github.com/ashutosh1919/react-awesome-shapes)
+5. 🗣 Commented on [#5](https://github.com/ashutosh1919/react-awesome-shapes/issues/5) in [ashutosh1919/react-awesome-shapes](https://github.com/ashutosh1919/react-awesome-shapes)
+6. ❗️ Opened issue [#5](https://github.com/ashutosh1919/react-awesome-shapes/issues/5) in [ashutosh1919/react-awesome-shapes](https://github.com/ashutosh1919/react-awesome-shapes)
+7. 🗣 Commented on [#2](https://github.com/ashutosh1919/react-awesome-shapes/issues/2) in [ashutosh1919/react-awesome-shapes](https://github.com/ashutosh1919/react-awesome-shapes)
+8. 🗣 Commented on [#3](https://github.com/ashutosh1919/react-awesome-shapes/issues/3) in [ashutosh1919/react-awesome-shapes](https://github.com/ashutosh1919/react-awesome-shapes)
+9. 🗣 Commented on [#2](https://github.com/ashutosh1919/react-awesome-shapes/issues/2) in [ashutosh1919/react-awesome-shapes](https://github.com/ashutosh1919/react-awesome-shapes)
+10. ❗️ Opened issue [#4](https://github.com/ashutosh1919/react-awesome-shapes/issues/4) in [ashutosh1919/react-awesome-shapes](https://github.com/ashutosh1919/react-awesome-shapes)
 <!--END_SECTION:activity-->
 
 # Recent Blog Posts ✍️
