@@ -1,4 +1,10 @@
- <p align="center"><img src="https://github.githubassets.com/images/icons/emoji/octocat.png" /></p>
+ <div align="center">
+ <img width="300px" alt="SachinChaurasiya" title="Developer" src="https://user-images.githubusercontent.com/59080942/155874645-939f754a-35ee-4fed-a68a-465f55981a7f.png" />
+<!--  <p align="center"><img src="https://github.githubassets.com/images/icons/emoji/octocat.png" /></p> -->
+</div> 
+
+---
+
  <p align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&size=24&width=500&height=36&lines=Hey+%F0%9F%91%8B+This+is+Sachin+Chaurasiya;Software+Engineer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;OpenSource+Contributor+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Technical+Blogger+%F0%9F%93%9D"/></p>
 
 <p align="center">
@@ -8,6 +14,8 @@
 <a href="https://dev.to/sachinchaurasiya">
   <img alt="SachinChaurasiya Blog" title="Dev Community Profile" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
  </a>
+ <a href = https://www.linkedin.com/in/sachin-chaurasiya><img title="linkedin profile" src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg height='30' weight='30'></a>
+<a href = https://twitter.com/sachindotcom><img title="twitter profile"  src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg height='30' weight='30'></a>
 </p>
 
 # About me 👨🏻‍💻
@@ -25,12 +33,6 @@ Currently, I working as a Software Engineer in a start-up company named [deuex s
 Besides all this, I love to contribute to an open-source project and currently, I am contributing to the OpenMetadata Open source community.
 
 
-<div align="center">
- <h3>Connect with me</h3>
- <a href = https://www.linkedin.com/in/sachin-chaurasiya><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg height='30' weight='30'></a>
-<a href = https://twitter.com/sachindotcom><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg height='30' weight='30'></a>
-<a href = "https://www.facebook.com/sachinchaurasiya87" ><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/facebook.svg height='30' weight='30'></a>
-</div>
 
 # Currently 📝
 
@@ -160,7 +162,7 @@ Besides all this, I love to contribute to an open-source project and currently, 
 
 <br/><br/>
 
-[![Sachin’s github activity graph](https://activity-graph.herokuapp.com/graph?username=Sachin-chaurasiya&theme=dracula)](https://github.com/Sachin-chaurasiya)
+<!-- [![Sachin’s github activity graph](https://activity-graph.herokuapp.com/graph?username=Sachin-chaurasiya&theme=dracula)](https://github.com/Sachin-chaurasiya) -->
 
 # Recent Activity :zap:
 
