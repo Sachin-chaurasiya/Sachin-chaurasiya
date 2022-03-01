@@ -168,16 +168,16 @@ Besides all this, I love to contribute to an open-source project and currently, 
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#21](https://github.com/open-metadata/openmetadata-site/pull/21) in [open-metadata/openmetadata-site](https://github.com/open-metadata/openmetadata-site)
-2. ❗️ Opened issue [#50](https://github.com/patleeman/quill-markdown-shortcuts/issues/50) in [patleeman/quill-markdown-shortcuts](https://github.com/patleeman/quill-markdown-shortcuts)
-3. 💪 Opened PR [#3026](https://github.com/open-metadata/OpenMetadata/pull/3026) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-4. ❌ Closed PR [#3025](https://github.com/open-metadata/OpenMetadata/pull/3025) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-5. 💪 Opened PR [#3025](https://github.com/open-metadata/OpenMetadata/pull/3025) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-6. 🎉 Merged PR [#3000](https://github.com/open-metadata/OpenMetadata/pull/3000) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-7. 💪 Opened PR [#3017](https://github.com/open-metadata/OpenMetadata/pull/3017) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-8. ❗️ Opened issue [#240](https://github.com/quill-mention/quill-mention/issues/240) in [quill-mention/quill-mention](https://github.com/quill-mention/quill-mention)
-9. 🗣 Commented on [#38](https://github.com/ashutosh1919/react-awesome-shapes/issues/38) in [ashutosh1919/react-awesome-shapes](https://github.com/ashutosh1919/react-awesome-shapes)
-10. 🗣 Commented on [#2921](https://github.com/open-metadata/OpenMetadata/issues/2921) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+1. ❗️ Opened issue [#3045](https://github.com/open-metadata/OpenMetadata/issues/3045) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+2. 💪 Opened PR [#21](https://github.com/open-metadata/openmetadata-site/pull/21) in [open-metadata/openmetadata-site](https://github.com/open-metadata/openmetadata-site)
+3. ❗️ Opened issue [#50](https://github.com/patleeman/quill-markdown-shortcuts/issues/50) in [patleeman/quill-markdown-shortcuts](https://github.com/patleeman/quill-markdown-shortcuts)
+4. 💪 Opened PR [#3026](https://github.com/open-metadata/OpenMetadata/pull/3026) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+5. ❌ Closed PR [#3025](https://github.com/open-metadata/OpenMetadata/pull/3025) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+6. 💪 Opened PR [#3025](https://github.com/open-metadata/OpenMetadata/pull/3025) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+7. 🎉 Merged PR [#3000](https://github.com/open-metadata/OpenMetadata/pull/3000) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+8. 💪 Opened PR [#3017](https://github.com/open-metadata/OpenMetadata/pull/3017) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+9. ❗️ Opened issue [#240](https://github.com/quill-mention/quill-mention/issues/240) in [quill-mention/quill-mention](https://github.com/quill-mention/quill-mention)
+10. 🗣 Commented on [#38](https://github.com/ashutosh1919/react-awesome-shapes/issues/38) in [ashutosh1919/react-awesome-shapes](https://github.com/ashutosh1919/react-awesome-shapes)
 <!--END_SECTION:activity-->
 
 # Recent Blog Posts ✍️
