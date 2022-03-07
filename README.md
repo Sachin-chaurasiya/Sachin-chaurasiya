@@ -168,16 +168,16 @@ Besides all this, I love to contribute to an open-source project and currently, 
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#52](https://github.com/ashutosh1919/react-awesome-shapes/issues/52) in [ashutosh1919/react-awesome-shapes](https://github.com/ashutosh1919/react-awesome-shapes)
-2. 🎉 Merged PR [#57](https://github.com/ashutosh1919/react-awesome-shapes/pull/57) in [ashutosh1919/react-awesome-shapes](https://github.com/ashutosh1919/react-awesome-shapes)
-3. ❗️ Opened issue [#429](https://github.com/probablyup/markdown-to-jsx/issues/429) in [probablyup/markdown-to-jsx](https://github.com/probablyup/markdown-to-jsx)
-4. ❗️ Closed issue [#423](https://github.com/probablyup/markdown-to-jsx/issues/423) in [probablyup/markdown-to-jsx](https://github.com/probablyup/markdown-to-jsx)
-5. 🗣 Commented on [#3001](https://github.com/open-metadata/OpenMetadata/issues/3001) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-6. 🗣 Commented on [#3013](https://github.com/open-metadata/OpenMetadata/issues/3013) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-7. ❗️ Closed issue [#3062](https://github.com/open-metadata/OpenMetadata/issues/3062) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-8. 🗣 Commented on [#3062](https://github.com/open-metadata/OpenMetadata/issues/3062) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-9. 🗣 Commented on [#60](https://github.com/ashutosh1919/react-awesome-shapes/issues/60) in [ashutosh1919/react-awesome-shapes](https://github.com/ashutosh1919/react-awesome-shapes)
-10. 🎉 Merged PR [#55](https://github.com/ashutosh1919/react-awesome-shapes/pull/55) in [ashutosh1919/react-awesome-shapes](https://github.com/ashutosh1919/react-awesome-shapes)
+1. 🎉 Merged PR [#3198](https://github.com/open-metadata/OpenMetadata/pull/3198) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+2. ❗️ Closed issue [#3196](https://github.com/open-metadata/OpenMetadata/issues/3196) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+3. ❗️ Closed issue [#52](https://github.com/ashutosh1919/react-awesome-shapes/issues/52) in [ashutosh1919/react-awesome-shapes](https://github.com/ashutosh1919/react-awesome-shapes)
+4. 🎉 Merged PR [#57](https://github.com/ashutosh1919/react-awesome-shapes/pull/57) in [ashutosh1919/react-awesome-shapes](https://github.com/ashutosh1919/react-awesome-shapes)
+5. ❗️ Opened issue [#429](https://github.com/probablyup/markdown-to-jsx/issues/429) in [probablyup/markdown-to-jsx](https://github.com/probablyup/markdown-to-jsx)
+6. ❗️ Closed issue [#423](https://github.com/probablyup/markdown-to-jsx/issues/423) in [probablyup/markdown-to-jsx](https://github.com/probablyup/markdown-to-jsx)
+7. 🗣 Commented on [#3001](https://github.com/open-metadata/OpenMetadata/issues/3001) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+8. 🗣 Commented on [#3013](https://github.com/open-metadata/OpenMetadata/issues/3013) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+9. ❗️ Closed issue [#3062](https://github.com/open-metadata/OpenMetadata/issues/3062) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+10. 🗣 Commented on [#3062](https://github.com/open-metadata/OpenMetadata/issues/3062) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 <!--END_SECTION:activity-->
 
 # Recent Blog Posts ✍️
