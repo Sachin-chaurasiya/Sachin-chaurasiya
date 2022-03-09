@@ -168,16 +168,16 @@ Besides all this, I love to contribute to an open-source project and currently, 
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#3282](https://github.com/open-metadata/OpenMetadata/issues/3282) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-2. 🎉 Merged PR [#3296](https://github.com/open-metadata/OpenMetadata/pull/3296) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-3. 🎉 Merged PR [#3273](https://github.com/open-metadata/OpenMetadata/pull/3273) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-4. ❗️ Closed issue [#3194](https://github.com/open-metadata/OpenMetadata/issues/3194) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-5. ❗️ Closed issue [#2912](https://github.com/open-metadata/OpenMetadata/issues/2912) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-6. ❗️ Closed issue [#2920](https://github.com/open-metadata/OpenMetadata/issues/2920) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-7. ❗️ Closed issue [#3076](https://github.com/open-metadata/OpenMetadata/issues/3076) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-8. ❗️ Closed issue [#3228](https://github.com/open-metadata/OpenMetadata/issues/3228) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-9. ❗️ Closed issue [#3243](https://github.com/open-metadata/OpenMetadata/issues/3243) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-10. 🎉 Merged PR [#3272](https://github.com/open-metadata/OpenMetadata/pull/3272) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+1. 🎉 Merged PR [#68](https://github.com/ashutosh1919/react-awesome-shapes/pull/68) in [ashutosh1919/react-awesome-shapes](https://github.com/ashutosh1919/react-awesome-shapes)
+2. ❗️ Closed issue [#62](https://github.com/ashutosh1919/react-awesome-shapes/issues/62) in [ashutosh1919/react-awesome-shapes](https://github.com/ashutosh1919/react-awesome-shapes)
+3. 🗣 Commented on [#68](https://github.com/ashutosh1919/react-awesome-shapes/issues/68) in [ashutosh1919/react-awesome-shapes](https://github.com/ashutosh1919/react-awesome-shapes)
+4. ❗️ Closed issue [#3282](https://github.com/open-metadata/OpenMetadata/issues/3282) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+5. 🎉 Merged PR [#3296](https://github.com/open-metadata/OpenMetadata/pull/3296) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+6. 🎉 Merged PR [#3273](https://github.com/open-metadata/OpenMetadata/pull/3273) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+7. ❗️ Closed issue [#3194](https://github.com/open-metadata/OpenMetadata/issues/3194) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+8. ❗️ Closed issue [#2912](https://github.com/open-metadata/OpenMetadata/issues/2912) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+9. ❗️ Closed issue [#2920](https://github.com/open-metadata/OpenMetadata/issues/2920) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+10. ❗️ Closed issue [#3076](https://github.com/open-metadata/OpenMetadata/issues/3076) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 <!--END_SECTION:activity-->
 
 # Recent Blog Posts ✍️
