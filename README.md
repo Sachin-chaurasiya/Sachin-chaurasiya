@@ -168,16 +168,16 @@ Besides all this, I love to contribute to an open-source project and currently, 
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#60](https://github.com/ashutosh1919/react-awesome-shapes/issues/60) in [ashutosh1919/react-awesome-shapes](https://github.com/ashutosh1919/react-awesome-shapes)
-2. 🗣 Commented on [#60](https://github.com/ashutosh1919/react-awesome-shapes/issues/60) in [ashutosh1919/react-awesome-shapes](https://github.com/ashutosh1919/react-awesome-shapes)
-3. 🎉 Merged PR [#3336](https://github.com/open-metadata/OpenMetadata/pull/3336) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-4. 🎉 Merged PR [#3337](https://github.com/open-metadata/OpenMetadata/pull/3337) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-5. ❗️ Closed issue [#60](https://github.com/ashutosh1919/react-awesome-shapes/issues/60) in [ashutosh1919/react-awesome-shapes](https://github.com/ashutosh1919/react-awesome-shapes)
-6. 💪 Opened PR [#3337](https://github.com/open-metadata/OpenMetadata/pull/3337) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-7. 💪 Opened PR [#69](https://github.com/ashutosh1919/react-awesome-shapes/pull/69) in [ashutosh1919/react-awesome-shapes](https://github.com/ashutosh1919/react-awesome-shapes)
-8. 🎉 Merged PR [#3327](https://github.com/open-metadata/OpenMetadata/pull/3327) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-9. ❗️ Closed issue [#3310](https://github.com/open-metadata/OpenMetadata/issues/3310) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-10. ❗️ Closed issue [#3311](https://github.com/open-metadata/OpenMetadata/issues/3311) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+1. 💪 Opened PR [#3344](https://github.com/open-metadata/OpenMetadata/pull/3344) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+2. ❗️ Closed issue [#60](https://github.com/ashutosh1919/react-awesome-shapes/issues/60) in [ashutosh1919/react-awesome-shapes](https://github.com/ashutosh1919/react-awesome-shapes)
+3. 🗣 Commented on [#60](https://github.com/ashutosh1919/react-awesome-shapes/issues/60) in [ashutosh1919/react-awesome-shapes](https://github.com/ashutosh1919/react-awesome-shapes)
+4. 🎉 Merged PR [#3336](https://github.com/open-metadata/OpenMetadata/pull/3336) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+5. 🎉 Merged PR [#3337](https://github.com/open-metadata/OpenMetadata/pull/3337) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+6. ❗️ Closed issue [#60](https://github.com/ashutosh1919/react-awesome-shapes/issues/60) in [ashutosh1919/react-awesome-shapes](https://github.com/ashutosh1919/react-awesome-shapes)
+7. 💪 Opened PR [#3337](https://github.com/open-metadata/OpenMetadata/pull/3337) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+8. 💪 Opened PR [#69](https://github.com/ashutosh1919/react-awesome-shapes/pull/69) in [ashutosh1919/react-awesome-shapes](https://github.com/ashutosh1919/react-awesome-shapes)
+9. 🎉 Merged PR [#3327](https://github.com/open-metadata/OpenMetadata/pull/3327) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+10. ❗️ Closed issue [#3310](https://github.com/open-metadata/OpenMetadata/issues/3310) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 <!--END_SECTION:activity-->
 
 # Recent Blog Posts ✍️
