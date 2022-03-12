@@ -184,6 +184,12 @@ Besides all this, I love to contribute to an open-source project and currently, 
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://blog.sachinchaurasiya.dev//5-best-practices-for-reactjs" title="5 Best practices for ReactJs"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1647093503538/0aHX5-69q.png" alt="5 Best practices for ReactJs" width="250px" align="left" /></a>
+<a href="https://blog.sachinchaurasiya.dev//5-best-practices-for-reactjs" title="5 Best practices for ReactJs"><strong>5 Best practices for ReactJs</strong></a>
+<br/> Howdy people, In this article we will be discussing the 5 best ReactJs practices that will help you simplify the building of great and high-performance applications.
+Use Fragment
+We know React only allows to return one JSX element at a time, To wrap ... </p> <br/> <br/>
+<p align="left">
 <a href="https://blog.sachinchaurasiya.dev//7-useful-websites-for-web-developers" title="7 Useful Websites For Web Developers"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1643274672274/4LMfiEsx4.png" alt="7 Useful Websites For Web Developers" width="250px" align="left" /></a>
 <a href="https://blog.sachinchaurasiya.dev//7-useful-websites-for-web-developers" title="7 Useful Websites For Web Developers"><strong>7 Useful Websites For Web Developers</strong></a>
 <br/> As web developers, daily we try to solve some problems and to solve those problems we may need to have some handy tools/websites where we can look up to.
@@ -198,11 +204,6 @@ To add illustrations we need to find or create one that matches our req... </p> 
 <a href="https://blog.sachinchaurasiya.dev//build-your-first-cli-application-with-typer" title="Build Your First CLI Application With Typer"><strong>Build Your First CLI Application With Typer</strong></a>
 <br/> Howdy everyone, In this article, we will be building a CLI application with Typer and Python. we will build a to-do application with CRUD(Create Read Update Delete) functionality.
 Before building our to-do CLI first let's discuss what is typer and it... </p> <br/> <br/>
-<p align="left">
-<a href="https://blog.sachinchaurasiya.dev//how-to-show-recent-github-activities-on-your-profile-readme" title="How to show recent GitHub activities on your profile readme"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1641913658099/mODu4fv-P.jpeg" alt="How to show recent GitHub activities on your profile readme" width="250px" align="left" /></a>
-<a href="https://blog.sachinchaurasiya.dev//how-to-show-recent-github-activities-on-your-profile-readme" title="How to show recent GitHub activities on your profile readme"><strong>How to show recent GitHub activities on your profile readme</strong></a>
-<br/> We all know Github is a great platform to collaborate with people and contribute to open source projects.   daily, we do perform some activities on GitHub like creating an issue, creating a pull request, code review and all other things.
-These are th... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 # PS: I love Coffee.
