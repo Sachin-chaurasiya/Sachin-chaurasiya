@@ -168,16 +168,16 @@ Besides all this, I love to contribute to an open-source project and currently, 
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#2](https://github.com/ashutosh1919/react-awesome-shapes/issues/2) in [ashutosh1919/react-awesome-shapes](https://github.com/ashutosh1919/react-awesome-shapes)
-2. 🗣 Commented on [#2](https://github.com/ashutosh1919/react-awesome-shapes/issues/2) in [ashutosh1919/react-awesome-shapes](https://github.com/ashutosh1919/react-awesome-shapes)
-3. ❗️ Closed issue [#78](https://github.com/ashutosh1919/react-awesome-shapes/issues/78) in [ashutosh1919/react-awesome-shapes](https://github.com/ashutosh1919/react-awesome-shapes)
-4. 🎉 Merged PR [#81](https://github.com/ashutosh1919/react-awesome-shapes/pull/81) in [ashutosh1919/react-awesome-shapes](https://github.com/ashutosh1919/react-awesome-shapes)
-5. 💪 Opened PR [#81](https://github.com/ashutosh1919/react-awesome-shapes/pull/81) in [ashutosh1919/react-awesome-shapes](https://github.com/ashutosh1919/react-awesome-shapes)
-6. 🗣 Commented on [#78](https://github.com/ashutosh1919/react-awesome-shapes/issues/78) in [ashutosh1919/react-awesome-shapes](https://github.com/ashutosh1919/react-awesome-shapes)
-7. 🎉 Merged PR [#80](https://github.com/ashutosh1919/react-awesome-shapes/pull/80) in [ashutosh1919/react-awesome-shapes](https://github.com/ashutosh1919/react-awesome-shapes)
-8. 🗣 Commented on [#79](https://github.com/ashutosh1919/react-awesome-shapes/issues/79) in [ashutosh1919/react-awesome-shapes](https://github.com/ashutosh1919/react-awesome-shapes)
-9. 🎉 Merged PR [#79](https://github.com/ashutosh1919/react-awesome-shapes/pull/79) in [ashutosh1919/react-awesome-shapes](https://github.com/ashutosh1919/react-awesome-shapes)
-10. ❗️ Closed issue [#78](https://github.com/ashutosh1919/react-awesome-shapes/issues/78) in [ashutosh1919/react-awesome-shapes](https://github.com/ashutosh1919/react-awesome-shapes)
+1. 🗣 Commented on [#82](https://github.com/ashutosh1919/react-awesome-shapes/issues/82) in [ashutosh1919/react-awesome-shapes](https://github.com/ashutosh1919/react-awesome-shapes)
+2. 🎉 Merged PR [#83](https://github.com/ashutosh1919/react-awesome-shapes/pull/83) in [ashutosh1919/react-awesome-shapes](https://github.com/ashutosh1919/react-awesome-shapes)
+3. 💪 Opened PR [#83](https://github.com/ashutosh1919/react-awesome-shapes/pull/83) in [ashutosh1919/react-awesome-shapes](https://github.com/ashutosh1919/react-awesome-shapes)
+4. ❗️ Closed issue [#2](https://github.com/ashutosh1919/react-awesome-shapes/issues/2) in [ashutosh1919/react-awesome-shapes](https://github.com/ashutosh1919/react-awesome-shapes)
+5. 🗣 Commented on [#2](https://github.com/ashutosh1919/react-awesome-shapes/issues/2) in [ashutosh1919/react-awesome-shapes](https://github.com/ashutosh1919/react-awesome-shapes)
+6. ❗️ Closed issue [#78](https://github.com/ashutosh1919/react-awesome-shapes/issues/78) in [ashutosh1919/react-awesome-shapes](https://github.com/ashutosh1919/react-awesome-shapes)
+7. 🎉 Merged PR [#81](https://github.com/ashutosh1919/react-awesome-shapes/pull/81) in [ashutosh1919/react-awesome-shapes](https://github.com/ashutosh1919/react-awesome-shapes)
+8. 💪 Opened PR [#81](https://github.com/ashutosh1919/react-awesome-shapes/pull/81) in [ashutosh1919/react-awesome-shapes](https://github.com/ashutosh1919/react-awesome-shapes)
+9. 🗣 Commented on [#78](https://github.com/ashutosh1919/react-awesome-shapes/issues/78) in [ashutosh1919/react-awesome-shapes](https://github.com/ashutosh1919/react-awesome-shapes)
+10. 🎉 Merged PR [#80](https://github.com/ashutosh1919/react-awesome-shapes/pull/80) in [ashutosh1919/react-awesome-shapes](https://github.com/ashutosh1919/react-awesome-shapes)
 <!--END_SECTION:activity-->
 
 # Recent Blog Posts ✍️
