@@ -30,7 +30,7 @@ My strength is I work with a combination of self-learning and consistency. Rathe
 
 Currently, I working as a Software Engineer in a start-up company named [deuex solutions Pvt Ltd](https://github.com/deuex-solutions).
 
-Besides all this, I love to contribute to an open-source project and currently, I am contributing to the OpenMetadata Open source community.
+Besides all this, I love to contribute to an open-source project and currently, I am contributing to [Open-metadata](https://github.com/open-metadata/OpenMetadata) and [react-awesome-shapes](https://github.com/ashutosh1919/react-awesome-shapes) Open source community.
 
 
 
