@@ -184,6 +184,13 @@ Besides all this, I love to contribute to an open-source project and currently, 
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://blog.sachinchaurasiya.dev//5-amazing-resources-to-find-colours-for-your-product-or-website" title="5 Amazing Resources To Find Colours For Your Product or Website"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1647795732842/bXKDR5dR8.jpeg" alt="5 Amazing Resources To Find Colours For Your Product or Website" width="250px" align="left" /></a>
+<a href="https://blog.sachinchaurasiya.dev//5-amazing-resources-to-find-colours-for-your-product-or-website" title="5 Amazing Resources To Find Colours For Your Product or Website"><strong>5 Amazing Resources To Find Colours For Your Product or Website</strong></a>
+<br/> Howdy people, are you running out of colours for your product or website?
+don't worry, today I will share the 5 amazing resources you can use to choose colours.
+Colorffy
+Create gradients or palettes, save one of the many fantastic colour schemes or u... </p> <br/> <br/>
+<p align="left">
 <a href="https://blog.sachinchaurasiya.dev//5-best-practices-for-reactjs" title="5 Best practices for ReactJs"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1647093503538/0aHX5-69q.png" alt="5 Best practices for ReactJs" width="250px" align="left" /></a>
 <a href="https://blog.sachinchaurasiya.dev//5-best-practices-for-reactjs" title="5 Best practices for ReactJs"><strong>5 Best practices for ReactJs</strong></a>
 <br/> Howdy people, In this article we will be discussing the 5 best ReactJs practices that will help you simplify the building of great and high-performance applications.
@@ -199,11 +206,6 @@ Today in this article, I will be sharing 7 useful websites with you that will so
 <a href="https://blog.sachinchaurasiya.dev//top-5-websites-to-find-great-illustrations" title="Top 5 Websites To Find Great Illustrations"><strong>Top 5 Websites To Find Great Illustrations</strong></a>
 <br/> When we work with website designing and development we might need to add some illustrations to give some visuals so that users can visualize what we are designing and developing.
 To add illustrations we need to find or create one that matches our req... </p> <br/> <br/>
-<p align="left">
-<a href="https://blog.sachinchaurasiya.dev//build-your-first-cli-application-with-typer" title="Build Your First CLI Application With Typer"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1641649653562/cKD_ncecJ.png" alt="Build Your First CLI Application With Typer" width="250px" align="left" /></a>
-<a href="https://blog.sachinchaurasiya.dev//build-your-first-cli-application-with-typer" title="Build Your First CLI Application With Typer"><strong>Build Your First CLI Application With Typer</strong></a>
-<br/> Howdy everyone, In this article, we will be building a CLI application with Typer and Python. we will build a to-do application with CRUD(Create Read Update Delete) functionality.
-Before building our to-do CLI first let's discuss what is typer and it... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 # PS: I love Coffee.
