@@ -168,16 +168,16 @@ Besides all this, I love to contribute to an open-source project and currently, 
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#3797](https://github.com/open-metadata/OpenMetadata/pull/3797) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-2. 🗣 Commented on [#3796](https://github.com/open-metadata/OpenMetadata/issues/3796) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-3. 💪 Opened PR [#3796](https://github.com/open-metadata/OpenMetadata/pull/3796) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-4. ❗️ Opened issue [#3793](https://github.com/open-metadata/OpenMetadata/issues/3793) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-5. 🎉 Merged PR [#3783](https://github.com/open-metadata/OpenMetadata/pull/3783) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-6. 💪 Opened PR [#3788](https://github.com/open-metadata/OpenMetadata/pull/3788) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-7. 💪 Opened PR [#3783](https://github.com/open-metadata/OpenMetadata/pull/3783) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-8. 🗣 Commented on [#3755](https://github.com/open-metadata/OpenMetadata/issues/3755) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-9. 💪 Opened PR [#3755](https://github.com/open-metadata/OpenMetadata/pull/3755) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-10. ❗️ Opened issue [#3754](https://github.com/open-metadata/OpenMetadata/issues/3754) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+1. ❗️ Closed issue [#5](https://github.com/Sachin-chaurasiya/MDEditor/issues/5) in [Sachin-chaurasiya/MDEditor](https://github.com/Sachin-chaurasiya/MDEditor)
+2. ❗️ Closed issue [#4](https://github.com/Sachin-chaurasiya/MDEditor/issues/4) in [Sachin-chaurasiya/MDEditor](https://github.com/Sachin-chaurasiya/MDEditor)
+3. ❗️ Closed issue [#3](https://github.com/Sachin-chaurasiya/MDEditor/issues/3) in [Sachin-chaurasiya/MDEditor](https://github.com/Sachin-chaurasiya/MDEditor)
+4. ❗️ Closed issue [#2](https://github.com/Sachin-chaurasiya/MDEditor/issues/2) in [Sachin-chaurasiya/MDEditor](https://github.com/Sachin-chaurasiya/MDEditor)
+5. ❗️ Closed issue [#1](https://github.com/Sachin-chaurasiya/MDEditor/issues/1) in [Sachin-chaurasiya/MDEditor](https://github.com/Sachin-chaurasiya/MDEditor)
+6. ❌ Closed PR [#27](https://github.com/github/text-expander-element/pull/27) in [github/text-expander-element](https://github.com/github/text-expander-element)
+7. 🗣 Commented on [#27](https://github.com/github/text-expander-element/issues/27) in [github/text-expander-element](https://github.com/github/text-expander-element)
+8. 💪 Opened PR [#3797](https://github.com/open-metadata/OpenMetadata/pull/3797) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+9. 🗣 Commented on [#3796](https://github.com/open-metadata/OpenMetadata/issues/3796) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+10. 💪 Opened PR [#3796](https://github.com/open-metadata/OpenMetadata/pull/3796) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 <!--END_SECTION:activity-->
 
 # Recent Blog Posts ✍️
