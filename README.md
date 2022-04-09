@@ -207,7 +207,3 @@ Today in this article, I will be sharing 7 useful websites with you that will so
 <br/> When we work with website designing and development we might need to add some illustrations to give some visuals so that users can visualize what we are designing and developing.
 To add illustrations we need to find or create one that matches our req... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
-
-# PS: I love Coffee.
-
-<a href="https://www.buymeacoffee.com/sachin87" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
