@@ -20,17 +20,18 @@
 
 # About me 👨🏻‍💻
 
-Thank you for a look in. I am a passionate Full Stack developer and technical blogger. Mostly I work with these technologies - Javascript, Typescript, ReactJS, Tailwind CSS, python, Django, Git, GitHub.
+Thank you for a look in. I'm a Full Stack developer and a technical blogger. Javascript, Typescript, ReactJS, Tailwind CSS, Python, Django, Git, and GitHub are the technologies I use most often.
 
-As I mentioned I am a technical blogger and I write about Javascript, React, Python and Django on blogging platforms like hashnode, dev community.
+I write about Javascript, React, Python, and Django on platforms like hashnode, and I am also involved in dev communities.
 
-I love to connect with people to share ideas, knowledge.
+I enjoy connecting with people to share ideas and knowledge.
 
-My strength is I work with a combination of self-learning and consistency. Rather than results, I believe in the learning process to improve myself at every point.
+My strength lies in a combination of self-learning and consistency. To improve myself at every moment, I believe in the learning process rather than results.
 
-Currently, I working as a Software Engineer in a start-up company named [deuex solutions Pvt Ltd](https://github.com/deuex-solutions).
+Currently, I am working for a start-up company named [Deuex solutions Pvt Ltd](https://github.com/deuex-solutions).
 
-Besides all this, I love to contribute to an open-source project and currently, I am contributing to [Open-metadata](https://github.com/open-metadata/OpenMetadata) and [react-awesome-shapes](https://github.com/ashutosh1919/react-awesome-shapes) Open source community.
+Along with all of this, I am passionate about contributing to an open-source project. Currently, I am contributing to the [OpenMetadata](https://github.com/open-metadata) and [react-awesome-shapes](https://github.com/ashutosh1919/react-awesome-shapes) open-source community
+.
 
 
 
