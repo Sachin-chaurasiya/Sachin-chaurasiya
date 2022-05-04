@@ -169,16 +169,16 @@ Along with all of this, I am passionate about contributing to an open-source pro
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#4702](https://github.com/open-metadata/OpenMetadata/pull/4702) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-2. 💪 Opened PR [#4650](https://github.com/open-metadata/OpenMetadata/pull/4650) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-3. 💪 Opened PR [#4644](https://github.com/open-metadata/OpenMetadata/pull/4644) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-4. ❗️ Opened issue [#4643](https://github.com/open-metadata/OpenMetadata/issues/4643) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-5. 🗣 Commented on [#1](https://github.com/Sachin-chaurasiya/Typer-Todo-CLI/issues/1) in [Sachin-chaurasiya/Typer-Todo-CLI](https://github.com/Sachin-chaurasiya/Typer-Todo-CLI)
-6. 💪 Opened PR [#4532](https://github.com/open-metadata/OpenMetadata/pull/4532) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-7. 💪 Opened PR [#4472](https://github.com/open-metadata/OpenMetadata/pull/4472) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-8. 🗣 Commented on [#4280](https://github.com/open-metadata/OpenMetadata/issues/4280) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-9. 💪 Opened PR [#4458](https://github.com/open-metadata/OpenMetadata/pull/4458) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-10. 💪 Opened PR [#4432](https://github.com/open-metadata/OpenMetadata/pull/4432) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+1. 💪 Opened PR [#4704](https://github.com/open-metadata/OpenMetadata/pull/4704) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+2. 💪 Opened PR [#4702](https://github.com/open-metadata/OpenMetadata/pull/4702) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+3. 💪 Opened PR [#4650](https://github.com/open-metadata/OpenMetadata/pull/4650) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+4. 💪 Opened PR [#4644](https://github.com/open-metadata/OpenMetadata/pull/4644) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+5. ❗️ Opened issue [#4643](https://github.com/open-metadata/OpenMetadata/issues/4643) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+6. 🗣 Commented on [#1](https://github.com/Sachin-chaurasiya/Typer-Todo-CLI/issues/1) in [Sachin-chaurasiya/Typer-Todo-CLI](https://github.com/Sachin-chaurasiya/Typer-Todo-CLI)
+7. 💪 Opened PR [#4532](https://github.com/open-metadata/OpenMetadata/pull/4532) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+8. 💪 Opened PR [#4472](https://github.com/open-metadata/OpenMetadata/pull/4472) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+9. 🗣 Commented on [#4280](https://github.com/open-metadata/OpenMetadata/issues/4280) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+10. 💪 Opened PR [#4458](https://github.com/open-metadata/OpenMetadata/pull/4458) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 <!--END_SECTION:activity-->
 
 # Recent Blog Posts ✍️
