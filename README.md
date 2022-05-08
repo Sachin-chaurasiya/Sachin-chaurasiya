@@ -101,7 +101,7 @@ Along with all of this, I am passionate about contributing to an open-source pro
     </td>
    <td align="center" width="96">
       <a href="#">
-        <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.cb8046c163f77190406dfbf4dec89848.svg" width="48" height="48" alt="TailWind" />
+        <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailWind" />
       </a>
       <br>TailWind CSS
     </td>
