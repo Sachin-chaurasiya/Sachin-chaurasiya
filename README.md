@@ -166,14 +166,14 @@ Along with all of this, I am passionate about contributing to an open-source pro
 
 1. 🗣 Commented on [#102](https://github.com/atapas/react-play/issues/102) in [atapas/react-play](https://github.com/atapas/react-play)
 2. 🗣 Commented on [#102](https://github.com/atapas/react-play/issues/102) in [atapas/react-play](https://github.com/atapas/react-play)
-3. 🗣 Commented on [#212](https://github.com/atapas/react-play/issues/212) in [atapas/react-play](https://github.com/atapas/react-play)
+3. 🗣 Commented on [#102](https://github.com/atapas/react-play/issues/102) in [atapas/react-play](https://github.com/atapas/react-play)
 4. 🗣 Commented on [#212](https://github.com/atapas/react-play/issues/212) in [atapas/react-play](https://github.com/atapas/react-play)
 5. 🗣 Commented on [#212](https://github.com/atapas/react-play/issues/212) in [atapas/react-play](https://github.com/atapas/react-play)
 6. 🗣 Commented on [#212](https://github.com/atapas/react-play/issues/212) in [atapas/react-play](https://github.com/atapas/react-play)
-7. ❗️ Opened issue [#212](https://github.com/atapas/react-play/issues/212) in [atapas/react-play](https://github.com/atapas/react-play)
-8. 🗣 Commented on [#5076](https://github.com/open-metadata/OpenMetadata/issues/5076) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+7. 🗣 Commented on [#212](https://github.com/atapas/react-play/issues/212) in [atapas/react-play](https://github.com/atapas/react-play)
+8. ❗️ Opened issue [#212](https://github.com/atapas/react-play/issues/212) in [atapas/react-play](https://github.com/atapas/react-play)
 9. 🗣 Commented on [#5076](https://github.com/open-metadata/OpenMetadata/issues/5076) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-10. 💪 Opened PR [#5076](https://github.com/open-metadata/OpenMetadata/pull/5076) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+10. 🗣 Commented on [#5076](https://github.com/open-metadata/OpenMetadata/issues/5076) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 <!--END_SECTION:activity-->
 
 # Recent Blog Posts ✍️
