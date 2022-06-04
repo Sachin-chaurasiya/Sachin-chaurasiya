@@ -36,8 +36,6 @@ Along with all of this, I am passionate about contributing to an open-source pro
 
 # Currently 📝
 
-- 🌱 I am currently looking to collaborate on Web Projects
-
 - 👉 Contributing to [Open-metadata](https://github.com/open-metadata/OpenMetadata) and [react-awesome-shapes](https://github.com/ashutosh1919/react-awesome-shapes) Open source community.
 
 # Languages and Tools 🛠
