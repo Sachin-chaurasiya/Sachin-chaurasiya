@@ -166,16 +166,16 @@ Along with all of this, I am passionate about contributing to an open-source pro
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#41](https://github.com/Evavic44/portfolio-ideas/pull/41) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
-2. 🎉 Merged PR [#5284](https://github.com/open-metadata/OpenMetadata/pull/5284) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-3. ❗️ Closed issue [#5250](https://github.com/open-metadata/OpenMetadata/issues/5250) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-4. ❗️ Closed issue [#5229](https://github.com/open-metadata/OpenMetadata/issues/5229) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-5. 🎉 Merged PR [#5283](https://github.com/open-metadata/OpenMetadata/pull/5283) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-6. 💪 Opened PR [#5284](https://github.com/open-metadata/OpenMetadata/pull/5284) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-7. 🗣 Commented on [#5269](https://github.com/open-metadata/OpenMetadata/issues/5269) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-8. 💪 Opened PR [#5278](https://github.com/open-metadata/OpenMetadata/pull/5278) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-9. 🗣 Commented on [#1283](https://github.com/open-metadata/OpenMetadata/issues/1283) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-10. ❗️ Closed issue [#1283](https://github.com/open-metadata/OpenMetadata/issues/1283) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+1. 🗣 Commented on [#41](https://github.com/Evavic44/portfolio-ideas/issues/41) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+2. 💪 Opened PR [#41](https://github.com/Evavic44/portfolio-ideas/pull/41) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+3. 🎉 Merged PR [#5284](https://github.com/open-metadata/OpenMetadata/pull/5284) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+4. ❗️ Closed issue [#5250](https://github.com/open-metadata/OpenMetadata/issues/5250) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+5. ❗️ Closed issue [#5229](https://github.com/open-metadata/OpenMetadata/issues/5229) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+6. 🎉 Merged PR [#5283](https://github.com/open-metadata/OpenMetadata/pull/5283) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+7. 💪 Opened PR [#5284](https://github.com/open-metadata/OpenMetadata/pull/5284) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+8. 🗣 Commented on [#5269](https://github.com/open-metadata/OpenMetadata/issues/5269) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+9. 💪 Opened PR [#5278](https://github.com/open-metadata/OpenMetadata/pull/5278) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+10. 🗣 Commented on [#1283](https://github.com/open-metadata/OpenMetadata/issues/1283) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 <!--END_SECTION:activity-->
 
 # Recent Blog Posts ✍️
