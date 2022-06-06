@@ -166,16 +166,16 @@ Along with all of this, I am passionate about contributing to an open-source pro
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#5314](https://github.com/open-metadata/OpenMetadata/pull/5314) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-2. 💪 Opened PR [#5312](https://github.com/open-metadata/OpenMetadata/pull/5312) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-3. 🗣 Commented on [#280](https://github.com/reactplay/react-play/issues/280) in [reactplay/react-play](https://github.com/reactplay/react-play)
-4. 🗣 Commented on [#91](https://github.com/ashutosh1919/react-awesome-shapes/issues/91) in [ashutosh1919/react-awesome-shapes](https://github.com/ashutosh1919/react-awesome-shapes)
-5. 🗣 Commented on [#41](https://github.com/Evavic44/portfolio-ideas/issues/41) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+1. ❗️ Opened issue [#5324](https://github.com/open-metadata/OpenMetadata/issues/5324) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+2. 💪 Opened PR [#5314](https://github.com/open-metadata/OpenMetadata/pull/5314) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+3. 💪 Opened PR [#5312](https://github.com/open-metadata/OpenMetadata/pull/5312) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+4. 🗣 Commented on [#280](https://github.com/reactplay/react-play/issues/280) in [reactplay/react-play](https://github.com/reactplay/react-play)
+5. 🗣 Commented on [#91](https://github.com/ashutosh1919/react-awesome-shapes/issues/91) in [ashutosh1919/react-awesome-shapes](https://github.com/ashutosh1919/react-awesome-shapes)
 6. 🗣 Commented on [#41](https://github.com/Evavic44/portfolio-ideas/issues/41) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
 7. 🗣 Commented on [#41](https://github.com/Evavic44/portfolio-ideas/issues/41) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
-8. 💪 Opened PR [#41](https://github.com/Evavic44/portfolio-ideas/pull/41) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
-9. 🎉 Merged PR [#5284](https://github.com/open-metadata/OpenMetadata/pull/5284) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-10. ❗️ Closed issue [#5250](https://github.com/open-metadata/OpenMetadata/issues/5250) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+8. 🗣 Commented on [#41](https://github.com/Evavic44/portfolio-ideas/issues/41) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+9. 💪 Opened PR [#41](https://github.com/Evavic44/portfolio-ideas/pull/41) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+10. 🎉 Merged PR [#5284](https://github.com/open-metadata/OpenMetadata/pull/5284) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 <!--END_SECTION:activity-->
 
 # Recent Blog Posts ✍️
