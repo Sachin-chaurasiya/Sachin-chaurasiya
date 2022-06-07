@@ -166,16 +166,16 @@ Along with all of this, I am passionate about contributing to an open-source pro
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#5330](https://github.com/open-metadata/OpenMetadata/issues/5330) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-2. ❗️ Opened issue [#5324](https://github.com/open-metadata/OpenMetadata/issues/5324) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-3. 💪 Opened PR [#5314](https://github.com/open-metadata/OpenMetadata/pull/5314) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-4. 💪 Opened PR [#5312](https://github.com/open-metadata/OpenMetadata/pull/5312) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-5. 🗣 Commented on [#280](https://github.com/reactplay/react-play/issues/280) in [reactplay/react-play](https://github.com/reactplay/react-play)
-6. 🗣 Commented on [#91](https://github.com/ashutosh1919/react-awesome-shapes/issues/91) in [ashutosh1919/react-awesome-shapes](https://github.com/ashutosh1919/react-awesome-shapes)
-7. 🗣 Commented on [#41](https://github.com/Evavic44/portfolio-ideas/issues/41) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+1. 🗣 Commented on [#5331](https://github.com/open-metadata/OpenMetadata/issues/5331) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+2. 🗣 Commented on [#5330](https://github.com/open-metadata/OpenMetadata/issues/5330) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+3. ❗️ Opened issue [#5324](https://github.com/open-metadata/OpenMetadata/issues/5324) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+4. 💪 Opened PR [#5314](https://github.com/open-metadata/OpenMetadata/pull/5314) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+5. 💪 Opened PR [#5312](https://github.com/open-metadata/OpenMetadata/pull/5312) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+6. 🗣 Commented on [#280](https://github.com/reactplay/react-play/issues/280) in [reactplay/react-play](https://github.com/reactplay/react-play)
+7. 🗣 Commented on [#91](https://github.com/ashutosh1919/react-awesome-shapes/issues/91) in [ashutosh1919/react-awesome-shapes](https://github.com/ashutosh1919/react-awesome-shapes)
 8. 🗣 Commented on [#41](https://github.com/Evavic44/portfolio-ideas/issues/41) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
 9. 🗣 Commented on [#41](https://github.com/Evavic44/portfolio-ideas/issues/41) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
-10. 💪 Opened PR [#41](https://github.com/Evavic44/portfolio-ideas/pull/41) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+10. 🗣 Commented on [#41](https://github.com/Evavic44/portfolio-ideas/issues/41) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
 <!--END_SECTION:activity-->
 
 # Recent Blog Posts ✍️
