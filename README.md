@@ -166,16 +166,16 @@ Along with all of this, I am passionate about contributing to an open-source pro
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#5425](https://github.com/open-metadata/OpenMetadata/pull/5425) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-2. 🎉 Merged PR [#37](https://github.com/open-metadata/openmetadata-site/pull/37) in [open-metadata/openmetadata-site](https://github.com/open-metadata/openmetadata-site)
-3. 🗣 Commented on [#305](https://github.com/reactplay/react-play/issues/305) in [reactplay/react-play](https://github.com/reactplay/react-play)
-4. 💪 Opened PR [#37](https://github.com/open-metadata/openmetadata-site/pull/37) in [open-metadata/openmetadata-site](https://github.com/open-metadata/openmetadata-site)
-5. 🗣 Commented on [#5371](https://github.com/open-metadata/OpenMetadata/issues/5371) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-6. 🗣 Commented on [#7](https://github.com/atapas/markdown-cheatsheet/issues/7) in [atapas/markdown-cheatsheet](https://github.com/atapas/markdown-cheatsheet)
-7. 💪 Opened PR [#7](https://github.com/atapas/markdown-cheatsheet/pull/7) in [atapas/markdown-cheatsheet](https://github.com/atapas/markdown-cheatsheet)
-8. 💪 Opened PR [#5421](https://github.com/open-metadata/OpenMetadata/pull/5421) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-9. 🗣 Commented on [#5](https://github.com/atapas/markdown-cheatsheet/issues/5) in [atapas/markdown-cheatsheet](https://github.com/atapas/markdown-cheatsheet)
-10. ❗️ Opened issue [#5](https://github.com/atapas/markdown-cheatsheet/issues/5) in [atapas/markdown-cheatsheet](https://github.com/atapas/markdown-cheatsheet)
+1. 💪 Opened PR [#5427](https://github.com/open-metadata/OpenMetadata/pull/5427) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+2. 🎉 Merged PR [#5425](https://github.com/open-metadata/OpenMetadata/pull/5425) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+3. 🎉 Merged PR [#37](https://github.com/open-metadata/openmetadata-site/pull/37) in [open-metadata/openmetadata-site](https://github.com/open-metadata/openmetadata-site)
+4. 🗣 Commented on [#305](https://github.com/reactplay/react-play/issues/305) in [reactplay/react-play](https://github.com/reactplay/react-play)
+5. 💪 Opened PR [#37](https://github.com/open-metadata/openmetadata-site/pull/37) in [open-metadata/openmetadata-site](https://github.com/open-metadata/openmetadata-site)
+6. 🗣 Commented on [#5371](https://github.com/open-metadata/OpenMetadata/issues/5371) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+7. 🗣 Commented on [#7](https://github.com/atapas/markdown-cheatsheet/issues/7) in [atapas/markdown-cheatsheet](https://github.com/atapas/markdown-cheatsheet)
+8. 💪 Opened PR [#7](https://github.com/atapas/markdown-cheatsheet/pull/7) in [atapas/markdown-cheatsheet](https://github.com/atapas/markdown-cheatsheet)
+9. 💪 Opened PR [#5421](https://github.com/open-metadata/OpenMetadata/pull/5421) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+10. 🗣 Commented on [#5](https://github.com/atapas/markdown-cheatsheet/issues/5) in [atapas/markdown-cheatsheet](https://github.com/atapas/markdown-cheatsheet)
 <!--END_SECTION:activity-->
 
 # Recent Blog Posts ✍️
