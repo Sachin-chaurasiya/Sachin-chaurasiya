@@ -30,13 +30,13 @@ My strength lies in a combination of self-learning and consistency. To improve m
 
 Currently, I am working for a start-up company named [Deuex solutions Pvt Ltd](https://github.com/deuex-solutions).
 
-Along with all of this, I am passionate about contributing to an open-source project. Currently, I am contributing to the [OpenMetadata](https://github.com/open-metadata) and [react-awesome-shapes](https://github.com/ashutosh1919/react-awesome-shapes) open-source community.
+Along with all of this, I am passionate about contributing to an open-source project. Currently, I am contributing to the [OpenMetadata](https://github.com/open-metadata), [react-awesome-shapes](https://github.com/ashutosh1919/react-awesome-shapes) and [ReactPlay](https://github.com/reactplay) open-source community.
 
 
 
 # Currently 📝
 
-- 👉 Contributing to [Open-metadata](https://github.com/open-metadata/OpenMetadata) and [react-awesome-shapes](https://github.com/ashutosh1919/react-awesome-shapes) Open source community.
+- 👉 Contributing to [OpenMetadata](https://github.com/open-metadata), [react-awesome-shapes](https://github.com/ashutosh1919/react-awesome-shapes) and [ReactPlay](https://github.com/reactplay) Open source community.
 
 # Languages and Tools 🛠
 
