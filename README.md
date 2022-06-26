@@ -44,7 +44,7 @@ Along with all of this, I am passionate about contributing to an open-source pro
   <tr>
     <td align="center" width="96">
      <a href="#" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="html5" width="40" height="40"/> 
     </a>
     <br/>HTML5
    </td>
