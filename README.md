@@ -166,16 +166,16 @@ Along with all of this, I am passionate about contributing to an open-source pro
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#5747](https://github.com/open-metadata/OpenMetadata/pull/5747) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-2. 🎉 Merged PR [#5736](https://github.com/open-metadata/OpenMetadata/pull/5736) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-3. 🗣 Commented on [#5736](https://github.com/open-metadata/OpenMetadata/issues/5736) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-4. 💪 Opened PR [#5736](https://github.com/open-metadata/OpenMetadata/pull/5736) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-5. ❗️ Opened issue [#5734](https://github.com/open-metadata/OpenMetadata/issues/5734) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-6. 🎉 Merged PR [#5722](https://github.com/open-metadata/OpenMetadata/pull/5722) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-7. 💪 Opened PR [#5722](https://github.com/open-metadata/OpenMetadata/pull/5722) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-8. 🎉 Merged PR [#5682](https://github.com/open-metadata/OpenMetadata/pull/5682) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-9. ❗️ Closed issue [#5678](https://github.com/open-metadata/OpenMetadata/issues/5678) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-10. ❗️ Opened issue [#5675](https://github.com/open-metadata/OpenMetadata/issues/5675) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+1. 🎉 Merged PR [#5746](https://github.com/open-metadata/OpenMetadata/pull/5746) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+2. ❗️ Closed issue [#5397](https://github.com/open-metadata/OpenMetadata/issues/5397) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+3. 🗣 Commented on [#5397](https://github.com/open-metadata/OpenMetadata/issues/5397) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+4. ❗️ Closed issue [#429](https://github.com/probablyup/markdown-to-jsx/issues/429) in [probablyup/markdown-to-jsx](https://github.com/probablyup/markdown-to-jsx)
+5. ❗️ Closed issue [#50](https://github.com/patleeman/quill-markdown-shortcuts/issues/50) in [patleeman/quill-markdown-shortcuts](https://github.com/patleeman/quill-markdown-shortcuts)
+6. ❗️ Closed issue [#240](https://github.com/quill-mention/quill-mention/issues/240) in [quill-mention/quill-mention](https://github.com/quill-mention/quill-mention)
+7. ❗️ Closed issue [#1](https://github.com/Sachin-chaurasiya/React-Tree-Structure/issues/1) in [Sachin-chaurasiya/React-Tree-Structure](https://github.com/Sachin-chaurasiya/React-Tree-Structure)
+8. ❗️ Closed issue [#1170](https://github.com/jpuri/react-draft-wysiwyg/issues/1170) in [jpuri/react-draft-wysiwyg](https://github.com/jpuri/react-draft-wysiwyg)
+9. ❗️ Closed issue [#5](https://github.com/NikunjPansuriya/React_Visual_Search/issues/5) in [NikunjPansuriya/React_Visual_Search](https://github.com/NikunjPansuriya/React_Visual_Search)
+10. ❗️ Closed issue [#4](https://github.com/NikunjPansuriya/React_Visual_Search/issues/4) in [NikunjPansuriya/React_Visual_Search](https://github.com/NikunjPansuriya/React_Visual_Search)
 <!--END_SECTION:activity-->
 
 # Recent Blog Posts ✍️
