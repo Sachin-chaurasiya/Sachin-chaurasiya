@@ -131,18 +131,18 @@ Along with all of this, I am passionate about contributing to an open-source pro
   </tr>
   
    <tr>
-<!-- <td align="center" width="96"> 
+<td align="center" width="96"> 
       <a href="#" >
         <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="48" height="48" alt="Redux" />
       </a>
       <br>Redux
-    </td> -->
-    <!--     <td align="center" width="96">
+    </td>
+    <td align="center" width="96">
       <a href="#" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="48" height="48" alt="GraphQL" />
       </a>
       <br>GraphQL
-    </td> -->
+    </td>
   </tr>
     
 </table>
