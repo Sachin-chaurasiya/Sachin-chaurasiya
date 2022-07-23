@@ -36,7 +36,11 @@ Along with all of this, I am passionate about contributing to an open-source pro
 
 # Currently 📝
 
-- 👉 Contributing to [OpenMetadata](https://github.com/open-metadata), [react-awesome-shapes](https://github.com/ashutosh1919/react-awesome-shapes) and [ReactPlay](https://github.com/reactplay) Open source community.
+- ✨ Contributing to [OpenMetadata](https://github.com/open-metadata), [react-awesome-shapes](https://github.com/ashutosh1919/react-awesome-shapes) and [ReactPlay](https://github.com/reactplay) Open source community.
+
+- ✨ Learing JamStack
+
+- ✨ Learning DevOps
 
 # Languages and Tools 🛠
 
