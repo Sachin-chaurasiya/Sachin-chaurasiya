@@ -143,6 +143,12 @@ Along with all of this, I am passionate about contributing to an open-source pro
       </a>
       <br>GraphQL
     </td>
+     <td align="center">
+      <a href="#" >
+        <img src="https://user-images.githubusercontent.com/59080942/180596694-1e6dc1c7-081a-417f-aa82-27b304c3c865.png" alt="Strapi" />
+      </a>
+      <br>Strapi
+    </td>
   </tr>
     
 </table>
