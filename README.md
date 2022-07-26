@@ -196,6 +196,11 @@ Along with all of this, I am passionate about contributing to an open-source pro
 <a href="https://blog.sachinchaurasiya.dev//typescript-utility-types-the-6-most-useful" title="TypeScript Utility Types: The 6 Most Useful"><strong>TypeScript Utility Types: The 6 Most Useful</strong></a>
 <br/> I have been working with typescript for almost a year now, and I have learned and implemented a lot in this time. Among the things, I enjoy most about typescript are the utility types that allow me to write better code, so today I will discuss the 6 ... </p> <br/> <br/>
 <p align="left">
+<a href="https://blog.sachinchaurasiya.dev//how-to-change-the-wordpress-admin-login-url" title="How to change the WordPress admin login URL"><img src="https://cdn.hashnode.com/res/hashnode/image/unsplash/sSPzmL7fpWc/upload/v1658850658301/kH9Ytcza1.jpeg" alt="How to change the WordPress admin login URL" width="250px" align="left" /></a>
+<a href="https://blog.sachinchaurasiya.dev//how-to-change-the-wordpress-admin-login-url" title="How to change the WordPress admin login URL"><strong>How to change the WordPress admin login URL</strong></a>
+<br/> Hello people, hope you are doing great, welcome to WordPress Tips and Tricks series. this will be the first post for this series.
+You might be wondering what if someone else has access to my WordPress site admin panel and how you can change the WordP... </p> <br/> <br/>
+<p align="left">
 <a href="https://blog.sachinchaurasiya.dev//5-amazing-resources-to-find-colours-for-your-product-or-website" title="5 Amazing Resources To Find Colours For Your Product or Website"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1647795732842/bXKDR5dR8.jpeg" alt="5 Amazing Resources To Find Colours For Your Product or Website" width="250px" align="left" /></a>
 <a href="https://blog.sachinchaurasiya.dev//5-amazing-resources-to-find-colours-for-your-product-or-website" title="5 Amazing Resources To Find Colours For Your Product or Website"><strong>5 Amazing Resources To Find Colours For Your Product or Website</strong></a>
 <br/> Howdy people, are you running out of colours for your product or website?
@@ -208,9 +213,4 @@ Create gradients or palettes, save one of the many fantastic colour schemes or u
 <br/> Howdy people, In this article we will be discussing the 5 best ReactJs practices that will help you simplify the building of great and high-performance applications.
 Use Fragment
 We know React only allows to return one JSX element at a time, To wrap ... </p> <br/> <br/>
-<p align="left">
-<a href="https://blog.sachinchaurasiya.dev//7-useful-websites-for-web-developers" title="7 Useful Websites For Web Developers"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1643274672274/4LMfiEsx4.png" alt="7 Useful Websites For Web Developers" width="250px" align="left" /></a>
-<a href="https://blog.sachinchaurasiya.dev//7-useful-websites-for-web-developers" title="7 Useful Websites For Web Developers"><strong>7 Useful Websites For Web Developers</strong></a>
-<br/> As web developers, daily we try to solve some problems and to solve those problems we may need to have some handy tools/websites where we can look up to.
-Today in this article, I will be sharing 7 useful websites with you that will somehow help you i... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
