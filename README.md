@@ -196,6 +196,13 @@ Along with all of this, I am passionate about contributing to an open-source pro
 <a href="https://blog.sachinchaurasiya.dev//typescript-utility-types-the-6-most-useful" title="TypeScript Utility Types: The 6 Most Useful"><strong>TypeScript Utility Types: The 6 Most Useful</strong></a>
 <br/> I have been working with typescript for almost a year now, and I have learned and implemented a lot in this time. Among the things, I enjoy most about typescript are the utility types that allow me to write better code, so today I will discuss the 6 ... </p> <br/> <br/>
 <p align="left">
+<a href="https://blog.sachinchaurasiya.dev//how-to-create-a-free-backup-for-your-wordpress-site" title="How to Create a free backup for your WordPress site"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1659288171551/Ie4R_vJGO.jpg" alt="How to Create a free backup for your WordPress site" width="250px" align="left" /></a>
+<a href="https://blog.sachinchaurasiya.dev//how-to-create-a-free-backup-for-your-wordpress-site" title="How to Create a free backup for your WordPress site"><strong>How to Create a free backup for your WordPress site</strong></a>
+<br/> Hello people, hope you are doing great, welcome to WordPress Tips and Tricks series.
+In this article, I will be talking about how you can create a free backup for your WordPress site, I will walk you through step by step.
+So let's get started.
+Login ... </p> <br/> <br/>
+<p align="left">
 <a href="https://blog.sachinchaurasiya.dev//how-to-change-the-wordpress-admin-login-url" title="How to change the WordPress admin login URL"><img src="https://cdn.hashnode.com/res/hashnode/image/unsplash/sSPzmL7fpWc/upload/v1658850658301/kH9Ytcza1.jpeg" alt="How to change the WordPress admin login URL" width="250px" align="left" /></a>
 <a href="https://blog.sachinchaurasiya.dev//how-to-change-the-wordpress-admin-login-url" title="How to change the WordPress admin login URL"><strong>How to change the WordPress admin login URL</strong></a>
 <br/> Hello people, hope you are doing great, welcome to WordPress Tips and Tricks series. this will be the first post for this series.
@@ -207,10 +214,4 @@ You might be wondering what if someone else has access to my WordPress site admi
 don't worry, today I will share the 5 amazing resources you can use to choose colours.
 Colorffy
 Create gradients or palettes, save one of the many fantastic colour schemes or u... </p> <br/> <br/>
-<p align="left">
-<a href="https://blog.sachinchaurasiya.dev//5-best-practices-for-reactjs" title="5 Best practices for ReactJs"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1647093503538/0aHX5-69q.png" alt="5 Best practices for ReactJs" width="250px" align="left" /></a>
-<a href="https://blog.sachinchaurasiya.dev//5-best-practices-for-reactjs" title="5 Best practices for ReactJs"><strong>5 Best practices for ReactJs</strong></a>
-<br/> Howdy people, In this article we will be discussing the 5 best ReactJs practices that will help you simplify the building of great and high-performance applications.
-Use Fragment
-We know React only allows to return one JSX element at a time, To wrap ... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
