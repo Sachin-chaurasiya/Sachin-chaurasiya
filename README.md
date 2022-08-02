@@ -176,16 +176,16 @@ Along with all of this, I am passionate about contributing to an open-source pro
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#6507](https://github.com/open-metadata/OpenMetadata/pull/6507) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-2. ❗️ Closed issue [#6497](https://github.com/open-metadata/OpenMetadata/issues/6497) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-3. 🎉 Merged PR [#6498](https://github.com/open-metadata/OpenMetadata/pull/6498) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-4. 🗣 Commented on [#280](https://github.com/reactplay/react-play/issues/280) in [reactplay/react-play](https://github.com/reactplay/react-play)
-5. 🗣 Commented on [#102](https://github.com/reactplay/react-play/issues/102) in [reactplay/react-play](https://github.com/reactplay/react-play)
-6. 🗣 Commented on [#102](https://github.com/reactplay/react-play/issues/102) in [reactplay/react-play](https://github.com/reactplay/react-play)
-7. 🗣 Commented on [#280](https://github.com/reactplay/react-play/issues/280) in [reactplay/react-play](https://github.com/reactplay/react-play)
+1. 🗣 Commented on [#770](https://github.com/strapi/community-content/issues/770) in [strapi/community-content](https://github.com/strapi/community-content)
+2. 🗣 Commented on [#770](https://github.com/strapi/community-content/issues/770) in [strapi/community-content](https://github.com/strapi/community-content)
+3. 💪 Opened PR [#6507](https://github.com/open-metadata/OpenMetadata/pull/6507) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+4. ❗️ Closed issue [#6497](https://github.com/open-metadata/OpenMetadata/issues/6497) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+5. 🎉 Merged PR [#6498](https://github.com/open-metadata/OpenMetadata/pull/6498) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+6. 🗣 Commented on [#280](https://github.com/reactplay/react-play/issues/280) in [reactplay/react-play](https://github.com/reactplay/react-play)
+7. 🗣 Commented on [#102](https://github.com/reactplay/react-play/issues/102) in [reactplay/react-play](https://github.com/reactplay/react-play)
 8. 🗣 Commented on [#102](https://github.com/reactplay/react-play/issues/102) in [reactplay/react-play](https://github.com/reactplay/react-play)
-9. 💪 Opened PR [#6498](https://github.com/open-metadata/OpenMetadata/pull/6498) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-10. ❗️ Opened issue [#6497](https://github.com/open-metadata/OpenMetadata/issues/6497) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+9. 🗣 Commented on [#280](https://github.com/reactplay/react-play/issues/280) in [reactplay/react-play](https://github.com/reactplay/react-play)
+10. 🗣 Commented on [#102](https://github.com/reactplay/react-play/issues/102) in [reactplay/react-play](https://github.com/reactplay/react-play)
 <!--END_SECTION:activity-->
 
 # Recent Blog Posts ✍️
