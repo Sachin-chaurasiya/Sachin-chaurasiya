@@ -196,6 +196,11 @@ Along with all of this, I am passionate about contributing to an open-source pro
 <a href="https://blog.sachinchaurasiya.dev//typescript-utility-types-the-6-most-useful" title="TypeScript Utility Types: The 6 Most Useful"><strong>TypeScript Utility Types: The 6 Most Useful</strong></a>
 <br/> I have been working with typescript for almost a year now, and I have learned and implemented a lot in this time. Among the things, I enjoy most about typescript are the utility types that allow me to write better code, so today I will discuss the 6 ... </p> <br/> <br/>
 <p align="left">
+<a href="https://blog.sachinchaurasiya.dev//how-to-self-host-your-own-website-analytics-with-umami" title="How to Self Host your own Website Analytics With Umami"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1660486288194/CngBHpvL7.png" alt="How to Self Host your own Website Analytics With Umami" width="250px" align="left" /></a>
+<a href="https://blog.sachinchaurasiya.dev//how-to-self-host-your-own-website-analytics-with-umami" title="How to Self Host your own Website Analytics With Umami"><strong>How to Self Host your own Website Analytics With Umami</strong></a>
+<br/> When we talk about website analytics, the first thing that comes to mind is Google Analytics. However, we all know that Google Analytics captures all of your users' information, so there is no privacy or control over the data.
+Google Analytics captur... </p> <br/> <br/>
+<p align="left">
 <a href="https://blog.sachinchaurasiya.dev//how-to-create-a-free-backup-for-your-wordpress-site" title="How to Create a free backup for your WordPress site"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1659288171551/Ie4R_vJGO.jpg" alt="How to Create a free backup for your WordPress site" width="250px" align="left" /></a>
 <a href="https://blog.sachinchaurasiya.dev//how-to-create-a-free-backup-for-your-wordpress-site" title="How to Create a free backup for your WordPress site"><strong>How to Create a free backup for your WordPress site</strong></a>
 <br/> Hello people, hope you are doing great, welcome to WordPress Tips and Tricks series.
@@ -207,11 +212,4 @@ Login ... </p> <br/> <br/>
 <a href="https://blog.sachinchaurasiya.dev//how-to-change-the-wordpress-admin-login-url" title="How to change the WordPress admin login URL"><strong>How to change the WordPress admin login URL</strong></a>
 <br/> Hello people, hope you are doing great, welcome to WordPress Tips and Tricks series. this will be the first post for this series.
 You might be wondering what if someone else has access to my WordPress site admin panel and how you can change the WordP... </p> <br/> <br/>
-<p align="left">
-<a href="https://blog.sachinchaurasiya.dev//5-amazing-resources-to-find-colours-for-your-product-or-website" title="5 Amazing Resources To Find Colours For Your Product or Website"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1647795732842/bXKDR5dR8.jpeg" alt="5 Amazing Resources To Find Colours For Your Product or Website" width="250px" align="left" /></a>
-<a href="https://blog.sachinchaurasiya.dev//5-amazing-resources-to-find-colours-for-your-product-or-website" title="5 Amazing Resources To Find Colours For Your Product or Website"><strong>5 Amazing Resources To Find Colours For Your Product or Website</strong></a>
-<br/> Howdy people, are you running out of colours for your product or website?
-don't worry, today I will share the 5 amazing resources you can use to choose colours.
-Colorffy
-Create gradients or palettes, save one of the many fantastic colour schemes or u... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
