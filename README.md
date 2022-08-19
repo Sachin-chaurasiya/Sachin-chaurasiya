@@ -180,16 +180,16 @@ Along with all of this, I am passionate about contributing to an open-source pro
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#149](https://github.com/open-metadata/docs/pull/149) in [open-metadata/docs](https://github.com/open-metadata/docs)
-2. 💪 Opened PR [#6826](https://github.com/open-metadata/OpenMetadata/pull/6826) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-3. ❌ Closed PR [#1443](https://github.com/umami-software/umami/pull/1443) in [umami-software/umami](https://github.com/umami-software/umami)
-4. 💪 Opened PR [#1443](https://github.com/umami-software/umami/pull/1443) in [umami-software/umami](https://github.com/umami-software/umami)
-5. 💪 Opened PR [#502](https://github.com/reactplay/react-play/pull/502) in [reactplay/react-play](https://github.com/reactplay/react-play)
-6. ❗️ Opened issue [#501](https://github.com/reactplay/react-play/issues/501) in [reactplay/react-play](https://github.com/reactplay/react-play)
-7. 🎉 Merged PR [#6796](https://github.com/open-metadata/OpenMetadata/pull/6796) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-8. 🎉 Merged PR [#6802](https://github.com/open-metadata/OpenMetadata/pull/6802) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-9. 💪 Opened PR [#50](https://github.com/open-metadata/openmetadata-site/pull/50) in [open-metadata/openmetadata-site](https://github.com/open-metadata/openmetadata-site)
-10. 🗣 Commented on [#4710](https://github.com/open-metadata/OpenMetadata/issues/4710) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+1. ❗️ Opened issue [#505](https://github.com/reactplay/react-play/issues/505) in [reactplay/react-play](https://github.com/reactplay/react-play)
+2. ❗️ Opened issue [#504](https://github.com/reactplay/react-play/issues/504) in [reactplay/react-play](https://github.com/reactplay/react-play)
+3. 🎉 Merged PR [#149](https://github.com/open-metadata/docs/pull/149) in [open-metadata/docs](https://github.com/open-metadata/docs)
+4. 💪 Opened PR [#6826](https://github.com/open-metadata/OpenMetadata/pull/6826) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+5. ❌ Closed PR [#1443](https://github.com/umami-software/umami/pull/1443) in [umami-software/umami](https://github.com/umami-software/umami)
+6. 💪 Opened PR [#1443](https://github.com/umami-software/umami/pull/1443) in [umami-software/umami](https://github.com/umami-software/umami)
+7. 💪 Opened PR [#502](https://github.com/reactplay/react-play/pull/502) in [reactplay/react-play](https://github.com/reactplay/react-play)
+8. ❗️ Opened issue [#501](https://github.com/reactplay/react-play/issues/501) in [reactplay/react-play](https://github.com/reactplay/react-play)
+9. 🎉 Merged PR [#6796](https://github.com/open-metadata/OpenMetadata/pull/6796) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+10. 🎉 Merged PR [#6802](https://github.com/open-metadata/OpenMetadata/pull/6802) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 <!--END_SECTION:activity-->
 
 # Recent Blog Posts ✍️
