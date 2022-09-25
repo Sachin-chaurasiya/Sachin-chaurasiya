@@ -180,16 +180,16 @@ Along with all of this, I am passionate about contributing to an open-source pro
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#50](https://github.com/reactplay/activities/issues/50) in [reactplay/activities](https://github.com/reactplay/activities)
-2. ❗️ Opened issue [#53](https://github.com/reactplay/activities/issues/53) in [reactplay/activities](https://github.com/reactplay/activities)
+1. 🗣 Commented on [#72](https://github.com/ashutosh1919/react-awesome-shapes/issues/72) in [ashutosh1919/react-awesome-shapes](https://github.com/ashutosh1919/react-awesome-shapes)
+2. ❗️ Closed issue [#72](https://github.com/ashutosh1919/react-awesome-shapes/issues/72) in [ashutosh1919/react-awesome-shapes](https://github.com/ashutosh1919/react-awesome-shapes)
 3. 🗣 Commented on [#50](https://github.com/reactplay/activities/issues/50) in [reactplay/activities](https://github.com/reactplay/activities)
-4. 💪 Opened PR [#952](https://github.com/github/india/pull/952) in [github/india](https://github.com/github/india)
-5. 💪 Opened PR [#50](https://github.com/reactplay/activities/pull/50) in [reactplay/activities](https://github.com/reactplay/activities)
-6. 💪 Opened PR [#49](https://github.com/reactplay/activities/pull/49) in [reactplay/activities](https://github.com/reactplay/activities)
-7. ❗️ Closed issue [#6894](https://github.com/open-metadata/OpenMetadata/issues/6894) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-8. 🗣 Commented on [#6894](https://github.com/open-metadata/OpenMetadata/issues/6894) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-9. ❗️ Closed issue [#7646](https://github.com/open-metadata/OpenMetadata/issues/7646) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-10. 🎉 Merged PR [#7681](https://github.com/open-metadata/OpenMetadata/pull/7681) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+4. ❗️ Opened issue [#53](https://github.com/reactplay/activities/issues/53) in [reactplay/activities](https://github.com/reactplay/activities)
+5. 🗣 Commented on [#50](https://github.com/reactplay/activities/issues/50) in [reactplay/activities](https://github.com/reactplay/activities)
+6. 💪 Opened PR [#952](https://github.com/github/india/pull/952) in [github/india](https://github.com/github/india)
+7. 💪 Opened PR [#50](https://github.com/reactplay/activities/pull/50) in [reactplay/activities](https://github.com/reactplay/activities)
+8. 💪 Opened PR [#49](https://github.com/reactplay/activities/pull/49) in [reactplay/activities](https://github.com/reactplay/activities)
+9. ❗️ Closed issue [#6894](https://github.com/open-metadata/OpenMetadata/issues/6894) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+10. 🗣 Commented on [#6894](https://github.com/open-metadata/OpenMetadata/issues/6894) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 <!--END_SECTION:activity-->
 
 # Recent Blog Posts ✍️
