@@ -180,16 +180,16 @@ Along with all of this, I am passionate about contributing to an open-source pro
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#7705](https://github.com/open-metadata/OpenMetadata/pull/7705) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-2. 🗣 Commented on [#72](https://github.com/ashutosh1919/react-awesome-shapes/issues/72) in [ashutosh1919/react-awesome-shapes](https://github.com/ashutosh1919/react-awesome-shapes)
-3. ❗️ Closed issue [#72](https://github.com/ashutosh1919/react-awesome-shapes/issues/72) in [ashutosh1919/react-awesome-shapes](https://github.com/ashutosh1919/react-awesome-shapes)
-4. 🗣 Commented on [#50](https://github.com/reactplay/activities/issues/50) in [reactplay/activities](https://github.com/reactplay/activities)
-5. ❗️ Opened issue [#53](https://github.com/reactplay/activities/issues/53) in [reactplay/activities](https://github.com/reactplay/activities)
-6. 🗣 Commented on [#50](https://github.com/reactplay/activities/issues/50) in [reactplay/activities](https://github.com/reactplay/activities)
-7. 💪 Opened PR [#952](https://github.com/github/india/pull/952) in [github/india](https://github.com/github/india)
-8. 💪 Opened PR [#50](https://github.com/reactplay/activities/pull/50) in [reactplay/activities](https://github.com/reactplay/activities)
-9. 💪 Opened PR [#49](https://github.com/reactplay/activities/pull/49) in [reactplay/activities](https://github.com/reactplay/activities)
-10. ❗️ Closed issue [#6894](https://github.com/open-metadata/OpenMetadata/issues/6894) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+1. 💪 Opened PR [#55](https://github.com/reactplay/activities/pull/55) in [reactplay/activities](https://github.com/reactplay/activities)
+2. 🗣 Commented on [#54](https://github.com/reactplay/activities/issues/54) in [reactplay/activities](https://github.com/reactplay/activities)
+3. ❗️ Opened issue [#54](https://github.com/reactplay/activities/issues/54) in [reactplay/activities](https://github.com/reactplay/activities)
+4. 🎉 Merged PR [#7705](https://github.com/open-metadata/OpenMetadata/pull/7705) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+5. 🗣 Commented on [#72](https://github.com/ashutosh1919/react-awesome-shapes/issues/72) in [ashutosh1919/react-awesome-shapes](https://github.com/ashutosh1919/react-awesome-shapes)
+6. ❗️ Closed issue [#72](https://github.com/ashutosh1919/react-awesome-shapes/issues/72) in [ashutosh1919/react-awesome-shapes](https://github.com/ashutosh1919/react-awesome-shapes)
+7. 🗣 Commented on [#50](https://github.com/reactplay/activities/issues/50) in [reactplay/activities](https://github.com/reactplay/activities)
+8. ❗️ Opened issue [#53](https://github.com/reactplay/activities/issues/53) in [reactplay/activities](https://github.com/reactplay/activities)
+9. 🗣 Commented on [#50](https://github.com/reactplay/activities/issues/50) in [reactplay/activities](https://github.com/reactplay/activities)
+10. 💪 Opened PR [#952](https://github.com/github/india/pull/952) in [github/india](https://github.com/github/india)
 <!--END_SECTION:activity-->
 
 # Recent Blog Posts ✍️
