@@ -185,13 +185,13 @@ Along with all of this, I am passionate about contributing to an open-source pro
 1. 🗣 Commented on [#2](https://github.com/reactplay/docs/issues/2) in [reactplay/docs](https://github.com/reactplay/docs)
 2. 🗣 Commented on [#2](https://github.com/reactplay/docs/issues/2) in [reactplay/docs](https://github.com/reactplay/docs)
 3. 🗣 Commented on [#2](https://github.com/reactplay/docs/issues/2) in [reactplay/docs](https://github.com/reactplay/docs)
-4. 🗣 Commented on [#581](https://github.com/reactplay/react-play/issues/581) in [reactplay/react-play](https://github.com/reactplay/react-play)
-5. 🗣 Commented on [#2](https://github.com/reactplay/docs/issues/2) in [reactplay/docs](https://github.com/reactplay/docs)
+4. 🗣 Commented on [#2](https://github.com/reactplay/docs/issues/2) in [reactplay/docs](https://github.com/reactplay/docs)
+5. 🗣 Commented on [#581](https://github.com/reactplay/react-play/issues/581) in [reactplay/react-play](https://github.com/reactplay/react-play)
 6. 🗣 Commented on [#2](https://github.com/reactplay/docs/issues/2) in [reactplay/docs](https://github.com/reactplay/docs)
-7. 🗣 Commented on [#373](https://github.com/reactplay/react-play/issues/373) in [reactplay/react-play](https://github.com/reactplay/react-play)
-8. 🎉 Merged PR [#55](https://github.com/open-metadata/openmetadata-site/pull/55) in [open-metadata/openmetadata-site](https://github.com/open-metadata/openmetadata-site)
-9. ❗️ Opened issue [#4](https://github.com/reactplay/docs/issues/4) in [reactplay/docs](https://github.com/reactplay/docs)
-10. 💪 Opened PR [#3](https://github.com/reactplay/docs/pull/3) in [reactplay/docs](https://github.com/reactplay/docs)
+7. 🗣 Commented on [#2](https://github.com/reactplay/docs/issues/2) in [reactplay/docs](https://github.com/reactplay/docs)
+8. 🗣 Commented on [#373](https://github.com/reactplay/react-play/issues/373) in [reactplay/react-play](https://github.com/reactplay/react-play)
+9. 🎉 Merged PR [#55](https://github.com/open-metadata/openmetadata-site/pull/55) in [open-metadata/openmetadata-site](https://github.com/open-metadata/openmetadata-site)
+10. ❗️ Opened issue [#4](https://github.com/reactplay/docs/issues/4) in [reactplay/docs](https://github.com/reactplay/docs)
 <!--END_SECTION:activity-->
 
 # Recent Blog Posts ✍️
