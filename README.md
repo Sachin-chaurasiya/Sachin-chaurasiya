@@ -182,16 +182,16 @@ Along with all of this, I am passionate about contributing to an open-source pro
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2](https://github.com/reactplay/docs/issues/2) in [reactplay/docs](https://github.com/reactplay/docs)
-2. 🗣 Commented on [#2](https://github.com/reactplay/docs/issues/2) in [reactplay/docs](https://github.com/reactplay/docs)
+1. ❗️ Opened issue [#4](https://github.com/reactplay/docs/issues/4) in [reactplay/docs](https://github.com/reactplay/docs)
+2. 💪 Opened PR [#3](https://github.com/reactplay/docs/pull/3) in [reactplay/docs](https://github.com/reactplay/docs)
 3. 🗣 Commented on [#2](https://github.com/reactplay/docs/issues/2) in [reactplay/docs](https://github.com/reactplay/docs)
-4. ❗️ Opened issue [#2](https://github.com/reactplay/docs/issues/2) in [reactplay/docs](https://github.com/reactplay/docs)
-5. 🗣 Commented on [#581](https://github.com/reactplay/react-play/issues/581) in [reactplay/react-play](https://github.com/reactplay/react-play)
-6. 🗣 Commented on [#532](https://github.com/reactplay/react-play/issues/532) in [reactplay/react-play](https://github.com/reactplay/react-play)
-7. 🗣 Commented on [#532](https://github.com/reactplay/react-play/issues/532) in [reactplay/react-play](https://github.com/reactplay/react-play)
-8. 🗣 Commented on [#565](https://github.com/reactplay/react-play/issues/565) in [reactplay/react-play](https://github.com/reactplay/react-play)
-9. 🗣 Commented on [#569](https://github.com/reactplay/react-play/issues/569) in [reactplay/react-play](https://github.com/reactplay/react-play)
-10. 🗣 Commented on [#7771](https://github.com/open-metadata/OpenMetadata/issues/7771) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+4. 🗣 Commented on [#2](https://github.com/reactplay/docs/issues/2) in [reactplay/docs](https://github.com/reactplay/docs)
+5. 🗣 Commented on [#2](https://github.com/reactplay/docs/issues/2) in [reactplay/docs](https://github.com/reactplay/docs)
+6. ❗️ Opened issue [#2](https://github.com/reactplay/docs/issues/2) in [reactplay/docs](https://github.com/reactplay/docs)
+7. 🗣 Commented on [#581](https://github.com/reactplay/react-play/issues/581) in [reactplay/react-play](https://github.com/reactplay/react-play)
+8. 🗣 Commented on [#532](https://github.com/reactplay/react-play/issues/532) in [reactplay/react-play](https://github.com/reactplay/react-play)
+9. 🗣 Commented on [#532](https://github.com/reactplay/react-play/issues/532) in [reactplay/react-play](https://github.com/reactplay/react-play)
+10. 🗣 Commented on [#565](https://github.com/reactplay/react-play/issues/565) in [reactplay/react-play](https://github.com/reactplay/react-play)
 <!--END_SECTION:activity-->
 
 # Recent Blog Posts ✍️
