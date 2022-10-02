@@ -182,16 +182,16 @@ Along with all of this, I am passionate about contributing to an open-source pro
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2](https://github.com/reactplay/docs/issues/2) in [reactplay/docs](https://github.com/reactplay/docs)
+1. 🗣 Commented on [#24](https://github.com/reactplay/react-play/issues/24) in [reactplay/react-play](https://github.com/reactplay/react-play)
 2. 🗣 Commented on [#2](https://github.com/reactplay/docs/issues/2) in [reactplay/docs](https://github.com/reactplay/docs)
 3. 🗣 Commented on [#2](https://github.com/reactplay/docs/issues/2) in [reactplay/docs](https://github.com/reactplay/docs)
 4. 🗣 Commented on [#2](https://github.com/reactplay/docs/issues/2) in [reactplay/docs](https://github.com/reactplay/docs)
 5. 🗣 Commented on [#2](https://github.com/reactplay/docs/issues/2) in [reactplay/docs](https://github.com/reactplay/docs)
-6. 🗣 Commented on [#581](https://github.com/reactplay/react-play/issues/581) in [reactplay/react-play](https://github.com/reactplay/react-play)
-7. 🗣 Commented on [#2](https://github.com/reactplay/docs/issues/2) in [reactplay/docs](https://github.com/reactplay/docs)
+6. 🗣 Commented on [#2](https://github.com/reactplay/docs/issues/2) in [reactplay/docs](https://github.com/reactplay/docs)
+7. 🗣 Commented on [#581](https://github.com/reactplay/react-play/issues/581) in [reactplay/react-play](https://github.com/reactplay/react-play)
 8. 🗣 Commented on [#2](https://github.com/reactplay/docs/issues/2) in [reactplay/docs](https://github.com/reactplay/docs)
-9. 🗣 Commented on [#373](https://github.com/reactplay/react-play/issues/373) in [reactplay/react-play](https://github.com/reactplay/react-play)
-10. 🎉 Merged PR [#55](https://github.com/open-metadata/openmetadata-site/pull/55) in [open-metadata/openmetadata-site](https://github.com/open-metadata/openmetadata-site)
+9. 🗣 Commented on [#2](https://github.com/reactplay/docs/issues/2) in [reactplay/docs](https://github.com/reactplay/docs)
+10. 🗣 Commented on [#373](https://github.com/reactplay/react-play/issues/373) in [reactplay/react-play](https://github.com/reactplay/react-play)
 <!--END_SECTION:activity-->
 
 # Recent Blog Posts ✍️
