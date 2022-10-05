@@ -185,15 +185,15 @@ Along with all of this, I am passionate about contributing to an open-source pro
 <!--START_SECTION:activity-->
 
 1. 🗣 Commented on [#588](https://github.com/reactplay/react-play/issues/588) in [reactplay/react-play](https://github.com/reactplay/react-play)
-2. 🎉 Merged PR [#1](https://github.com/Sachin-chaurasiya/Sachin-chaurasiya/pull/1) in [Sachin-chaurasiya/Sachin-chaurasiya](https://github.com/Sachin-chaurasiya/Sachin-chaurasiya)
-3. 💪 Opened PR [#1](https://github.com/Sachin-chaurasiya/Sachin-chaurasiya/pull/1) in [Sachin-chaurasiya/Sachin-chaurasiya](https://github.com/Sachin-chaurasiya/Sachin-chaurasiya)
-4. 🗣 Commented on [#5](https://github.com/reactplay/docs/issues/5) in [reactplay/docs](https://github.com/reactplay/docs)
-5. ❗️ Closed issue [#7930](https://github.com/open-metadata/OpenMetadata/issues/7930) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-6. 🎉 Merged PR [#7933](https://github.com/open-metadata/OpenMetadata/pull/7933) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-7. ❗️ Opened issue [#7936](https://github.com/open-metadata/OpenMetadata/issues/7936) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-8. 🗣 Commented on [#5](https://github.com/reactplay/docs/issues/5) in [reactplay/docs](https://github.com/reactplay/docs)
-9. 🗣 Commented on [#6](https://github.com/reactplay/docs/issues/6) in [reactplay/docs](https://github.com/reactplay/docs)
-10. 🗣 Commented on [#7](https://github.com/reactplay/docs/issues/7) in [reactplay/docs](https://github.com/reactplay/docs)
+2. 🗣 Commented on [#588](https://github.com/reactplay/react-play/issues/588) in [reactplay/react-play](https://github.com/reactplay/react-play)
+3. 🎉 Merged PR [#1](https://github.com/Sachin-chaurasiya/Sachin-chaurasiya/pull/1) in [Sachin-chaurasiya/Sachin-chaurasiya](https://github.com/Sachin-chaurasiya/Sachin-chaurasiya)
+4. 💪 Opened PR [#1](https://github.com/Sachin-chaurasiya/Sachin-chaurasiya/pull/1) in [Sachin-chaurasiya/Sachin-chaurasiya](https://github.com/Sachin-chaurasiya/Sachin-chaurasiya)
+5. 🗣 Commented on [#5](https://github.com/reactplay/docs/issues/5) in [reactplay/docs](https://github.com/reactplay/docs)
+6. ❗️ Closed issue [#7930](https://github.com/open-metadata/OpenMetadata/issues/7930) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+7. 🎉 Merged PR [#7933](https://github.com/open-metadata/OpenMetadata/pull/7933) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+8. ❗️ Opened issue [#7936](https://github.com/open-metadata/OpenMetadata/issues/7936) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+9. 🗣 Commented on [#5](https://github.com/reactplay/docs/issues/5) in [reactplay/docs](https://github.com/reactplay/docs)
+10. 🗣 Commented on [#6](https://github.com/reactplay/docs/issues/6) in [reactplay/docs](https://github.com/reactplay/docs)
 <!--END_SECTION:activity-->
 
 # Recent Blog Posts ✍️
