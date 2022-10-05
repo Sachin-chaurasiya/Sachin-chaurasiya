@@ -7,6 +7,8 @@
 
  <p align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&size=24&width=500&height=36&lines=Hey+%F0%9F%91%8B+This+is+Sachin+Chaurasiya;Software+Engineer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;OpenSource+Contributor+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Technical+Blogger+%F0%9F%93%9D"/></p>
 
+  <img src="https://github-cool-covers.vercel.app/api/get-cover?username=Sachin-chaurasiya&text=Hi+I'm+Sachin&fontFamily='Roboto'&pattern='p2'" alt="sachin-chaurasiya followers" width="100%">
+
 
 <p align="center">
 <a href="https://peerlist.io/sachin87">
