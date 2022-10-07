@@ -184,16 +184,16 @@ Along with all of this, I am passionate about contributing to an open-source pro
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#7373](https://github.com/open-metadata/OpenMetadata/issues/7373) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-2. 🎉 Merged PR [#7988](https://github.com/open-metadata/OpenMetadata/pull/7988) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-3. 🗣 Commented on [#8016](https://github.com/open-metadata/OpenMetadata/issues/8016) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-4. 🗣 Commented on [#7988](https://github.com/open-metadata/OpenMetadata/issues/7988) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-5. ❗️ Closed issue [#7946](https://github.com/open-metadata/OpenMetadata/issues/7946) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-6. 🗣 Commented on [#7946](https://github.com/open-metadata/OpenMetadata/issues/7946) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-7. 🗣 Commented on [#616](https://github.com/reactplay/react-play/issues/616) in [reactplay/react-play](https://github.com/reactplay/react-play)
-8. 🗣 Commented on [#616](https://github.com/reactplay/react-play/issues/616) in [reactplay/react-play](https://github.com/reactplay/react-play)
-9. 🗣 Commented on [#625](https://github.com/reactplay/react-play/issues/625) in [reactplay/react-play](https://github.com/reactplay/react-play)
-10. 🗣 Commented on [#578](https://github.com/reactplay/react-play/issues/578) in [reactplay/react-play](https://github.com/reactplay/react-play)
+1. 🗣 Commented on [#616](https://github.com/reactplay/react-play/issues/616) in [reactplay/react-play](https://github.com/reactplay/react-play)
+2. ❗️ Closed issue [#6346](https://github.com/open-metadata/OpenMetadata/issues/6346) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+3. 🎉 Merged PR [#8016](https://github.com/open-metadata/OpenMetadata/pull/8016) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+4. 🗣 Commented on [#82](https://github.com/umami-software/website/issues/82) in [umami-software/website](https://github.com/umami-software/website)
+5. ❗️ Opened issue [#82](https://github.com/umami-software/website/issues/82) in [umami-software/website](https://github.com/umami-software/website)
+6. ❗️ Closed issue [#7373](https://github.com/open-metadata/OpenMetadata/issues/7373) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+7. 🎉 Merged PR [#7988](https://github.com/open-metadata/OpenMetadata/pull/7988) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+8. 🗣 Commented on [#8016](https://github.com/open-metadata/OpenMetadata/issues/8016) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+9. 🗣 Commented on [#7988](https://github.com/open-metadata/OpenMetadata/issues/7988) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+10. ❗️ Closed issue [#7946](https://github.com/open-metadata/OpenMetadata/issues/7946) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 <!--END_SECTION:activity-->
 
 # Recent Blog Posts ✍️
