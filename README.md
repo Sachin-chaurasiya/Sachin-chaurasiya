@@ -200,9 +200,10 @@ Along with all of this, I am passionate about contributing to an open-source pro
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
-<a href="https://blog.sachinchaurasiya.dev//typescript-utility-types-the-6-most-useful" title="TypeScript Utility Types: The 6 Most Useful"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1655628057534/jX79q228w.png" alt="TypeScript Utility Types: The 6 Most Useful" width="250px" align="left" /></a>
-<a href="https://blog.sachinchaurasiya.dev//typescript-utility-types-the-6-most-useful" title="TypeScript Utility Types: The 6 Most Useful"><strong>TypeScript Utility Types: The 6 Most Useful</strong></a>
-<br/> I have been working with typescript for almost a year now, and I have learned and implemented a lot in this time. Among the things, I enjoy most about typescript are the utility types that allow me to write better code, so today I will discuss the 6 ... </p> <br/> <br/>
+<a href="https://blog.sachinchaurasiya.dev//how-opensource-contribution-can-change-your-life" title="How OpenSource Contribution Can Change Your Life"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1665231360779/aq27tCrXq.png" alt="How OpenSource Contribution Can Change Your Life" width="250px" align="left" /></a>
+<a href="https://blog.sachinchaurasiya.dev//how-opensource-contribution-can-change-your-life" title="How OpenSource Contribution Can Change Your Life"><strong>How OpenSource Contribution Can Change Your Life</strong></a>
+<br/> As we all know Hacktoberfest has already started and people are celebrating OpenSource by contributing to the OpenSource Project with a variety of contributions.
+I have been contributing to OpenSource Project for one and a half years, which has helpe... </p> <br/> <br/>
 <p align="left">
 <a href="https://blog.sachinchaurasiya.dev//how-to-self-host-your-own-website-analytics-with-umami" title="How to Self Host your own Website Analytics With Umami"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1660486288194/CngBHpvL7.png" alt="How to Self Host your own Website Analytics With Umami" width="250px" align="left" /></a>
 <a href="https://blog.sachinchaurasiya.dev//how-to-self-host-your-own-website-analytics-with-umami" title="How to Self Host your own Website Analytics With Umami"><strong>How to Self Host your own Website Analytics With Umami</strong></a>
