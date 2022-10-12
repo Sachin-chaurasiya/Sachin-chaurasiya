@@ -184,16 +184,16 @@ Along with all of this, I am passionate about contributing to an open-source pro
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#4449](https://github.com/open-metadata/OpenMetadata/pull/4449) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-2. 🗣 Commented on [#4449](https://github.com/open-metadata/OpenMetadata/issues/4449) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-3. 🗣 Commented on [#8099](https://github.com/open-metadata/OpenMetadata/issues/8099) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-4. 🗣 Commented on [#8099](https://github.com/open-metadata/OpenMetadata/issues/8099) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+1. 💪 Opened PR [#8101](https://github.com/open-metadata/OpenMetadata/pull/8101) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+2. ❗️ Opened issue [#8100](https://github.com/open-metadata/OpenMetadata/issues/8100) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+3. ❌ Closed PR [#4449](https://github.com/open-metadata/OpenMetadata/pull/4449) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+4. 🗣 Commented on [#4449](https://github.com/open-metadata/OpenMetadata/issues/4449) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 5. 🗣 Commented on [#8099](https://github.com/open-metadata/OpenMetadata/issues/8099) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-6. 🗣 Commented on [#8097](https://github.com/open-metadata/OpenMetadata/issues/8097) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-7. 🗣 Commented on [#8097](https://github.com/open-metadata/OpenMetadata/issues/8097) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-8. 🗣 Commented on [#635](https://github.com/reactplay/react-play/issues/635) in [reactplay/react-play](https://github.com/reactplay/react-play)
-9. 🗣 Commented on [#680](https://github.com/reactplay/react-play/issues/680) in [reactplay/react-play](https://github.com/reactplay/react-play)
-10. 🗣 Commented on [#668](https://github.com/reactplay/react-play/issues/668) in [reactplay/react-play](https://github.com/reactplay/react-play)
+6. 🗣 Commented on [#8099](https://github.com/open-metadata/OpenMetadata/issues/8099) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+7. 🗣 Commented on [#8099](https://github.com/open-metadata/OpenMetadata/issues/8099) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+8. 🗣 Commented on [#8097](https://github.com/open-metadata/OpenMetadata/issues/8097) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+9. 🗣 Commented on [#8097](https://github.com/open-metadata/OpenMetadata/issues/8097) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+10. 🗣 Commented on [#635](https://github.com/reactplay/react-play/issues/635) in [reactplay/react-play](https://github.com/reactplay/react-play)
 <!--END_SECTION:activity-->
 
 # Recent Blog Posts ✍️
