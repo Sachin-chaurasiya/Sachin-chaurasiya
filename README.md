@@ -184,16 +184,16 @@ Along with all of this, I am passionate about contributing to an open-source pro
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#8302](https://github.com/open-metadata/OpenMetadata/pull/8302) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-2. ❗️ Closed issue [#8258](https://github.com/open-metadata/OpenMetadata/issues/8258) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-3. 🎉 Merged PR [#8260](https://github.com/open-metadata/OpenMetadata/pull/8260) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-4. 🎉 Merged PR [#4](https://github.com/open-metadata/docs-v1/pull/4) in [open-metadata/docs-v1](https://github.com/open-metadata/docs-v1)
-5. 🗣 Commented on [#741](https://github.com/reactplay/react-play/issues/741) in [reactplay/react-play](https://github.com/reactplay/react-play)
-6. 🗣 Commented on [#742](https://github.com/reactplay/react-play/issues/742) in [reactplay/react-play](https://github.com/reactplay/react-play)
-7. ❗️ Closed issue [#13](https://github.com/reactplay/hacktoberfest/issues/13) in [reactplay/hacktoberfest](https://github.com/reactplay/hacktoberfest)
-8. 🎉 Merged PR [#14](https://github.com/reactplay/hacktoberfest/pull/14) in [reactplay/hacktoberfest](https://github.com/reactplay/hacktoberfest)
-9. 🗣 Commented on [#8145](https://github.com/open-metadata/OpenMetadata/issues/8145) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-10. 🎉 Merged PR [#5](https://github.com/open-metadata/docs-v1/pull/5) in [open-metadata/docs-v1](https://github.com/open-metadata/docs-v1)
+1. 🗣 Commented on [#8302](https://github.com/open-metadata/OpenMetadata/issues/8302) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+2. 🗣 Commented on [#8302](https://github.com/open-metadata/OpenMetadata/issues/8302) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+3. 💪 Opened PR [#8302](https://github.com/open-metadata/OpenMetadata/pull/8302) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+4. ❗️ Closed issue [#8258](https://github.com/open-metadata/OpenMetadata/issues/8258) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+5. 🎉 Merged PR [#8260](https://github.com/open-metadata/OpenMetadata/pull/8260) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+6. 🎉 Merged PR [#4](https://github.com/open-metadata/docs-v1/pull/4) in [open-metadata/docs-v1](https://github.com/open-metadata/docs-v1)
+7. 🗣 Commented on [#741](https://github.com/reactplay/react-play/issues/741) in [reactplay/react-play](https://github.com/reactplay/react-play)
+8. 🗣 Commented on [#742](https://github.com/reactplay/react-play/issues/742) in [reactplay/react-play](https://github.com/reactplay/react-play)
+9. ❗️ Closed issue [#13](https://github.com/reactplay/hacktoberfest/issues/13) in [reactplay/hacktoberfest](https://github.com/reactplay/hacktoberfest)
+10. 🎉 Merged PR [#14](https://github.com/reactplay/hacktoberfest/pull/14) in [reactplay/hacktoberfest](https://github.com/reactplay/hacktoberfest)
 <!--END_SECTION:activity-->
 
 # Recent Blog Posts ✍️
