@@ -187,13 +187,13 @@ Along with all of this, I am passionate about contributing to an open-source pro
 1. 🗣 Commented on [#745](https://github.com/reactplay/react-play/issues/745) in [reactplay/react-play](https://github.com/reactplay/react-play)
 2. 🗣 Commented on [#745](https://github.com/reactplay/react-play/issues/745) in [reactplay/react-play](https://github.com/reactplay/react-play)
 3. 🗣 Commented on [#745](https://github.com/reactplay/react-play/issues/745) in [reactplay/react-play](https://github.com/reactplay/react-play)
-4. 🗣 Commented on [#8302](https://github.com/open-metadata/OpenMetadata/issues/8302) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+4. 🗣 Commented on [#745](https://github.com/reactplay/react-play/issues/745) in [reactplay/react-play](https://github.com/reactplay/react-play)
 5. 🗣 Commented on [#8302](https://github.com/open-metadata/OpenMetadata/issues/8302) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 6. 🗣 Commented on [#8302](https://github.com/open-metadata/OpenMetadata/issues/8302) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 7. 🗣 Commented on [#8302](https://github.com/open-metadata/OpenMetadata/issues/8302) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 8. 🗣 Commented on [#8302](https://github.com/open-metadata/OpenMetadata/issues/8302) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-9. 💪 Opened PR [#8302](https://github.com/open-metadata/OpenMetadata/pull/8302) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-10. ❗️ Closed issue [#8258](https://github.com/open-metadata/OpenMetadata/issues/8258) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+9. 🗣 Commented on [#8302](https://github.com/open-metadata/OpenMetadata/issues/8302) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+10. 💪 Opened PR [#8302](https://github.com/open-metadata/OpenMetadata/pull/8302) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 <!--END_SECTION:activity-->
 
 # Recent Blog Posts ✍️
