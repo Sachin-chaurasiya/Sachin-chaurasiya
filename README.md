@@ -184,12 +184,12 @@ Along with all of this, I am passionate about contributing to an open-source pro
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#747](https://github.com/reactplay/react-play/issues/747) in [reactplay/react-play](https://github.com/reactplay/react-play)
-2. 🗣 Commented on [#745](https://github.com/reactplay/react-play/issues/745) in [reactplay/react-play](https://github.com/reactplay/react-play)
+1. 🗣 Commented on [#755](https://github.com/reactplay/react-play/issues/755) in [reactplay/react-play](https://github.com/reactplay/react-play)
+2. 🗣 Commented on [#747](https://github.com/reactplay/react-play/issues/747) in [reactplay/react-play](https://github.com/reactplay/react-play)
 3. 🗣 Commented on [#745](https://github.com/reactplay/react-play/issues/745) in [reactplay/react-play](https://github.com/reactplay/react-play)
 4. 🗣 Commented on [#745](https://github.com/reactplay/react-play/issues/745) in [reactplay/react-play](https://github.com/reactplay/react-play)
 5. 🗣 Commented on [#745](https://github.com/reactplay/react-play/issues/745) in [reactplay/react-play](https://github.com/reactplay/react-play)
-6. 🗣 Commented on [#8302](https://github.com/open-metadata/OpenMetadata/issues/8302) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+6. 🗣 Commented on [#745](https://github.com/reactplay/react-play/issues/745) in [reactplay/react-play](https://github.com/reactplay/react-play)
 7. 🗣 Commented on [#8302](https://github.com/open-metadata/OpenMetadata/issues/8302) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 8. 🗣 Commented on [#8302](https://github.com/open-metadata/OpenMetadata/issues/8302) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 9. 🗣 Commented on [#8302](https://github.com/open-metadata/OpenMetadata/issues/8302) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
