@@ -184,15 +184,15 @@ Along with all of this, I am passionate about contributing to an open-source pro
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#744](https://github.com/reactplay/react-play/issues/744) in [reactplay/react-play](https://github.com/reactplay/react-play)
+1. 🗣 Commented on [#742](https://github.com/reactplay/react-play/issues/742) in [reactplay/react-play](https://github.com/reactplay/react-play)
 2. 🗣 Commented on [#1003](https://github.com/strapi/community-content/issues/1003) in [strapi/community-content](https://github.com/strapi/community-content)
-3. ❗️ Opened issue [#1003](https://github.com/strapi/community-content/issues/1003) in [strapi/community-content](https://github.com/strapi/community-content)
-4. 🗣 Commented on [#755](https://github.com/reactplay/react-play/issues/755) in [reactplay/react-play](https://github.com/reactplay/react-play)
-5. 🗣 Commented on [#770](https://github.com/strapi/community-content/issues/770) in [strapi/community-content](https://github.com/strapi/community-content)
+3. 🗣 Commented on [#744](https://github.com/reactplay/react-play/issues/744) in [reactplay/react-play](https://github.com/reactplay/react-play)
+4. 🗣 Commented on [#1003](https://github.com/strapi/community-content/issues/1003) in [strapi/community-content](https://github.com/strapi/community-content)
+5. ❗️ Opened issue [#1003](https://github.com/strapi/community-content/issues/1003) in [strapi/community-content](https://github.com/strapi/community-content)
 6. 🗣 Commented on [#755](https://github.com/reactplay/react-play/issues/755) in [reactplay/react-play](https://github.com/reactplay/react-play)
-7. 🗣 Commented on [#747](https://github.com/reactplay/react-play/issues/747) in [reactplay/react-play](https://github.com/reactplay/react-play)
-8. 🗣 Commented on [#745](https://github.com/reactplay/react-play/issues/745) in [reactplay/react-play](https://github.com/reactplay/react-play)
-9. 🗣 Commented on [#745](https://github.com/reactplay/react-play/issues/745) in [reactplay/react-play](https://github.com/reactplay/react-play)
+7. 🗣 Commented on [#770](https://github.com/strapi/community-content/issues/770) in [strapi/community-content](https://github.com/strapi/community-content)
+8. 🗣 Commented on [#755](https://github.com/reactplay/react-play/issues/755) in [reactplay/react-play](https://github.com/reactplay/react-play)
+9. 🗣 Commented on [#747](https://github.com/reactplay/react-play/issues/747) in [reactplay/react-play](https://github.com/reactplay/react-play)
 10. 🗣 Commented on [#745](https://github.com/reactplay/react-play/issues/745) in [reactplay/react-play](https://github.com/reactplay/react-play)
 <!--END_SECTION:activity-->
 
