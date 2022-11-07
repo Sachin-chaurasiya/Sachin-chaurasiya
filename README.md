@@ -184,16 +184,16 @@ Along with all of this, I am passionate about contributing to an open-source pro
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#8562](https://github.com/open-metadata/OpenMetadata/pull/8562) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-2. 🗣 Commented on [#8540](https://github.com/open-metadata/OpenMetadata/issues/8540) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-3. 🗣 Commented on [#8540](https://github.com/open-metadata/OpenMetadata/issues/8540) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+1. ❗️ Closed issue [#8540](https://github.com/open-metadata/OpenMetadata/issues/8540) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+2. 🎉 Merged PR [#8562](https://github.com/open-metadata/OpenMetadata/pull/8562) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+3. 💪 Opened PR [#8562](https://github.com/open-metadata/OpenMetadata/pull/8562) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 4. 🗣 Commented on [#8540](https://github.com/open-metadata/OpenMetadata/issues/8540) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-5. 🗣 Commented on [#1014](https://github.com/strapi/community-content/issues/1014) in [strapi/community-content](https://github.com/strapi/community-content)
-6. ❗️ Opened issue [#1014](https://github.com/strapi/community-content/issues/1014) in [strapi/community-content](https://github.com/strapi/community-content)
-7. 🗣 Commented on [#779](https://github.com/reactplay/react-play/issues/779) in [reactplay/react-play](https://github.com/reactplay/react-play)
-8. 🗣 Commented on [#779](https://github.com/reactplay/react-play/issues/779) in [reactplay/react-play](https://github.com/reactplay/react-play)
+5. 🗣 Commented on [#8540](https://github.com/open-metadata/OpenMetadata/issues/8540) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+6. 🗣 Commented on [#8540](https://github.com/open-metadata/OpenMetadata/issues/8540) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+7. 🗣 Commented on [#1014](https://github.com/strapi/community-content/issues/1014) in [strapi/community-content](https://github.com/strapi/community-content)
+8. ❗️ Opened issue [#1014](https://github.com/strapi/community-content/issues/1014) in [strapi/community-content](https://github.com/strapi/community-content)
 9. 🗣 Commented on [#779](https://github.com/reactplay/react-play/issues/779) in [reactplay/react-play](https://github.com/reactplay/react-play)
-10. 🎉 Merged PR [#8534](https://github.com/open-metadata/OpenMetadata/pull/8534) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+10. 🗣 Commented on [#779](https://github.com/reactplay/react-play/issues/779) in [reactplay/react-play](https://github.com/reactplay/react-play)
 <!--END_SECTION:activity-->
 
 # Recent Blog Posts ✍️
