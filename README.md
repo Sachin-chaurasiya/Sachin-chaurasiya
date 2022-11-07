@@ -184,16 +184,16 @@ Along with all of this, I am passionate about contributing to an open-source pro
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#334](https://github.com/DavidWells/analytics/issues/334) in [DavidWells/analytics](https://github.com/DavidWells/analytics)
-2. ❗️ Closed issue [#8540](https://github.com/open-metadata/OpenMetadata/issues/8540) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-3. 🎉 Merged PR [#8562](https://github.com/open-metadata/OpenMetadata/pull/8562) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-4. 💪 Opened PR [#8562](https://github.com/open-metadata/OpenMetadata/pull/8562) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-5. 🗣 Commented on [#8540](https://github.com/open-metadata/OpenMetadata/issues/8540) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-6. 🗣 Commented on [#8540](https://github.com/open-metadata/OpenMetadata/issues/8540) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+1. 🗣 Commented on [#779](https://github.com/reactplay/react-play/issues/779) in [reactplay/react-play](https://github.com/reactplay/react-play)
+2. 🗣 Commented on [#334](https://github.com/DavidWells/analytics/issues/334) in [DavidWells/analytics](https://github.com/DavidWells/analytics)
+3. ❗️ Opened issue [#334](https://github.com/DavidWells/analytics/issues/334) in [DavidWells/analytics](https://github.com/DavidWells/analytics)
+4. ❗️ Closed issue [#8540](https://github.com/open-metadata/OpenMetadata/issues/8540) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+5. 🎉 Merged PR [#8562](https://github.com/open-metadata/OpenMetadata/pull/8562) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+6. 💪 Opened PR [#8562](https://github.com/open-metadata/OpenMetadata/pull/8562) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 7. 🗣 Commented on [#8540](https://github.com/open-metadata/OpenMetadata/issues/8540) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-8. 🗣 Commented on [#1014](https://github.com/strapi/community-content/issues/1014) in [strapi/community-content](https://github.com/strapi/community-content)
-9. ❗️ Opened issue [#1014](https://github.com/strapi/community-content/issues/1014) in [strapi/community-content](https://github.com/strapi/community-content)
-10. 🗣 Commented on [#779](https://github.com/reactplay/react-play/issues/779) in [reactplay/react-play](https://github.com/reactplay/react-play)
+8. 🗣 Commented on [#8540](https://github.com/open-metadata/OpenMetadata/issues/8540) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+9. 🗣 Commented on [#8540](https://github.com/open-metadata/OpenMetadata/issues/8540) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+10. 🗣 Commented on [#1014](https://github.com/strapi/community-content/issues/1014) in [strapi/community-content](https://github.com/strapi/community-content)
 <!--END_SECTION:activity-->
 
 # Recent Blog Posts ✍️
