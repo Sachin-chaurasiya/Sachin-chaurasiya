@@ -48,7 +48,7 @@ Along with all of this, I am passionate about contributing to an open-source pro
 
 - ✨ Learning DevOps
 
-- 📝 Writing Technical Blogs
+- 📝 Writing Technical Articles
 
 # Languages and Tools 🛠
 
