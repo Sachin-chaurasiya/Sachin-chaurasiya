@@ -186,16 +186,16 @@ Along with all of this, I am passionate about contributing to an open-source pro
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2672](https://github.com/rjsf-team/react-jsonschema-form/issues/2672) in [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form)
-2. ❗️ Opened issue [#9005](https://github.com/open-metadata/OpenMetadata/issues/9005) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-3. 🗣 Commented on [#8551](https://github.com/open-metadata/OpenMetadata/issues/8551) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-4. ❗️ Closed issue [#8270](https://github.com/open-metadata/OpenMetadata/issues/8270) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-5. 🗣 Commented on [#8270](https://github.com/open-metadata/OpenMetadata/issues/8270) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-6. 🗣 Commented on [#8096](https://github.com/open-metadata/OpenMetadata/issues/8096) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-7. 💪 Opened PR [#9004](https://github.com/open-metadata/OpenMetadata/pull/9004) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-8. 🗣 Commented on [#8475](https://github.com/open-metadata/OpenMetadata/issues/8475) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-9. ❗️ Closed issue [#7401](https://github.com/open-metadata/OpenMetadata/issues/7401) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-10. 🎉 Merged PR [#8979](https://github.com/open-metadata/OpenMetadata/pull/8979) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+1. 💪 Opened PR [#67](https://github.com/open-metadata/openmetadata-site/pull/67) in [open-metadata/openmetadata-site](https://github.com/open-metadata/openmetadata-site)
+2. 🗣 Commented on [#2672](https://github.com/rjsf-team/react-jsonschema-form/issues/2672) in [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form)
+3. ❗️ Opened issue [#9005](https://github.com/open-metadata/OpenMetadata/issues/9005) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+4. 🗣 Commented on [#8551](https://github.com/open-metadata/OpenMetadata/issues/8551) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+5. ❗️ Closed issue [#8270](https://github.com/open-metadata/OpenMetadata/issues/8270) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+6. 🗣 Commented on [#8270](https://github.com/open-metadata/OpenMetadata/issues/8270) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+7. 🗣 Commented on [#8096](https://github.com/open-metadata/OpenMetadata/issues/8096) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+8. 💪 Opened PR [#9004](https://github.com/open-metadata/OpenMetadata/pull/9004) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+9. 🗣 Commented on [#8475](https://github.com/open-metadata/OpenMetadata/issues/8475) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+10. ❗️ Closed issue [#7401](https://github.com/open-metadata/OpenMetadata/issues/7401) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 <!--END_SECTION:activity-->
 
 # Recent Blog Posts ✍️
