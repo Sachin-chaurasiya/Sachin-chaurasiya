@@ -186,16 +186,16 @@ Along with all of this, I am passionate about contributing to an open-source pro
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#812](https://github.com/reactplay/react-play/pull/812) in [reactplay/react-play](https://github.com/reactplay/react-play)
-2. 💪 Opened PR [#812](https://github.com/reactplay/react-play/pull/812) in [reactplay/react-play](https://github.com/reactplay/react-play)
-3. 🗣 Commented on [#2672](https://github.com/rjsf-team/react-jsonschema-form/issues/2672) in [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form)
-4. 🗣 Commented on [#8996](https://github.com/open-metadata/OpenMetadata/issues/8996) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-5. ❗️ Closed issue [#8995](https://github.com/open-metadata/OpenMetadata/issues/8995) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-6. 🎉 Merged PR [#9014](https://github.com/open-metadata/OpenMetadata/pull/9014) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-7. 💪 Opened PR [#5](https://github.com/deuex-solutions/OpenMetadata/pull/5) in [deuex-solutions/OpenMetadata](https://github.com/deuex-solutions/OpenMetadata)
-8. 🎉 Merged PR [#4](https://github.com/deuex-solutions/OpenMetadata/pull/4) in [deuex-solutions/OpenMetadata](https://github.com/deuex-solutions/OpenMetadata)
-9. 💪 Opened PR [#4](https://github.com/deuex-solutions/OpenMetadata/pull/4) in [deuex-solutions/OpenMetadata](https://github.com/deuex-solutions/OpenMetadata)
-10. ❗️ Closed issue [#6811](https://github.com/open-metadata/OpenMetadata/issues/6811) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+1. 🗣 Commented on [#813](https://github.com/reactplay/react-play/issues/813) in [reactplay/react-play](https://github.com/reactplay/react-play)
+2. 🗣 Commented on [#814](https://github.com/reactplay/react-play/issues/814) in [reactplay/react-play](https://github.com/reactplay/react-play)
+3. ❗️ Opened issue [#814](https://github.com/reactplay/react-play/issues/814) in [reactplay/react-play](https://github.com/reactplay/react-play)
+4. ❗️ Opened issue [#813](https://github.com/reactplay/react-play/issues/813) in [reactplay/react-play](https://github.com/reactplay/react-play)
+5. 🎉 Merged PR [#812](https://github.com/reactplay/react-play/pull/812) in [reactplay/react-play](https://github.com/reactplay/react-play)
+6. 💪 Opened PR [#812](https://github.com/reactplay/react-play/pull/812) in [reactplay/react-play](https://github.com/reactplay/react-play)
+7. 🗣 Commented on [#2672](https://github.com/rjsf-team/react-jsonschema-form/issues/2672) in [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form)
+8. 🗣 Commented on [#8996](https://github.com/open-metadata/OpenMetadata/issues/8996) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+9. ❗️ Closed issue [#8995](https://github.com/open-metadata/OpenMetadata/issues/8995) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+10. 🎉 Merged PR [#9014](https://github.com/open-metadata/OpenMetadata/pull/9014) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 <!--END_SECTION:activity-->
 
 # Recent Blog Posts ✍️
