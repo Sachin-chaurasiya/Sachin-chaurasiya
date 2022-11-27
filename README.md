@@ -1,5 +1,5 @@
  <div align="center">
- <img width="300px" alt="SachinChaurasiya" title="Developer" src="https://user-images.githubusercontent.com/59080942/155874645-939f754a-35ee-4fed-a68a-465f55981a7f.png" />
+ <img width="300px" alt="Sachin-chaurasiya" title="Developer" src="https://user-images.githubusercontent.com/59080942/155874645-939f754a-35ee-4fed-a68a-465f55981a7f.png" />
 <!--  <p align="center"><img src="https://github.githubassets.com/images/icons/emoji/octocat.png" /></p> -->
 </div> 
 
