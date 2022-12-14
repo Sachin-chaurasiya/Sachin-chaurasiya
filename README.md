@@ -186,16 +186,16 @@ Along with all of this, I am passionate about contributing to an open-source pro
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#9224](https://github.com/open-metadata/OpenMetadata/pull/9224) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-2. 🎉 Merged PR [#1](https://github.com/Sachin-chaurasiya/indian-dishes-catalog-ui/pull/1) in [Sachin-chaurasiya/indian-dishes-catalog-ui](https://github.com/Sachin-chaurasiya/indian-dishes-catalog-ui)
-3. 💪 Opened PR [#1](https://github.com/Sachin-chaurasiya/indian-dishes-catalog-ui/pull/1) in [Sachin-chaurasiya/indian-dishes-catalog-ui](https://github.com/Sachin-chaurasiya/indian-dishes-catalog-ui)
-4. ❗️ Closed issue [#9238](https://github.com/open-metadata/OpenMetadata/issues/9238) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-5. 🎉 Merged PR [#9250](https://github.com/open-metadata/OpenMetadata/pull/9250) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-6. 💪 Opened PR [#9250](https://github.com/open-metadata/OpenMetadata/pull/9250) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-7. 🗣 Commented on [#9115](https://github.com/open-metadata/OpenMetadata/issues/9115) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-8. 🗣 Commented on [#9152](https://github.com/open-metadata/OpenMetadata/issues/9152) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-9. 🗣 Commented on [#8303](https://github.com/open-metadata/OpenMetadata/issues/8303) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-10. 🗣 Commented on [#8509](https://github.com/open-metadata/OpenMetadata/issues/8509) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+1. ❗️ Closed issue [#9115](https://github.com/open-metadata/OpenMetadata/issues/9115) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+2. 🗣 Commented on [#9115](https://github.com/open-metadata/OpenMetadata/issues/9115) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+3. 🗣 Commented on [#9037](https://github.com/open-metadata/OpenMetadata/issues/9037) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+4. 🎉 Merged PR [#9224](https://github.com/open-metadata/OpenMetadata/pull/9224) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+5. 🎉 Merged PR [#1](https://github.com/Sachin-chaurasiya/indian-dishes-catalog-ui/pull/1) in [Sachin-chaurasiya/indian-dishes-catalog-ui](https://github.com/Sachin-chaurasiya/indian-dishes-catalog-ui)
+6. 💪 Opened PR [#1](https://github.com/Sachin-chaurasiya/indian-dishes-catalog-ui/pull/1) in [Sachin-chaurasiya/indian-dishes-catalog-ui](https://github.com/Sachin-chaurasiya/indian-dishes-catalog-ui)
+7. ❗️ Closed issue [#9238](https://github.com/open-metadata/OpenMetadata/issues/9238) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+8. 🎉 Merged PR [#9250](https://github.com/open-metadata/OpenMetadata/pull/9250) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+9. 💪 Opened PR [#9250](https://github.com/open-metadata/OpenMetadata/pull/9250) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+10. 🗣 Commented on [#9115](https://github.com/open-metadata/OpenMetadata/issues/9115) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 <!--END_SECTION:activity-->
 
 # Recent Blog Posts ✍️
