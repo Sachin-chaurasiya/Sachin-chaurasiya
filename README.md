@@ -202,17 +202,17 @@ Along with all of this, I am passionate about contributing to an open-source pro
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
-<a href="https://blog.sachinchaurasiya.dev//how-opensource-contribution-can-change-your-life" title="How OpenSource Contribution Can Change Your Life"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1665231360779/aq27tCrXq.png" alt="How OpenSource Contribution Can Change Your Life" width="250px" align="left" /></a>
-<a href="https://blog.sachinchaurasiya.dev//how-opensource-contribution-can-change-your-life" title="How OpenSource Contribution Can Change Your Life"><strong>How OpenSource Contribution Can Change Your Life</strong></a>
-<br/> As we all know Hacktoberfest has already started and people are celebrating OpenSource by contributing to the OpenSource Project with a variety of contributions.
-I have been contributing to OpenSource Project for one and a half years, which has helpe... </p> <br/> <br/>
-<p align="left">
 <a href="https://blog.sachinchaurasiya.dev//journey-of-learning-and-knowledge-sharing-dev-retro-2022" title="Journey of learning and knowledge sharing: Dev Retro 2022"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1671374458647/UZSLKir_5.png" alt="Journey of learning and knowledge sharing: Dev Retro 2022" width="250px" align="left" /></a>
 <a href="https://blog.sachinchaurasiya.dev//journey-of-learning-and-knowledge-sharing-dev-retro-2022" title="Journey of learning and knowledge sharing: Dev Retro 2022"><strong>Journey of learning and knowledge sharing: Dev Retro 2022</strong></a>
 <br/> Hello folks, My name is Sachin Chaurasiya and I'm Software Engineer, Open Source Contributor and Technical Writer.
 I would like to take this Dev Retro 2022 opportunity and share my Journey of learning and knowledge sharing.
 Start of the journey 🎬
 It... </p> <br/> <br/>
+<p align="left">
+<a href="https://blog.sachinchaurasiya.dev//how-opensource-contribution-can-change-your-life" title="How OpenSource Contribution Can Change Your Life"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1665231360779/aq27tCrXq.png" alt="How OpenSource Contribution Can Change Your Life" width="250px" align="left" /></a>
+<a href="https://blog.sachinchaurasiya.dev//how-opensource-contribution-can-change-your-life" title="How OpenSource Contribution Can Change Your Life"><strong>How OpenSource Contribution Can Change Your Life</strong></a>
+<br/> As we all know Hacktoberfest has already started and people are celebrating OpenSource by contributing to the OpenSource Project with a variety of contributions.
+I have been contributing to OpenSource Project for one and a half years, which has helpe... </p> <br/> <br/>
 <p align="left">
 <a href="https://blog.sachinchaurasiya.dev//how-to-self-host-your-own-website-analytics-with-umami" title="How to Self Host your own Website Analytics With Umami"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1660486288194/CngBHpvL7.png" alt="How to Self Host your own Website Analytics With Umami" width="250px" align="left" /></a>
 <a href="https://blog.sachinchaurasiya.dev//how-to-self-host-your-own-website-analytics-with-umami" title="How to Self Host your own Website Analytics With Umami"><strong>How to Self Host your own Website Analytics With Umami</strong></a>
