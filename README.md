@@ -207,6 +207,13 @@ Along with all of this, I am passionate about contributing to an open-source pro
 <br/> As we all know Hacktoberfest has already started and people are celebrating OpenSource by contributing to the OpenSource Project with a variety of contributions.
 I have been contributing to OpenSource Project for one and a half years, which has helpe... </p> <br/> <br/>
 <p align="left">
+<a href="https://blog.sachinchaurasiya.dev//journey-of-learning-and-knowledge-sharing-dev-retro-2022" title="Journey of learning and knowledge sharing: Dev Retro 2022"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1671374458647/UZSLKir_5.png" alt="Journey of learning and knowledge sharing: Dev Retro 2022" width="250px" align="left" /></a>
+<a href="https://blog.sachinchaurasiya.dev//journey-of-learning-and-knowledge-sharing-dev-retro-2022" title="Journey of learning and knowledge sharing: Dev Retro 2022"><strong>Journey of learning and knowledge sharing: Dev Retro 2022</strong></a>
+<br/> Hello folks, My name is Sachin Chaurasiya and I'm Software Engineer, Open Source Contributor and Technical Writer.
+I would like to take this Dev Retro 2022 opportunity and share my Journey of learning and knowledge sharing.
+Start of the journey 🎬
+It... </p> <br/> <br/>
+<p align="left">
 <a href="https://blog.sachinchaurasiya.dev//how-to-self-host-your-own-website-analytics-with-umami" title="How to Self Host your own Website Analytics With Umami"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1660486288194/CngBHpvL7.png" alt="How to Self Host your own Website Analytics With Umami" width="250px" align="left" /></a>
 <a href="https://blog.sachinchaurasiya.dev//how-to-self-host-your-own-website-analytics-with-umami" title="How to Self Host your own Website Analytics With Umami"><strong>How to Self Host your own Website Analytics With Umami</strong></a>
 <br/> When we talk about website analytics, the first thing that comes to mind is Google Analytics. However, we all know that Google Analytics captures all of your users' information, so there is no privacy or control over the data.
@@ -218,9 +225,4 @@ Google Analytics captur... </p> <br/> <br/>
 In this article, I will be talking about how you can create a free backup for your WordPress site, I will walk you through step by step.
 So let's get started.
 Login ... </p> <br/> <br/>
-<p align="left">
-<a href="https://blog.sachinchaurasiya.dev//how-to-change-the-wordpress-admin-login-url" title="How to change the WordPress admin login URL"><img src="https://cdn.hashnode.com/res/hashnode/image/unsplash/sSPzmL7fpWc/upload/v1658850658301/kH9Ytcza1.jpeg" alt="How to change the WordPress admin login URL" width="250px" align="left" /></a>
-<a href="https://blog.sachinchaurasiya.dev//how-to-change-the-wordpress-admin-login-url" title="How to change the WordPress admin login URL"><strong>How to change the WordPress admin login URL</strong></a>
-<br/> Hello people, hope you are doing great, welcome to WordPress Tips and Tricks series. this will be the first post for this series.
-You might be wondering what if someone else has access to my WordPress site admin panel and how you can change the WordP... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
