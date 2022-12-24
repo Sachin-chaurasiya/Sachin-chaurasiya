@@ -202,6 +202,11 @@ Along with all of this, I am passionate about contributing to an open-source pro
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://blog.sachinchaurasiya.dev//how-to-create-custom-github-codespaces-template" title="How To Create Custom GitHub Codespaces Template"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1671827828569/2a24c0f2-7f93-4280-b697-fa4e4ca1ca5f.png" alt="How To Create Custom GitHub Codespaces Template" width="250px" align="left" /></a>
+<a href="https://blog.sachinchaurasiya.dev//how-to-create-custom-github-codespaces-template" title="How To Create Custom GitHub Codespaces Template"><strong>How To Create Custom GitHub Codespaces Template</strong></a>
+<br/> Introduction to GitHub Codespaces and templates ✨
+GitHub Codespaces is a cloud-based development environment that allows developers to write, run, and debug code directly in their web browsers. With GitHub Codespaces, developers can quickly spin up a... </p> <br/> <br/>
+<p align="left">
 <a href="https://blog.sachinchaurasiya.dev//journey-of-learning-and-knowledge-sharing-dev-retro-2022" title="Journey of learning and knowledge sharing: Dev Retro 2022"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1671374458647/UZSLKir_5.png" alt="Journey of learning and knowledge sharing: Dev Retro 2022" width="250px" align="left" /></a>
 <a href="https://blog.sachinchaurasiya.dev//journey-of-learning-and-knowledge-sharing-dev-retro-2022" title="Journey of learning and knowledge sharing: Dev Retro 2022"><strong>Journey of learning and knowledge sharing: Dev Retro 2022</strong></a>
 <br/> Hello folks, My name is Sachin Chaurasiya and I'm Software Engineer, Open Source Contributor and Technical Writer.
@@ -218,11 +223,4 @@ I have been contributing to OpenSource Project for one and a half years, which h
 <a href="https://blog.sachinchaurasiya.dev//how-to-self-host-your-own-website-analytics-with-umami" title="How to Self Host your own Website Analytics With Umami"><strong>How to Self Host your own Website Analytics With Umami</strong></a>
 <br/> When we talk about website analytics, the first thing that comes to mind is Google Analytics. However, we all know that Google Analytics captures all of your users' information, so there is no privacy or control over the data.
 Google Analytics captur... </p> <br/> <br/>
-<p align="left">
-<a href="https://blog.sachinchaurasiya.dev//how-to-create-a-free-backup-for-your-wordpress-site" title="How to Create a free backup for your WordPress site"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1659288171551/Ie4R_vJGO.jpg" alt="How to Create a free backup for your WordPress site" width="250px" align="left" /></a>
-<a href="https://blog.sachinchaurasiya.dev//how-to-create-a-free-backup-for-your-wordpress-site" title="How to Create a free backup for your WordPress site"><strong>How to Create a free backup for your WordPress site</strong></a>
-<br/> Hello people, hope you are doing great, welcome to WordPress Tips and Tricks series.
-In this article, I will be talking about how you can create a free backup for your WordPress site, I will walk you through step by step.
-So let's get started.
-Login ... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
