@@ -202,6 +202,12 @@ Along with all of this, I am passionate about contributing to an open-source pro
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://blog.sachinchaurasiya.dev//how-to-add-calendly-to-your-reactjs-project" title="How to Add Calendly to Your ReactJS Project"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1671946874310/f90ed82d-7435-4602-9db9-b04694957c25.png" alt="How to Add Calendly to Your ReactJS Project" width="250px" align="left" /></a>
+<a href="https://blog.sachinchaurasiya.dev//how-to-add-calendly-to-your-reactjs-project" title="How to Add Calendly to Your ReactJS Project"><strong>How to Add Calendly to Your ReactJS Project</strong></a>
+<br/> What is calendly 🤔
+Calendly is a scheduling and appointment scheduling software that helps individuals and organizations schedule and manages appointments and meetings with clients and colleagues.
+It allows users to create customizable scheduling li... </p> <br/> <br/>
+<p align="left">
 <a href="https://blog.sachinchaurasiya.dev//how-to-create-custom-github-codespaces-template" title="How To Create Custom GitHub Codespaces Template"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1671827828569/2a24c0f2-7f93-4280-b697-fa4e4ca1ca5f.png" alt="How To Create Custom GitHub Codespaces Template" width="250px" align="left" /></a>
 <a href="https://blog.sachinchaurasiya.dev//how-to-create-custom-github-codespaces-template" title="How To Create Custom GitHub Codespaces Template"><strong>How To Create Custom GitHub Codespaces Template</strong></a>
 <br/> Introduction to GitHub Codespaces and templates ✨
@@ -218,9 +224,4 @@ It... </p> <br/> <br/>
 <a href="https://blog.sachinchaurasiya.dev//how-opensource-contribution-can-change-your-life" title="How OpenSource Contribution Can Change Your Life"><strong>How OpenSource Contribution Can Change Your Life</strong></a>
 <br/> As we all know Hacktoberfest has already started and people are celebrating OpenSource by contributing to the OpenSource Project with a variety of contributions.
 I have been contributing to OpenSource Project for one and a half years, which has helpe... </p> <br/> <br/>
-<p align="left">
-<a href="https://blog.sachinchaurasiya.dev//how-to-self-host-your-own-website-analytics-with-umami" title="How to Self Host your own Website Analytics With Umami"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1660486288194/CngBHpvL7.png" alt="How to Self Host your own Website Analytics With Umami" width="250px" align="left" /></a>
-<a href="https://blog.sachinchaurasiya.dev//how-to-self-host-your-own-website-analytics-with-umami" title="How to Self Host your own Website Analytics With Umami"><strong>How to Self Host your own Website Analytics With Umami</strong></a>
-<br/> When we talk about website analytics, the first thing that comes to mind is Google Analytics. However, we all know that Google Analytics captures all of your users' information, so there is no privacy or control over the data.
-Google Analytics captur... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
