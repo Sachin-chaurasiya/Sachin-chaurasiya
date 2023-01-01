@@ -202,6 +202,11 @@ Along with all of this, I am passionate about contributing to an open-source pro
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://blog.sachinchaurasiya.dev//how-to-use-gravatar-api-to-render-user-public-avatar" title="How to use gravatar API to render user public avatar"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1672513232469/eefef5a3-251a-4871-a381-fbedfa36c384.png" alt="How to use gravatar API to render user public avatar" width="250px" align="left" /></a>
+<a href="https://blog.sachinchaurasiya.dev//how-to-use-gravatar-api-to-render-user-public-avatar" title="How to use gravatar API to render user public avatar"><strong>How to use gravatar API to render user public avatar</strong></a>
+<br/> Introduction 🎬
+Many applications provide an option for users to upload a profile picture for their profile, but not all users opt for uploading a custom profile picture so in such cases, applications should have some mechanism to show a default pict... </p> <br/> <br/>
+<p align="left">
 <a href="https://blog.sachinchaurasiya.dev//how-to-add-calendly-to-your-reactjs-project" title="How to Add Calendly to Your ReactJS Project"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1671946874310/f90ed82d-7435-4602-9db9-b04694957c25.png" alt="How to Add Calendly to Your ReactJS Project" width="250px" align="left" /></a>
 <a href="https://blog.sachinchaurasiya.dev//how-to-add-calendly-to-your-reactjs-project" title="How to Add Calendly to Your ReactJS Project"><strong>How to Add Calendly to Your ReactJS Project</strong></a>
 <br/> What is calendly 🤔
@@ -219,9 +224,4 @@ GitHub Codespaces is a cloud-based development environment that allows developer
 I would like to take this Dev Retro 2022 opportunity and share my Journey of learning and knowledge sharing.
 Start of the journey 🎬
 It... </p> <br/> <br/>
-<p align="left">
-<a href="https://blog.sachinchaurasiya.dev//how-opensource-contribution-can-change-your-life" title="How OpenSource Contribution Can Change Your Life"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1665231360779/aq27tCrXq.png" alt="How OpenSource Contribution Can Change Your Life" width="250px" align="left" /></a>
-<a href="https://blog.sachinchaurasiya.dev//how-opensource-contribution-can-change-your-life" title="How OpenSource Contribution Can Change Your Life"><strong>How OpenSource Contribution Can Change Your Life</strong></a>
-<br/> As we all know Hacktoberfest has already started and people are celebrating OpenSource by contributing to the OpenSource Project with a variety of contributions.
-I have been contributing to OpenSource Project for one and a half years, which has helpe... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
