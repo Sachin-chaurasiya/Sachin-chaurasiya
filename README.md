@@ -202,6 +202,10 @@ Along with all of this, I am passionate about contributing to an open-source pro
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://blog.sachinchaurasiya.dev//how-to-integrate-reactjs-and-react-helmet-async-manage-seo-and-meta-data" title="How to Integrate ReactJs and react-helmet-async - Manage SEO and Meta Data"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1672514441464/6752ebaf-d090-4501-99d8-e2bb6c32fde4.png" alt="How to Integrate ReactJs and react-helmet-async - Manage SEO and Meta Data" width="250px" align="left" /></a>
+<a href="https://blog.sachinchaurasiya.dev//how-to-integrate-reactjs-and-react-helmet-async-manage-seo-and-meta-data" title="How to Integrate ReactJs and react-helmet-async - Manage SEO and Meta Data"><strong>How to Integrate ReactJs and react-helmet-async - Manage SEO and Meta Data</strong></a>
+<br/> Earlier we had very basic web technologies and static, just HTML pages with some CSS ( to at least have some UI/UX 😅 ). But as we are moving ahead, we are entering into a new era of web technologies and it's getting better day by day with cutting-ed... </p> <br/> <br/>
+<p align="left">
 <a href="https://blog.sachinchaurasiya.dev//how-to-use-gravatar-api-to-render-user-public-avatar" title="How to use gravatar API to render user public avatar"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1672513232469/eefef5a3-251a-4871-a381-fbedfa36c384.png" alt="How to use gravatar API to render user public avatar" width="250px" align="left" /></a>
 <a href="https://blog.sachinchaurasiya.dev//how-to-use-gravatar-api-to-render-user-public-avatar" title="How to use gravatar API to render user public avatar"><strong>How to use gravatar API to render user public avatar</strong></a>
 <br/> Introduction 🎬
@@ -217,11 +221,4 @@ It allows users to create customizable scheduling li... </p> <br/> <br/>
 <a href="https://blog.sachinchaurasiya.dev//how-to-create-custom-github-codespaces-template" title="How To Create Custom GitHub Codespaces Template"><strong>How To Create Custom GitHub Codespaces Template</strong></a>
 <br/> Introduction to GitHub Codespaces and templates ✨
 GitHub Codespaces is a cloud-based development environment that allows developers to write, run, and debug code directly in their web browsers. With GitHub Codespaces, developers can quickly spin up a... </p> <br/> <br/>
-<p align="left">
-<a href="https://blog.sachinchaurasiya.dev//journey-of-learning-and-knowledge-sharing-dev-retro-2022" title="Journey of learning and knowledge sharing: Dev Retro 2022"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1671374458647/UZSLKir_5.png" alt="Journey of learning and knowledge sharing: Dev Retro 2022" width="250px" align="left" /></a>
-<a href="https://blog.sachinchaurasiya.dev//journey-of-learning-and-knowledge-sharing-dev-retro-2022" title="Journey of learning and knowledge sharing: Dev Retro 2022"><strong>Journey of learning and knowledge sharing: Dev Retro 2022</strong></a>
-<br/> Hello folks, My name is Sachin Chaurasiya and I'm Software Engineer, Open Source Contributor and Technical Writer.
-I would like to take this Dev Retro 2022 opportunity and share my Journey of learning and knowledge sharing.
-Start of the journey 🎬
-It... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
