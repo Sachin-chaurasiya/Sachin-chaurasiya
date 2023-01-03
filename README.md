@@ -1,16 +1,6 @@
  <div align="center">
  <img width="300px" alt="Sachin-chaurasiya" title="Developer" src="https://user-images.githubusercontent.com/59080942/155874645-939f754a-35ee-4fed-a68a-465f55981a7f.png" />
-<!--  <p align="center"><img src="https://github.githubassets.com/images/icons/emoji/octocat.png" /></p> -->
-</div> 
-
----
-
- <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&pause=1000&color=FFFFFF&width=500&height=36&lines=Hey+%F0%9F%91%8B+This+is+Sachin+Chaurasiya;Software+Engineer+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;OpenSource+Contributor+%E2%9C%A8;Technical+Writer+%F0%9F%93%9D" alt="Typing SVG" /></p>
-
-  <img src="https://github-cool-covers.vercel.app/api/get-cover?username=Sachin-chaurasiya&text=Hi+I'm+Sachin&fontFamily='Roboto'&pattern='p2'" alt="sachin-chaurasiya followers" width="100%">
-
-
-<p align="center">
+ <p align="center">
 <a href="https://peerlist.io/sachin87">
     <img  alt="SachinChaurasiya Peerlist" title="Peerlist Profile" src="https://peerlist-readme-badge.herokuapp.com/api/sachin87" />
   </a>
@@ -23,6 +13,14 @@
  <a href = https://www.linkedin.com/in/sachin-chaurasiya><img title="linkedin profile" src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg height='30' weight='30'></a>
 <a href = https://twitter.com/sachindotcom><img title="twitter profile"  src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg height='30' weight='30'></a>
 </p>
+</div> 
+
+---
+
+ <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&pause=1000&color=FFFFFF&width=500&height=36&lines=Hey+%F0%9F%91%8B+This+is+Sachin+Chaurasiya;Software+Engineer+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;OpenSource+Contributor+%E2%9C%A8;Technical+Writer+%F0%9F%93%9D" alt="Typing SVG" /></p>
+
+  <img src="https://github-cool-covers.vercel.app/api/get-cover?username=Sachin-chaurasiya&text=Hi+I'm+Sachin&fontFamily='Roboto'&pattern='p2'" alt="sachin-chaurasiya followers" width="100%">
+
 
 # About me 👨🏻‍💻
 
@@ -178,7 +176,7 @@ Along with all of this, I am passionate about contributing to an open-source pro
 
 <br/><br/>
 
-[![Sachin’s github activity graph](https://activity-graph.herokuapp.com/graph?username=Sachin-chaurasiya&theme=dracula)](https://github.com/Sachin-chaurasiya)
+<!-- [![Sachin’s github activity graph](https://activity-graph.herokuapp.com/graph?username=Sachin-chaurasiya&theme=dracula)](https://github.com/Sachin-chaurasiya) -->
 
 [![@sachinchaurasiya87's Holopin board](https://holopin.io/api/user/board?user=sachinchaurasiya87)](https://holopin.io/@sachinchaurasiya87)
 
