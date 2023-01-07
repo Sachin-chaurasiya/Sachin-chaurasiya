@@ -200,6 +200,12 @@ Along with all of this, I am passionate about contributing to an open-source pro
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://blog.sachinchaurasiya.dev//the-power-of-collaboration-how-contributing-to-open-source-can-help-you-and-others" title="The Power of Collaboration: How Contributing to Open Source Can Help You and Others"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1673064238114/1578dfcb-b5eb-4628-95cb-e9f52e510196.png" alt="The Power of Collaboration: How Contributing to Open Source Can Help You and Others" width="250px" align="left" /></a>
+<a href="https://blog.sachinchaurasiya.dev//the-power-of-collaboration-how-contributing-to-open-source-can-help-you-and-others" title="The Power of Collaboration: How Contributing to Open Source Can Help You and Others"><strong>The Power of Collaboration: How Contributing to Open Source Can Help You and Others</strong></a>
+<br/> If you are doing something and get stuck then you go to the XYZ person and ask for help or ask for his/her suggestions, feedback, and more. this is collaboration and with the help of collaboration you can gain these experiences
+
+Learning - You can co... </p> <br/> <br/>
+<p align="left">
 <a href="https://blog.sachinchaurasiya.dev//how-to-integrate-reactjs-and-react-helmet-async-manage-seo-and-meta-data" title="How to Integrate ReactJs and react-helmet-async - Manage SEO and Meta Data"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1672514441464/6752ebaf-d090-4501-99d8-e2bb6c32fde4.png" alt="How to Integrate ReactJs and react-helmet-async - Manage SEO and Meta Data" width="250px" align="left" /></a>
 <a href="https://blog.sachinchaurasiya.dev//how-to-integrate-reactjs-and-react-helmet-async-manage-seo-and-meta-data" title="How to Integrate ReactJs and react-helmet-async - Manage SEO and Meta Data"><strong>How to Integrate ReactJs and react-helmet-async - Manage SEO and Meta Data</strong></a>
 <br/> Earlier we had very basic web technologies and static, just HTML pages with some CSS ( to at least have some UI/UX 😅 ). But as we are moving ahead, we are entering into a new era of web technologies and it's getting better day by day with cutting-ed... </p> <br/> <br/>
@@ -214,9 +220,4 @@ Many applications provide an option for users to upload a profile picture for th
 <br/> What is calendly 🤔
 Calendly is a scheduling and appointment scheduling software that helps individuals and organizations schedule and manages appointments and meetings with clients and colleagues.
 It allows users to create customizable scheduling li... </p> <br/> <br/>
-<p align="left">
-<a href="https://blog.sachinchaurasiya.dev//how-to-create-custom-github-codespaces-template" title="How To Create Custom GitHub Codespaces Template"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1671827828569/2a24c0f2-7f93-4280-b697-fa4e4ca1ca5f.png" alt="How To Create Custom GitHub Codespaces Template" width="250px" align="left" /></a>
-<a href="https://blog.sachinchaurasiya.dev//how-to-create-custom-github-codespaces-template" title="How To Create Custom GitHub Codespaces Template"><strong>How To Create Custom GitHub Codespaces Template</strong></a>
-<br/> Introduction to GitHub Codespaces and templates ✨
-GitHub Codespaces is a cloud-based development environment that allows developers to write, run, and debug code directly in their web browsers. With GitHub Codespaces, developers can quickly spin up a... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
