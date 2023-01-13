@@ -184,16 +184,16 @@ Along with all of this, I am passionate about contributing to an open-source pro
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#9713](https://github.com/open-metadata/OpenMetadata/issues/9713) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-2. 🗣 Commented on [#9713](https://github.com/open-metadata/OpenMetadata/issues/9713) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-3. 🗣 Commented on [#779](https://github.com/reactplay/react-play/issues/779) in [reactplay/react-play](https://github.com/reactplay/react-play)
-4. ❗️ Closed issue [#7440](https://github.com/open-metadata/OpenMetadata/issues/7440) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-5. 🎉 Merged PR [#9667](https://github.com/open-metadata/OpenMetadata/pull/9667) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-6. 🗣 Commented on [#862](https://github.com/reactplay/react-play/issues/862) in [reactplay/react-play](https://github.com/reactplay/react-play)
-7. 🎉 Merged PR [#9663](https://github.com/open-metadata/OpenMetadata/pull/9663) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-8. 🗣 Commented on [#9002](https://github.com/open-metadata/OpenMetadata/issues/9002) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-9. 💪 Opened PR [#9667](https://github.com/open-metadata/OpenMetadata/pull/9667) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-10. 🗣 Commented on [#862](https://github.com/reactplay/react-play/issues/862) in [reactplay/react-play](https://github.com/reactplay/react-play)
+1. 💪 Opened PR [#9723](https://github.com/open-metadata/OpenMetadata/pull/9723) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+2. ❗️ Closed issue [#9713](https://github.com/open-metadata/OpenMetadata/issues/9713) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+3. 🗣 Commented on [#9713](https://github.com/open-metadata/OpenMetadata/issues/9713) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+4. 🗣 Commented on [#779](https://github.com/reactplay/react-play/issues/779) in [reactplay/react-play](https://github.com/reactplay/react-play)
+5. ❗️ Closed issue [#7440](https://github.com/open-metadata/OpenMetadata/issues/7440) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+6. 🎉 Merged PR [#9667](https://github.com/open-metadata/OpenMetadata/pull/9667) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+7. 🗣 Commented on [#862](https://github.com/reactplay/react-play/issues/862) in [reactplay/react-play](https://github.com/reactplay/react-play)
+8. 🎉 Merged PR [#9663](https://github.com/open-metadata/OpenMetadata/pull/9663) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+9. 🗣 Commented on [#9002](https://github.com/open-metadata/OpenMetadata/issues/9002) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+10. 💪 Opened PR [#9667](https://github.com/open-metadata/OpenMetadata/pull/9667) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 <!--END_SECTION:activity-->
 
 # Recent Blog Posts ✍️
