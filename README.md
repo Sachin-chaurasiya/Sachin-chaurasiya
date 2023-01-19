@@ -184,16 +184,16 @@ Along with all of this, I am passionate about contributing to an open-source pro
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#880](https://github.com/reactplay/react-play/pull/880) in [reactplay/react-play](https://github.com/reactplay/react-play)
-2. ❌ Closed PR [#879](https://github.com/reactplay/react-play/pull/879) in [reactplay/react-play](https://github.com/reactplay/react-play)
-3. ❗️ Closed issue [#9812](https://github.com/open-metadata/OpenMetadata/issues/9812) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-4. 🎉 Merged PR [#9818](https://github.com/open-metadata/OpenMetadata/pull/9818) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-5. ❗️ Reopened issue [#492](https://github.com/reactplay/react-play/issues/492) in [reactplay/react-play](https://github.com/reactplay/react-play)
-6. 🗣 Commented on [#784](https://github.com/reactplay/react-play/issues/784) in [reactplay/react-play](https://github.com/reactplay/react-play)
-7. ❌ Closed PR [#878](https://github.com/reactplay/react-play/pull/878) in [reactplay/react-play](https://github.com/reactplay/react-play)
-8. 🗣 Commented on [#784](https://github.com/reactplay/react-play/issues/784) in [reactplay/react-play](https://github.com/reactplay/react-play)
-9. 🗣 Commented on [#784](https://github.com/reactplay/react-play/issues/784) in [reactplay/react-play](https://github.com/reactplay/react-play)
-10. 🎉 Merged PR [#9802](https://github.com/open-metadata/OpenMetadata/pull/9802) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+1. 🗣 Commented on [#784](https://github.com/reactplay/react-play/issues/784) in [reactplay/react-play](https://github.com/reactplay/react-play)
+2. 🗣 Commented on [#784](https://github.com/reactplay/react-play/issues/784) in [reactplay/react-play](https://github.com/reactplay/react-play)
+3. 🗣 Commented on [#784](https://github.com/reactplay/react-play/issues/784) in [reactplay/react-play](https://github.com/reactplay/react-play)
+4. 💪 Opened PR [#889](https://github.com/reactplay/react-play/pull/889) in [reactplay/react-play](https://github.com/reactplay/react-play)
+5. ❌ Closed PR [#888](https://github.com/reactplay/react-play/pull/888) in [reactplay/react-play](https://github.com/reactplay/react-play)
+6. ❌ Closed PR [#887](https://github.com/reactplay/react-play/pull/887) in [reactplay/react-play](https://github.com/reactplay/react-play)
+7. ❌ Closed PR [#886](https://github.com/reactplay/react-play/pull/886) in [reactplay/react-play](https://github.com/reactplay/react-play)
+8. ❌ Closed PR [#885](https://github.com/reactplay/react-play/pull/885) in [reactplay/react-play](https://github.com/reactplay/react-play)
+9. ❌ Closed PR [#883](https://github.com/reactplay/react-play/pull/883) in [reactplay/react-play](https://github.com/reactplay/react-play)
+10. ❌ Closed PR [#882](https://github.com/reactplay/react-play/pull/882) in [reactplay/react-play](https://github.com/reactplay/react-play)
 <!--END_SECTION:activity-->
 
 # Recent Blog Posts ✍️
