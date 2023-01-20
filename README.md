@@ -200,6 +200,12 @@ Along with all of this, I am passionate about contributing to an open-source pro
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://blog.sachinchaurasiya.dev//5-most-useful-tips-for-open-source-contribution" title="5 Most Useful Tips For Open Source Contribution"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1674120392263/3812a35c-9d52-42e5-af36-af4739a28d16.png" alt="5 Most Useful Tips For Open Source Contribution" width="250px" align="left" /></a>
+<a href="https://blog.sachinchaurasiya.dev//5-most-useful-tips-for-open-source-contribution" title="5 Most Useful Tips For Open Source Contribution"><strong>5 Most Useful Tips For Open Source Contribution</strong></a>
+<br/> Are you interested in making a difference in the Open Source community? In this article, I will be sharing the 5 most useful tips to get you started on your journey as a contributor.
+Start Small 1️⃣
+Look for beginner-friendly issues to work on, such ... </p> <br/> <br/>
+<p align="left">
 <a href="https://blog.sachinchaurasiya.dev//the-power-of-collaboration-how-contributing-to-open-source-can-help-you-and-others" title="The Power of Collaboration: How Contributing to Open Source Can Help You and Others"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1673064238114/1578dfcb-b5eb-4628-95cb-e9f52e510196.png" alt="The Power of Collaboration: How Contributing to Open Source Can Help You and Others" width="250px" align="left" /></a>
 <a href="https://blog.sachinchaurasiya.dev//the-power-of-collaboration-how-contributing-to-open-source-can-help-you-and-others" title="The Power of Collaboration: How Contributing to Open Source Can Help You and Others"><strong>The Power of Collaboration: How Contributing to Open Source Can Help You and Others</strong></a>
 <br/> If you are doing something and get stuck then you go to the XYZ person and ask for help or ask for his/her suggestions, feedback, and more. this is collaboration and with the help of collaboration you can gain these experiences
@@ -214,10 +220,4 @@ Learning - You can co... </p> <br/> <br/>
 <a href="https://blog.sachinchaurasiya.dev//how-to-use-gravatar-api-to-render-user-public-avatar" title="How to use gravatar API to render user public avatar"><strong>How to use gravatar API to render user public avatar</strong></a>
 <br/> Introduction 🎬
 Many applications provide an option for users to upload a profile picture for their profile, but not all users opt for uploading a custom profile picture so in such cases, applications should have some mechanism to show a default pict... </p> <br/> <br/>
-<p align="left">
-<a href="https://blog.sachinchaurasiya.dev//how-to-add-calendly-to-your-reactjs-project" title="How to Add Calendly to Your ReactJS Project"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1671946874310/f90ed82d-7435-4602-9db9-b04694957c25.png" alt="How to Add Calendly to Your ReactJS Project" width="250px" align="left" /></a>
-<a href="https://blog.sachinchaurasiya.dev//how-to-add-calendly-to-your-reactjs-project" title="How to Add Calendly to Your ReactJS Project"><strong>How to Add Calendly to Your ReactJS Project</strong></a>
-<br/> What is calendly 🤔
-Calendly is a scheduling and appointment scheduling software that helps individuals and organizations schedule and manages appointments and meetings with clients and colleagues.
-It allows users to create customizable scheduling li... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
