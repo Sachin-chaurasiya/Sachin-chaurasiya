@@ -184,16 +184,16 @@ Along with all of this, I am passionate about contributing to an open-source pro
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#10205](https://github.com/open-metadata/OpenMetadata/pull/10205) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-2. 💪 Opened PR [#9954](https://github.com/open-metadata/OpenMetadata/pull/9954) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-3. 💪 Opened PR [#9921](https://github.com/open-metadata/OpenMetadata/pull/9921) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-4. 🎉 Merged PR [#9909](https://github.com/open-metadata/OpenMetadata/pull/9909) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-5. 💪 Opened PR [#9909](https://github.com/open-metadata/OpenMetadata/pull/9909) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-6. 🗣 Commented on [#784](https://github.com/reactplay/react-play/issues/784) in [reactplay/react-play](https://github.com/reactplay/react-play)
+1. 🗣 Commented on [#970](https://github.com/reactplay/react-play/issues/970) in [reactplay/react-play](https://github.com/reactplay/react-play)
+2. 💪 Opened PR [#10205](https://github.com/open-metadata/OpenMetadata/pull/10205) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+3. 💪 Opened PR [#9954](https://github.com/open-metadata/OpenMetadata/pull/9954) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+4. 💪 Opened PR [#9921](https://github.com/open-metadata/OpenMetadata/pull/9921) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+5. 🎉 Merged PR [#9909](https://github.com/open-metadata/OpenMetadata/pull/9909) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+6. 💪 Opened PR [#9909](https://github.com/open-metadata/OpenMetadata/pull/9909) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 7. 🗣 Commented on [#784](https://github.com/reactplay/react-play/issues/784) in [reactplay/react-play](https://github.com/reactplay/react-play)
 8. 🗣 Commented on [#784](https://github.com/reactplay/react-play/issues/784) in [reactplay/react-play](https://github.com/reactplay/react-play)
-9. 💪 Opened PR [#889](https://github.com/reactplay/react-play/pull/889) in [reactplay/react-play](https://github.com/reactplay/react-play)
-10. ❌ Closed PR [#888](https://github.com/reactplay/react-play/pull/888) in [reactplay/react-play](https://github.com/reactplay/react-play)
+9. 🗣 Commented on [#784](https://github.com/reactplay/react-play/issues/784) in [reactplay/react-play](https://github.com/reactplay/react-play)
+10. 💪 Opened PR [#889](https://github.com/reactplay/react-play/pull/889) in [reactplay/react-play](https://github.com/reactplay/react-play)
 <!--END_SECTION:activity-->
 
 # Recent Blog Posts ✍️
