@@ -21,18 +21,11 @@
 
 # About me 👨🏻‍💻
 
-Thank you for a look in. I'm a Full Stack developer and a technical blogger. Javascript, Typescript, ReactJS, Tailwind CSS, Python, Django, Git, and GitHub are the technologies I use most often.
+Hello There 👋, My name is Sachin Chaurasiya and I'm a software engineer, Open Source Contributor and Technical Writer from India 🇮🇳.
 
-I write about Javascript, React, Python, and Django on platforms like hashnode, and I am also involved in dev communities.
+I enjoy building things and interacting with people. Knowledge sharing is my passion and I share my knowledge through my blogs. I write on topics like JavaScript, TypeScript, ReactJS, Web Development, Open Source, Python, Django, Jamstack and CMS.
 
-I enjoy connecting with people to share ideas and knowledge.
-
-My strength lies in a combination of self-learning and consistency. To improve myself at every moment, I believe in the learning process rather than results.
-
-Currently, I am working for a start-up company named [Deuex solutions Pvt Ltd](https://github.com/deuex-solutions).
-
-Along with all of this, I am passionate about contributing to an open-source project. Currently, I am contributing to the [OpenMetadata](https://github.com/open-metadata), [react-awesome-shapes](https://github.com/ashutosh1919/react-awesome-shapes) and [ReactPlay](https://github.com/reactplay) open-source community.
-
+I am available for technical writing, Web project collaboration and Open Source project collaboration.
 
 
 # Currently 📝
