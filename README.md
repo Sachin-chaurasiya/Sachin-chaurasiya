@@ -1,9 +1,6 @@
  <div align="center">
  <img width="300px" alt="Sachin-chaurasiya" title="Developer" src="https://user-images.githubusercontent.com/59080942/155874645-939f754a-35ee-4fed-a68a-465f55981a7f.png" />
  <p align="center">
-<a href="https://peerlist.io/sachin87">
-    <img  alt="SachinChaurasiya Peerlist" title="Peerlist Profile" src="https://peerlist-readme-badge.herokuapp.com/api/sachin87" />
-  </a>
 <a href="https://blog.sachinchaurasiya.dev/">
     <img  alt="SachinChaurasiya Blog" title="Hashnode Profile" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
   </a>
