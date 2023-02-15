@@ -200,6 +200,12 @@ Along with all of this, I am passionate about contributing to an open-source pro
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://blog.sachinchaurasiya.dev//markdown-for-beginners-with-examples" title="Markdown for beginners: with examples"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1676461910728/c2e37b38-9fc7-4c24-8a5a-1950cc443031.png" alt="Markdown for beginners: with examples" width="250px" align="left" /></a>
+<a href="https://blog.sachinchaurasiya.dev//markdown-for-beginners-with-examples" title="Markdown for beginners: with examples"><strong>Markdown for beginners: with examples</strong></a>
+<br/> Introduction ✨
+Markdown is a lightweight markup language that is used to format text documents. It is designed to be easy to read and write and is often used for formatting text on the web, such as in blog posts and online forums.
+In this article, we... </p> <br/> <br/>
+<p align="left">
 <a href="https://blog.sachinchaurasiya.dev//5-most-useful-tips-for-open-source-contribution" title="5 Most Useful Tips For Open Source Contribution"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1674120392263/3812a35c-9d52-42e5-af36-af4739a28d16.png" alt="5 Most Useful Tips For Open Source Contribution" width="250px" align="left" /></a>
 <a href="https://blog.sachinchaurasiya.dev//5-most-useful-tips-for-open-source-contribution" title="5 Most Useful Tips For Open Source Contribution"><strong>5 Most Useful Tips For Open Source Contribution</strong></a>
 <br/> Are you interested in making a difference in the Open Source community? In this article, I will be sharing the 5 most useful tips to get you started on your journey as a contributor.
@@ -215,9 +221,4 @@ Learning - You can co... </p> <br/> <br/>
 <a href="https://blog.sachinchaurasiya.dev//how-to-integrate-reactjs-and-react-helmet-async-manage-seo-and-meta-data" title="How to Integrate ReactJs and react-helmet-async - Manage SEO and Meta Data"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1672514441464/6752ebaf-d090-4501-99d8-e2bb6c32fde4.png" alt="How to Integrate ReactJs and react-helmet-async - Manage SEO and Meta Data" width="250px" align="left" /></a>
 <a href="https://blog.sachinchaurasiya.dev//how-to-integrate-reactjs-and-react-helmet-async-manage-seo-and-meta-data" title="How to Integrate ReactJs and react-helmet-async - Manage SEO and Meta Data"><strong>How to Integrate ReactJs and react-helmet-async - Manage SEO and Meta Data</strong></a>
 <br/> Earlier we had very basic web technologies and static, just HTML pages with some CSS ( to at least have some UI/UX 😅 ). But as we are moving ahead, we are entering into a new era of web technologies and it's getting better day by day with cutting-ed... </p> <br/> <br/>
-<p align="left">
-<a href="https://blog.sachinchaurasiya.dev//how-to-use-gravatar-api-to-render-user-public-avatar" title="How to use gravatar API to render user public avatar"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1672513232469/eefef5a3-251a-4871-a381-fbedfa36c384.png" alt="How to use gravatar API to render user public avatar" width="250px" align="left" /></a>
-<a href="https://blog.sachinchaurasiya.dev//how-to-use-gravatar-api-to-render-user-public-avatar" title="How to use gravatar API to render user public avatar"><strong>How to use gravatar API to render user public avatar</strong></a>
-<br/> Introduction 🎬
-Many applications provide an option for users to upload a profile picture for their profile, but not all users opt for uploading a custom profile picture so in such cases, applications should have some mechanism to show a default pict... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
