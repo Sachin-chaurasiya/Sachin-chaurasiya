@@ -48,6 +48,9 @@ Along with all of this, I am passionate about contributing to an open-source pro
 
 - 📝 Writing Technical Articles
 
+# NPM Packages Published by Me 📦
+![npm](https://img.shields.io/npm/dt/github-user-contribution-summary?label=github-user-contribution-summary&style=plastic)
+
 # Languages and Tools 🛠
 
 <table align="center">
