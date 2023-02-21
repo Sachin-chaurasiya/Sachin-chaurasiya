@@ -175,16 +175,16 @@ I am available for technical writing, Web project collaboration and Open Source 
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#38](https://github.com/open-metadata/docs-v1/pull/38) in [open-metadata/docs-v1](https://github.com/open-metadata/docs-v1)
-2. 💪 Opened PR [#38](https://github.com/open-metadata/docs-v1/pull/38) in [open-metadata/docs-v1](https://github.com/open-metadata/docs-v1)
-3. 🎉 Merged PR [#35](https://github.com/open-metadata/docs-v1/pull/35) in [open-metadata/docs-v1](https://github.com/open-metadata/docs-v1)
-4. 🎉 Merged PR [#37](https://github.com/open-metadata/docs-v1/pull/37) in [open-metadata/docs-v1](https://github.com/open-metadata/docs-v1)
-5. 💪 Opened PR [#37](https://github.com/open-metadata/docs-v1/pull/37) in [open-metadata/docs-v1](https://github.com/open-metadata/docs-v1)
-6. 🎉 Merged PR [#8](https://github.com/OpenSource-Journey/Your-Github-Contributions/pull/8) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
-7. 🎉 Merged PR [#2](https://github.com/Sachin-chaurasiya/github-user-contribution-summary/pull/2) in [Sachin-chaurasiya/github-user-contribution-summary](https://github.com/Sachin-chaurasiya/github-user-contribution-summary)
-8. 💪 Opened PR [#2](https://github.com/Sachin-chaurasiya/github-user-contribution-summary/pull/2) in [Sachin-chaurasiya/github-user-contribution-summary](https://github.com/Sachin-chaurasiya/github-user-contribution-summary)
-9. 🎉 Merged PR [#10183](https://github.com/open-metadata/OpenMetadata/pull/10183) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-10. 🗣 Commented on [#975](https://github.com/reactplay/react-play/issues/975) in [reactplay/react-play](https://github.com/reactplay/react-play)
+1. 🎉 Merged PR [#10222](https://github.com/open-metadata/OpenMetadata/pull/10222) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+2. 🎉 Merged PR [#38](https://github.com/open-metadata/docs-v1/pull/38) in [open-metadata/docs-v1](https://github.com/open-metadata/docs-v1)
+3. 💪 Opened PR [#38](https://github.com/open-metadata/docs-v1/pull/38) in [open-metadata/docs-v1](https://github.com/open-metadata/docs-v1)
+4. 🎉 Merged PR [#35](https://github.com/open-metadata/docs-v1/pull/35) in [open-metadata/docs-v1](https://github.com/open-metadata/docs-v1)
+5. 🎉 Merged PR [#37](https://github.com/open-metadata/docs-v1/pull/37) in [open-metadata/docs-v1](https://github.com/open-metadata/docs-v1)
+6. 💪 Opened PR [#37](https://github.com/open-metadata/docs-v1/pull/37) in [open-metadata/docs-v1](https://github.com/open-metadata/docs-v1)
+7. 🎉 Merged PR [#8](https://github.com/OpenSource-Journey/Your-Github-Contributions/pull/8) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
+8. 🎉 Merged PR [#2](https://github.com/Sachin-chaurasiya/github-user-contribution-summary/pull/2) in [Sachin-chaurasiya/github-user-contribution-summary](https://github.com/Sachin-chaurasiya/github-user-contribution-summary)
+9. 💪 Opened PR [#2](https://github.com/Sachin-chaurasiya/github-user-contribution-summary/pull/2) in [Sachin-chaurasiya/github-user-contribution-summary](https://github.com/Sachin-chaurasiya/github-user-contribution-summary)
+10. 🎉 Merged PR [#10183](https://github.com/open-metadata/OpenMetadata/pull/10183) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 <!--END_SECTION:activity-->
 
 # Recent Blog Posts ✍️
