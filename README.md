@@ -175,16 +175,16 @@ I am available for technical writing, Web project collaboration and Open Source 
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#18](https://github.com/reactplay/docs/issues/18) in [reactplay/docs](https://github.com/reactplay/docs)
-2. ❗️ Opened issue [#17](https://github.com/reactplay/docs/issues/17) in [reactplay/docs](https://github.com/reactplay/docs)
-3. 💪 Opened PR [#16](https://github.com/reactplay/docs/pull/16) in [reactplay/docs](https://github.com/reactplay/docs)
-4. 🗣 Commented on [#11](https://github.com/reactplay/docs/issues/11) in [reactplay/docs](https://github.com/reactplay/docs)
-5. ❗️ Opened issue [#15](https://github.com/reactplay/docs/issues/15) in [reactplay/docs](https://github.com/reactplay/docs)
-6. 💪 Opened PR [#10316](https://github.com/open-metadata/OpenMetadata/pull/10316) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-7. 🎉 Merged PR [#10300](https://github.com/open-metadata/OpenMetadata/pull/10300) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-8. ❗️ Closed issue [#10298](https://github.com/open-metadata/OpenMetadata/issues/10298) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-9. 🗣 Commented on [#10052](https://github.com/open-metadata/OpenMetadata/issues/10052) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-10. 🗣 Commented on [#970](https://github.com/reactplay/react-play/issues/970) in [reactplay/react-play](https://github.com/reactplay/react-play)
+1. 🗣 Commented on [#9](https://github.com/OpenSource-Journey/Your-Github-Contributions/issues/9) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
+2. ❗️ Opened issue [#18](https://github.com/reactplay/docs/issues/18) in [reactplay/docs](https://github.com/reactplay/docs)
+3. ❗️ Opened issue [#17](https://github.com/reactplay/docs/issues/17) in [reactplay/docs](https://github.com/reactplay/docs)
+4. 💪 Opened PR [#16](https://github.com/reactplay/docs/pull/16) in [reactplay/docs](https://github.com/reactplay/docs)
+5. 🗣 Commented on [#11](https://github.com/reactplay/docs/issues/11) in [reactplay/docs](https://github.com/reactplay/docs)
+6. ❗️ Opened issue [#15](https://github.com/reactplay/docs/issues/15) in [reactplay/docs](https://github.com/reactplay/docs)
+7. 💪 Opened PR [#10316](https://github.com/open-metadata/OpenMetadata/pull/10316) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+8. 🎉 Merged PR [#10300](https://github.com/open-metadata/OpenMetadata/pull/10300) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+9. ❗️ Closed issue [#10298](https://github.com/open-metadata/OpenMetadata/issues/10298) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+10. 🗣 Commented on [#10052](https://github.com/open-metadata/OpenMetadata/issues/10052) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 <!--END_SECTION:activity-->
 
 # Recent Blog Posts ✍️
