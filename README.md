@@ -175,16 +175,16 @@ I am available for technical writing, Web project collaboration and Open Source 
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#17](https://github.com/OpenSource-Journey/Your-Github-Contributions/pull/17) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
-2. 🗣 Commented on [#15](https://github.com/OpenSource-Journey/Your-Github-Contributions/issues/15) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
-3. 🎉 Merged PR [#15](https://github.com/OpenSource-Journey/Your-Github-Contributions/pull/15) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
-4. 🗣 Commented on [#14](https://github.com/OpenSource-Journey/Your-Github-Contributions/issues/14) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
-5. 🎉 Merged PR [#14](https://github.com/OpenSource-Journey/Your-Github-Contributions/pull/14) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
-6. 🗣 Commented on [#11](https://github.com/OpenSource-Journey/Your-Github-Contributions/issues/11) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
+1. 💪 Opened PR [#73](https://github.com/open-metadata/openmetadata-site/pull/73) in [open-metadata/openmetadata-site](https://github.com/open-metadata/openmetadata-site)
+2. 🎉 Merged PR [#17](https://github.com/OpenSource-Journey/Your-Github-Contributions/pull/17) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
+3. 🗣 Commented on [#15](https://github.com/OpenSource-Journey/Your-Github-Contributions/issues/15) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
+4. 🎉 Merged PR [#15](https://github.com/OpenSource-Journey/Your-Github-Contributions/pull/15) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
+5. 🗣 Commented on [#14](https://github.com/OpenSource-Journey/Your-Github-Contributions/issues/14) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
+6. 🎉 Merged PR [#14](https://github.com/OpenSource-Journey/Your-Github-Contributions/pull/14) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
 7. 🗣 Commented on [#11](https://github.com/OpenSource-Journey/Your-Github-Contributions/issues/11) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
-8. 🗣 Commented on [#7](https://github.com/OpenSource-Journey/Your-Github-Contributions/issues/7) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
+8. 🗣 Commented on [#11](https://github.com/OpenSource-Journey/Your-Github-Contributions/issues/11) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
 9. 🗣 Commented on [#7](https://github.com/OpenSource-Journey/Your-Github-Contributions/issues/7) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
-10. 🗣 Commented on [#15](https://github.com/reactplay/docs/issues/15) in [reactplay/docs](https://github.com/reactplay/docs)
+10. 🗣 Commented on [#7](https://github.com/OpenSource-Journey/Your-Github-Contributions/issues/7) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
 <!--END_SECTION:activity-->
 
 # Recent Blog Posts ✍️
