@@ -175,16 +175,16 @@ I am available for technical writing, Web project collaboration and Open Source 
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#75](https://github.com/open-metadata/openmetadata-site/pull/75) in [open-metadata/openmetadata-site](https://github.com/open-metadata/openmetadata-site)
-2. 💪 Opened PR [#75](https://github.com/open-metadata/openmetadata-site/pull/75) in [open-metadata/openmetadata-site](https://github.com/open-metadata/openmetadata-site)
-3. 🗣 Commented on [#27](https://github.com/OpenSource-Journey/Your-Github-Contributions/issues/27) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
-4. 🗣 Commented on [#10372](https://github.com/open-metadata/OpenMetadata/issues/10372) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+1. 💪 Opened PR [#10419](https://github.com/open-metadata/OpenMetadata/pull/10419) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+2. 🎉 Merged PR [#75](https://github.com/open-metadata/openmetadata-site/pull/75) in [open-metadata/openmetadata-site](https://github.com/open-metadata/openmetadata-site)
+3. 💪 Opened PR [#75](https://github.com/open-metadata/openmetadata-site/pull/75) in [open-metadata/openmetadata-site](https://github.com/open-metadata/openmetadata-site)
+4. 🗣 Commented on [#27](https://github.com/OpenSource-Journey/Your-Github-Contributions/issues/27) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
 5. 🗣 Commented on [#10372](https://github.com/open-metadata/OpenMetadata/issues/10372) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-6. 🗣 Commented on [#27](https://github.com/OpenSource-Journey/Your-Github-Contributions/issues/27) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
+6. 🗣 Commented on [#10372](https://github.com/open-metadata/OpenMetadata/issues/10372) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 7. 🗣 Commented on [#27](https://github.com/OpenSource-Journey/Your-Github-Contributions/issues/27) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
-8. 🎉 Merged PR [#74](https://github.com/open-metadata/openmetadata-site/pull/74) in [open-metadata/openmetadata-site](https://github.com/open-metadata/openmetadata-site)
-9. 💪 Opened PR [#74](https://github.com/open-metadata/openmetadata-site/pull/74) in [open-metadata/openmetadata-site](https://github.com/open-metadata/openmetadata-site)
-10. ❗️ Closed issue [#16](https://github.com/OpenSource-Journey/Your-Github-Contributions/issues/16) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
+8. 🗣 Commented on [#27](https://github.com/OpenSource-Journey/Your-Github-Contributions/issues/27) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
+9. 🎉 Merged PR [#74](https://github.com/open-metadata/openmetadata-site/pull/74) in [open-metadata/openmetadata-site](https://github.com/open-metadata/openmetadata-site)
+10. 💪 Opened PR [#74](https://github.com/open-metadata/openmetadata-site/pull/74) in [open-metadata/openmetadata-site](https://github.com/open-metadata/openmetadata-site)
 <!--END_SECTION:activity-->
 
 # Recent Blog Posts ✍️
