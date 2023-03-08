@@ -175,16 +175,16 @@ I am available for technical writing, Web project collaboration and Open Source 
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#33](https://github.com/OpenSource-Journey/Your-Github-Contributions/issues/33) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
-2. 🗣 Commented on [#31](https://github.com/OpenSource-Journey/Your-Github-Contributions/issues/31) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
-3. 🗣 Commented on [#7](https://github.com/OpenSource-Journey/Your-Github-Contributions/issues/7) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
-4. 🗣 Commented on [#1007](https://github.com/reactplay/react-play/issues/1007) in [reactplay/react-play](https://github.com/reactplay/react-play)
-5. 🗣 Commented on [#24](https://github.com/reactplay/docs/issues/24) in [reactplay/docs](https://github.com/reactplay/docs)
-6. 🗣 Commented on [#27](https://github.com/OpenSource-Journey/Your-Github-Contributions/issues/27) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
-7. 🗣 Commented on [#1027](https://github.com/reactplay/react-play/issues/1027) in [reactplay/react-play](https://github.com/reactplay/react-play)
+1. 🗣 Commented on [#7](https://github.com/OpenSource-Journey/Your-Github-Contributions/issues/7) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
+2. 🗣 Commented on [#33](https://github.com/OpenSource-Journey/Your-Github-Contributions/issues/33) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
+3. 🗣 Commented on [#31](https://github.com/OpenSource-Journey/Your-Github-Contributions/issues/31) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
+4. 🗣 Commented on [#7](https://github.com/OpenSource-Journey/Your-Github-Contributions/issues/7) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
+5. 🗣 Commented on [#1007](https://github.com/reactplay/react-play/issues/1007) in [reactplay/react-play](https://github.com/reactplay/react-play)
+6. 🗣 Commented on [#24](https://github.com/reactplay/docs/issues/24) in [reactplay/docs](https://github.com/reactplay/docs)
+7. 🗣 Commented on [#27](https://github.com/OpenSource-Journey/Your-Github-Contributions/issues/27) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
 8. 🗣 Commented on [#1027](https://github.com/reactplay/react-play/issues/1027) in [reactplay/react-play](https://github.com/reactplay/react-play)
-9. 🗣 Commented on [#10](https://github.com/reactplay/docs/issues/10) in [reactplay/docs](https://github.com/reactplay/docs)
-10. 🗣 Commented on [#27](https://github.com/OpenSource-Journey/Your-Github-Contributions/issues/27) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
+9. 🗣 Commented on [#1027](https://github.com/reactplay/react-play/issues/1027) in [reactplay/react-play](https://github.com/reactplay/react-play)
+10. 🗣 Commented on [#10](https://github.com/reactplay/docs/issues/10) in [reactplay/docs](https://github.com/reactplay/docs)
 <!--END_SECTION:activity-->
 
 # Recent Blog Posts ✍️
