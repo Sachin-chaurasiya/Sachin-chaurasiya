@@ -175,16 +175,16 @@ I am available for technical writing, Web project collaboration and Open Source 
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#47](https://github.com/OpenSource-Journey/Your-Github-Contributions/pull/47) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
-2. ❗️ Closed issue [#43](https://github.com/OpenSource-Journey/Your-Github-Contributions/issues/43) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
-3. 🗣 Commented on [#43](https://github.com/OpenSource-Journey/Your-Github-Contributions/issues/43) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
-4. 💪 Opened PR [#10640](https://github.com/open-metadata/OpenMetadata/pull/10640) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-5. 🎉 Merged PR [#46](https://github.com/OpenSource-Journey/Your-Github-Contributions/pull/46) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
-6. 🗣 Commented on [#45](https://github.com/OpenSource-Journey/Your-Github-Contributions/issues/45) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
-7. 🎉 Merged PR [#45](https://github.com/OpenSource-Journey/Your-Github-Contributions/pull/45) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
-8. 🗣 Commented on [#44](https://github.com/OpenSource-Journey/Your-Github-Contributions/issues/44) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
-9. 🗣 Commented on [#43](https://github.com/OpenSource-Journey/Your-Github-Contributions/issues/43) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
-10. 🎉 Merged PR [#10601](https://github.com/open-metadata/OpenMetadata/pull/10601) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+1. 🎉 Merged PR [#47](https://github.com/OpenSource-Journey/Your-Github-Contributions/pull/47) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
+2. 💪 Opened PR [#47](https://github.com/OpenSource-Journey/Your-Github-Contributions/pull/47) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
+3. ❗️ Closed issue [#43](https://github.com/OpenSource-Journey/Your-Github-Contributions/issues/43) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
+4. 🗣 Commented on [#43](https://github.com/OpenSource-Journey/Your-Github-Contributions/issues/43) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
+5. 💪 Opened PR [#10640](https://github.com/open-metadata/OpenMetadata/pull/10640) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+6. 🎉 Merged PR [#46](https://github.com/OpenSource-Journey/Your-Github-Contributions/pull/46) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
+7. 🗣 Commented on [#45](https://github.com/OpenSource-Journey/Your-Github-Contributions/issues/45) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
+8. 🎉 Merged PR [#45](https://github.com/OpenSource-Journey/Your-Github-Contributions/pull/45) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
+9. 🗣 Commented on [#44](https://github.com/OpenSource-Journey/Your-Github-Contributions/issues/44) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
+10. 🗣 Commented on [#43](https://github.com/OpenSource-Journey/Your-Github-Contributions/issues/43) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
 <!--END_SECTION:activity-->
 
 # Recent Blog Posts ✍️
