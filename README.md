@@ -175,16 +175,16 @@ I am available for technical writing, Web project collaboration and Open Source 
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#50](https://github.com/OpenSource-Journey/Your-Github-Contributions/pull/50) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
-2. 💪 Opened PR [#50](https://github.com/OpenSource-Journey/Your-Github-Contributions/pull/50) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
-3. 🎉 Merged PR [#49](https://github.com/OpenSource-Journey/Your-Github-Contributions/pull/49) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
-4. 💪 Opened PR [#49](https://github.com/OpenSource-Journey/Your-Github-Contributions/pull/49) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
-5. 🎉 Merged PR [#3](https://github.com/Sachin-chaurasiya/github-user-contribution-summary/pull/3) in [Sachin-chaurasiya/github-user-contribution-summary](https://github.com/Sachin-chaurasiya/github-user-contribution-summary)
-6. 💪 Opened PR [#3](https://github.com/Sachin-chaurasiya/github-user-contribution-summary/pull/3) in [Sachin-chaurasiya/github-user-contribution-summary](https://github.com/Sachin-chaurasiya/github-user-contribution-summary)
-7. 🎉 Merged PR [#48](https://github.com/OpenSource-Journey/Your-Github-Contributions/pull/48) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
-8. 💪 Opened PR [#48](https://github.com/OpenSource-Journey/Your-Github-Contributions/pull/48) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
-9. 🗣 Commented on [#10640](https://github.com/open-metadata/OpenMetadata/issues/10640) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-10. 🎉 Merged PR [#47](https://github.com/OpenSource-Journey/Your-Github-Contributions/pull/47) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
+1. 💪 Opened PR [#51](https://github.com/OpenSource-Journey/Your-Github-Contributions/pull/51) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
+2. 🎉 Merged PR [#50](https://github.com/OpenSource-Journey/Your-Github-Contributions/pull/50) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
+3. 💪 Opened PR [#50](https://github.com/OpenSource-Journey/Your-Github-Contributions/pull/50) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
+4. 🎉 Merged PR [#49](https://github.com/OpenSource-Journey/Your-Github-Contributions/pull/49) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
+5. 💪 Opened PR [#49](https://github.com/OpenSource-Journey/Your-Github-Contributions/pull/49) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
+6. 🎉 Merged PR [#3](https://github.com/Sachin-chaurasiya/github-user-contribution-summary/pull/3) in [Sachin-chaurasiya/github-user-contribution-summary](https://github.com/Sachin-chaurasiya/github-user-contribution-summary)
+7. 💪 Opened PR [#3](https://github.com/Sachin-chaurasiya/github-user-contribution-summary/pull/3) in [Sachin-chaurasiya/github-user-contribution-summary](https://github.com/Sachin-chaurasiya/github-user-contribution-summary)
+8. 🎉 Merged PR [#48](https://github.com/OpenSource-Journey/Your-Github-Contributions/pull/48) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
+9. 💪 Opened PR [#48](https://github.com/OpenSource-Journey/Your-Github-Contributions/pull/48) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
+10. 🗣 Commented on [#10640](https://github.com/open-metadata/OpenMetadata/issues/10640) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 <!--END_SECTION:activity-->
 
 # Recent Blog Posts ✍️
