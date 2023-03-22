@@ -175,16 +175,16 @@ I am available for technical writing, Web project collaboration and Open Source 
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#56](https://github.com/OpenSource-Journey/Your-Github-Contributions/issues/56) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
-2. 🗣 Commented on [#34](https://github.com/reactplay/docs/issues/34) in [reactplay/docs](https://github.com/reactplay/docs)
-3. 🗣 Commented on [#44](https://github.com/reactplay/docs/issues/44) in [reactplay/docs](https://github.com/reactplay/docs)
-4. ❗️ Opened issue [#1074](https://github.com/reactplay/react-play/issues/1074) in [reactplay/react-play](https://github.com/reactplay/react-play)
-5. 🗣 Commented on [#1073](https://github.com/reactplay/react-play/issues/1073) in [reactplay/react-play](https://github.com/reactplay/react-play)
-6. ❗️ Closed issue [#1073](https://github.com/reactplay/react-play/issues/1073) in [reactplay/react-play](https://github.com/reactplay/react-play)
-7. ❗️ Opened issue [#1073](https://github.com/reactplay/react-play/issues/1073) in [reactplay/react-play](https://github.com/reactplay/react-play)
-8. ❗️ Closed issue [#1071](https://github.com/reactplay/react-play/issues/1071) in [reactplay/react-play](https://github.com/reactplay/react-play)
-9. 🗣 Commented on [#1071](https://github.com/reactplay/react-play/issues/1071) in [reactplay/react-play](https://github.com/reactplay/react-play)
-10. 🗣 Commented on [#45](https://github.com/reactplay/docs/issues/45) in [reactplay/docs](https://github.com/reactplay/docs)
+1. 🎉 Merged PR [#57](https://github.com/OpenSource-Journey/Your-Github-Contributions/pull/57) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
+2. 🗣 Commented on [#56](https://github.com/OpenSource-Journey/Your-Github-Contributions/issues/56) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
+3. ❗️ Closed issue [#52](https://github.com/OpenSource-Journey/Your-Github-Contributions/issues/52) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
+4. 🎉 Merged PR [#56](https://github.com/OpenSource-Journey/Your-Github-Contributions/pull/56) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
+5. 🗣 Commented on [#56](https://github.com/OpenSource-Journey/Your-Github-Contributions/issues/56) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
+6. 🗣 Commented on [#56](https://github.com/OpenSource-Journey/Your-Github-Contributions/issues/56) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
+7. 🗣 Commented on [#34](https://github.com/reactplay/docs/issues/34) in [reactplay/docs](https://github.com/reactplay/docs)
+8. 🗣 Commented on [#44](https://github.com/reactplay/docs/issues/44) in [reactplay/docs](https://github.com/reactplay/docs)
+9. ❗️ Opened issue [#1074](https://github.com/reactplay/react-play/issues/1074) in [reactplay/react-play](https://github.com/reactplay/react-play)
+10. 🗣 Commented on [#1073](https://github.com/reactplay/react-play/issues/1073) in [reactplay/react-play](https://github.com/reactplay/react-play)
 <!--END_SECTION:activity-->
 
 # Recent Blog Posts ✍️
