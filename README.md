@@ -175,16 +175,16 @@ I am available for technical writing, Web project collaboration and Open Source 
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#54](https://github.com/OpenSource-Journey/Your-Github-Contributions/issues/54) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
-2. 🎉 Merged PR [#58](https://github.com/OpenSource-Journey/Your-Github-Contributions/pull/58) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
-3. 💪 Opened PR [#10720](https://github.com/open-metadata/OpenMetadata/pull/10720) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-4. 💪 Opened PR [#10719](https://github.com/open-metadata/OpenMetadata/pull/10719) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-5. ❗️ Opened issue [#10718](https://github.com/open-metadata/OpenMetadata/issues/10718) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-6. 🎉 Merged PR [#57](https://github.com/OpenSource-Journey/Your-Github-Contributions/pull/57) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
-7. 🗣 Commented on [#56](https://github.com/OpenSource-Journey/Your-Github-Contributions/issues/56) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
-8. ❗️ Closed issue [#52](https://github.com/OpenSource-Journey/Your-Github-Contributions/issues/52) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
-9. 🎉 Merged PR [#56](https://github.com/OpenSource-Journey/Your-Github-Contributions/pull/56) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
-10. 🗣 Commented on [#56](https://github.com/OpenSource-Journey/Your-Github-Contributions/issues/56) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
+1. 🗣 Commented on [#10543](https://github.com/open-metadata/OpenMetadata/issues/10543) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+2. ❗️ Closed issue [#54](https://github.com/OpenSource-Journey/Your-Github-Contributions/issues/54) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
+3. 🎉 Merged PR [#58](https://github.com/OpenSource-Journey/Your-Github-Contributions/pull/58) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
+4. 💪 Opened PR [#10720](https://github.com/open-metadata/OpenMetadata/pull/10720) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+5. 💪 Opened PR [#10719](https://github.com/open-metadata/OpenMetadata/pull/10719) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+6. ❗️ Opened issue [#10718](https://github.com/open-metadata/OpenMetadata/issues/10718) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+7. 🎉 Merged PR [#57](https://github.com/OpenSource-Journey/Your-Github-Contributions/pull/57) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
+8. 🗣 Commented on [#56](https://github.com/OpenSource-Journey/Your-Github-Contributions/issues/56) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
+9. ❗️ Closed issue [#52](https://github.com/OpenSource-Journey/Your-Github-Contributions/issues/52) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
+10. 🎉 Merged PR [#56](https://github.com/OpenSource-Journey/Your-Github-Contributions/pull/56) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
 <!--END_SECTION:activity-->
 
 # Recent Blog Posts ✍️
