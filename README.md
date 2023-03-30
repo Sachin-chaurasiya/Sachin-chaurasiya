@@ -175,16 +175,16 @@ I am available for technical writing, Web project collaboration and Open Source 
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#10835](https://github.com/open-metadata/OpenMetadata/pull/10835) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-2. 💪 Opened PR [#10832](https://github.com/open-metadata/OpenMetadata/pull/10832) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-3. 🗣 Commented on [#10670](https://github.com/open-metadata/OpenMetadata/issues/10670) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-4. 💪 Opened PR [#10824](https://github.com/open-metadata/OpenMetadata/pull/10824) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-5. 💪 Opened PR [#10822](https://github.com/open-metadata/OpenMetadata/pull/10822) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-6. 💪 Opened PR [#10819](https://github.com/open-metadata/OpenMetadata/pull/10819) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-7. 🗣 Commented on [#32](https://github.com/reactplay/docs/issues/32) in [reactplay/docs](https://github.com/reactplay/docs)
-8. 💪 Opened PR [#1](https://github.com/Sachin-chaurasiya/react-jsonschema-form/pull/1) in [Sachin-chaurasiya/react-jsonschema-form](https://github.com/Sachin-chaurasiya/react-jsonschema-form)
-9. ❗️ Opened issue [#3553](https://github.com/rjsf-team/react-jsonschema-form/issues/3553) in [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form)
-10. ❗️ Closed issue [#10185](https://github.com/open-metadata/OpenMetadata/issues/10185) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+1. 🗣 Commented on [#10805](https://github.com/open-metadata/OpenMetadata/issues/10805) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+2. 💪 Opened PR [#10835](https://github.com/open-metadata/OpenMetadata/pull/10835) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+3. 💪 Opened PR [#10832](https://github.com/open-metadata/OpenMetadata/pull/10832) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+4. 🗣 Commented on [#10670](https://github.com/open-metadata/OpenMetadata/issues/10670) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+5. 💪 Opened PR [#10824](https://github.com/open-metadata/OpenMetadata/pull/10824) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+6. 💪 Opened PR [#10822](https://github.com/open-metadata/OpenMetadata/pull/10822) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+7. 💪 Opened PR [#10819](https://github.com/open-metadata/OpenMetadata/pull/10819) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+8. 🗣 Commented on [#32](https://github.com/reactplay/docs/issues/32) in [reactplay/docs](https://github.com/reactplay/docs)
+9. 💪 Opened PR [#1](https://github.com/Sachin-chaurasiya/react-jsonschema-form/pull/1) in [Sachin-chaurasiya/react-jsonschema-form](https://github.com/Sachin-chaurasiya/react-jsonschema-form)
+10. ❗️ Opened issue [#3553](https://github.com/rjsf-team/react-jsonschema-form/issues/3553) in [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form)
 <!--END_SECTION:activity-->
 
 # Recent Blog Posts ✍️
