@@ -175,16 +175,16 @@ I am available for technical writing, Web project collaboration and Open Source 
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#49](https://github.com/reactplay/docs/issues/49) in [reactplay/docs](https://github.com/reactplay/docs)
-2. 🗣 Commented on [#1092](https://github.com/reactplay/react-play/issues/1092) in [reactplay/react-play](https://github.com/reactplay/react-play)
+1. 🗣 Commented on [#1092](https://github.com/reactplay/react-play/issues/1092) in [reactplay/react-play](https://github.com/reactplay/react-play)
+2. 🗣 Commented on [#49](https://github.com/reactplay/docs/issues/49) in [reactplay/docs](https://github.com/reactplay/docs)
 3. 🗣 Commented on [#1092](https://github.com/reactplay/react-play/issues/1092) in [reactplay/react-play](https://github.com/reactplay/react-play)
 4. 🗣 Commented on [#1092](https://github.com/reactplay/react-play/issues/1092) in [reactplay/react-play](https://github.com/reactplay/react-play)
-5. 🗣 Commented on [#49](https://github.com/reactplay/docs/issues/49) in [reactplay/docs](https://github.com/reactplay/docs)
-6. 🗣 Commented on [#3553](https://github.com/rjsf-team/react-jsonschema-form/issues/3553) in [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form)
-7. ❗️ Opened issue [#50](https://github.com/reactplay/docs/issues/50) in [reactplay/docs](https://github.com/reactplay/docs)
-8. 🗣 Commented on [#69](https://github.com/OpenSource-Journey/Your-Github-Contributions/issues/69) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
-9. 🗣 Commented on [#3553](https://github.com/rjsf-team/react-jsonschema-form/issues/3553) in [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form)
-10. 💪 Opened PR [#10903](https://github.com/open-metadata/OpenMetadata/pull/10903) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+5. 🗣 Commented on [#1092](https://github.com/reactplay/react-play/issues/1092) in [reactplay/react-play](https://github.com/reactplay/react-play)
+6. 🗣 Commented on [#49](https://github.com/reactplay/docs/issues/49) in [reactplay/docs](https://github.com/reactplay/docs)
+7. 🗣 Commented on [#3553](https://github.com/rjsf-team/react-jsonschema-form/issues/3553) in [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form)
+8. ❗️ Opened issue [#50](https://github.com/reactplay/docs/issues/50) in [reactplay/docs](https://github.com/reactplay/docs)
+9. 🗣 Commented on [#69](https://github.com/OpenSource-Journey/Your-Github-Contributions/issues/69) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
+10. 🗣 Commented on [#3553](https://github.com/rjsf-team/react-jsonschema-form/issues/3553) in [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form)
 <!--END_SECTION:activity-->
 
 # Recent Blog Posts ✍️
