@@ -183,8 +183,8 @@ I am available for technical writing, Web project collaboration and Open Source 
 6. 🗣 Commented on [#11154](https://github.com/open-metadata/OpenMetadata/issues/11154) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 7. 🗣 Commented on [#11154](https://github.com/open-metadata/OpenMetadata/issues/11154) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 8. 🗣 Commented on [#11154](https://github.com/open-metadata/OpenMetadata/issues/11154) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-9. ❗️ Reopened issue [#10543](https://github.com/open-metadata/OpenMetadata/issues/10543) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-10. 💪 Opened PR [#11262](https://github.com/open-metadata/OpenMetadata/pull/11262) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+9. 🗣 Commented on [#11154](https://github.com/open-metadata/OpenMetadata/issues/11154) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+10. ❗️ Reopened issue [#10543](https://github.com/open-metadata/OpenMetadata/issues/10543) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 <!--END_SECTION:activity-->
 
 # Recent Blog Posts ✍️
