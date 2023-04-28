@@ -63,6 +63,89 @@ I am available for technical writing, Web project collaboration and Open Source 
     </td>
    <td align="center" width="96">
       <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>TypeScript
+    </td>
+   <td align="center" width="96">
+      <a href="#">
+        <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React" />
+      </a>
+      <br>React JS
+    </td> 
+   <td align="center" width="96">
+      <a href="#" >
+        <img src="https://user-images.githubusercontent.com/59080942/235137952-e9a59e3a-a0ee-4054-94d8-473320ed7a6d.png" width="48" height="48" alt="AntD" />
+      </a>
+      <br>AntD
+    </td>
+   <td align="center" width="96">
+      <a href="#" >
+        <img src="https://user-images.githubusercontent.com/59080942/235138549-1de046a5-8e4b-4478-9e0a-8969b99bd851.png" width="100%" height="48" alt="Chakra Ui" />
+      </a>
+      <br>Chakra UI
+    </td>
+   <td align="center" width="96">
+      <a href="#" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+  </tr>
+  <tr> 
+   <td align="center" width="96">
+      <a href="#">
+        <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="48" height="48" alt="Material UI" />
+      </a>
+      <br>Material ui
+    </td>
+   <td align="center" width="96">
+      <a href="#">
+        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>Bootstrap
+    </td>
+   <td align="center" width="96">
+      <a href="#">
+        <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailWind" />
+      </a>
+      <br>TailWind CSS
+    </td>
+   <td align="center" width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="45" height="45" alt="Figma" />
+      </a>
+      <br>Figma
+    </td>
+     <td align="center" width="96"> 
+      <a href="#" >
+        <img src="https://i.ibb.co/QXHcMvM/58481021cef1014c0b5e494b.png" width="48" height="48" alt="Mongo DB" />
+      </a>
+      <br>MongoDB
+    </td>
+   <td align="center"  width="96">
+      <a href="#">
+        <img src="https://user-images.githubusercontent.com/59080942/235139759-1e8dc647-b302-4690-a3c7-bc747a76fad7.png" width="48" height="48" alt="Mysql" />
+      </a>
+      <br>MySQL
+   </td>
+   <td align="center"  width="96">
+      <a href="#">
+        <img src="https://user-images.githubusercontent.com/59080942/235140081-f18d5d9e-d3c3-4dd2-b5a8-bb47ca78690b.png" width="48" height="48" alt="PostgreSQL" />
+      </a>
+      <br>PostgreSQL
+   </td>
+   <td align="center"  width="96">
+      <a href="#">
+        <img src="https://user-images.githubusercontent.com/59080942/235140554-fb5d74aa-9904-4891-8ac4-2728f79db7fe.png" width="48" height="48" alt="Netlify" />
+      </a>
+      <br>Netlify
+   </td>
+  </tr>
+
+   <tr>
+    <td align="center" width="96">
+      <a href="#">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="48" height="48" alt="Python" />
       </a>
       <br>Python
@@ -72,72 +155,13 @@ I am available for technical writing, Web project collaboration and Open Source 
         <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="48" height="48" alt="Django" />
       </a>
       <br>Django
-    </td>
+   </td>
     <td align="center"  width="96">
       <a href="#">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/480px-WordPress_blue_logo.svg.png" width="48" height="48" alt="WordPress" />
       </a>
       <br>WordPress
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React" />
-      </a>
-      <br>React JS
-    </td> 
-  </tr>
-  <tr> 
-     <td align="center" width="96">
-      <a href="#" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-    </td>
-   <td align="center" width="96">
-      <a href="#">
-        <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailWind" />
-      </a>
-      <br>TailWind CSS
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="45" height="45" alt="Figma" />
-      </a>
-      <br>Figma
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="48" height="48" alt="Material UI" />
-      </a>
-      <br>Material ui
-    </td> 
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
-     <td align="center" width="96"> 
-      <a href="#" >
-        <img src="https://i.ibb.co/QXHcMvM/58481021cef1014c0b5e494b.png" width="48" height="48" alt="Mongo DB" />
-      </a>
-      <br>MongoDB
-    </td>
-  </tr>
-  
-   <tr>
-<td align="center" width="96"> 
-      <a href="#" >
-        <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="48" height="48" alt="Redux" />
-      </a>
-      <br>Redux
-    </td>
+   </td>
     <td align="center" width="96">
       <a href="#" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="48" height="48" alt="GraphQL" />
