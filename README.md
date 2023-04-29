@@ -204,11 +204,11 @@ I am available for technical writing, Web project collaboration and Open Source 
 3. 🗣 Commented on [#1142](https://github.com/reactplay/react-play/issues/1142) in [reactplay/react-play](https://github.com/reactplay/react-play)
 4. 🗣 Commented on [#1142](https://github.com/reactplay/react-play/issues/1142) in [reactplay/react-play](https://github.com/reactplay/react-play)
 5. 🗣 Commented on [#1142](https://github.com/reactplay/react-play/issues/1142) in [reactplay/react-play](https://github.com/reactplay/react-play)
-6. 🗣 Commented on [#1138](https://github.com/reactplay/react-play/issues/1138) in [reactplay/react-play](https://github.com/reactplay/react-play)
-7. 💪 Opened PR [#11367](https://github.com/open-metadata/OpenMetadata/pull/11367) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-8. 🗣 Commented on [#1142](https://github.com/reactplay/react-play/issues/1142) in [reactplay/react-play](https://github.com/reactplay/react-play)
-9. 💪 Opened PR [#54](https://github.com/reactplay/docs/pull/54) in [reactplay/docs](https://github.com/reactplay/docs)
-10. 💪 Opened PR [#53](https://github.com/reactplay/docs/pull/53) in [reactplay/docs](https://github.com/reactplay/docs)
+6. 🗣 Commented on [#1142](https://github.com/reactplay/react-play/issues/1142) in [reactplay/react-play](https://github.com/reactplay/react-play)
+7. 🗣 Commented on [#1138](https://github.com/reactplay/react-play/issues/1138) in [reactplay/react-play](https://github.com/reactplay/react-play)
+8. 💪 Opened PR [#11367](https://github.com/open-metadata/OpenMetadata/pull/11367) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+9. 🗣 Commented on [#1142](https://github.com/reactplay/react-play/issues/1142) in [reactplay/react-play](https://github.com/reactplay/react-play)
+10. 💪 Opened PR [#54](https://github.com/reactplay/docs/pull/54) in [reactplay/docs](https://github.com/reactplay/docs)
 <!--END_SECTION:activity-->
 
 # Recent Blog Posts ✍️
