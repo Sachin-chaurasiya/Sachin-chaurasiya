@@ -199,15 +199,15 @@ I am available for technical writing, Web project collaboration and Open Source 
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1142](https://github.com/reactplay/react-play/issues/1142) in [reactplay/react-play](https://github.com/reactplay/react-play)
-2. 🗣 Commented on [#1142](https://github.com/reactplay/react-play/issues/1142) in [reactplay/react-play](https://github.com/reactplay/react-play)
-3. 🗣 Commented on [#1142](https://github.com/reactplay/react-play/issues/1142) in [reactplay/react-play](https://github.com/reactplay/react-play)
+1. ❗️ Closed issue [#47](https://github.com/reactplay/docs/issues/47) in [reactplay/docs](https://github.com/reactplay/docs)
+2. 🗣 Commented on [#47](https://github.com/reactplay/docs/issues/47) in [reactplay/docs](https://github.com/reactplay/docs)
+3. 🗣 Commented on [#49](https://github.com/reactplay/docs/issues/49) in [reactplay/docs](https://github.com/reactplay/docs)
 4. 🗣 Commented on [#1142](https://github.com/reactplay/react-play/issues/1142) in [reactplay/react-play](https://github.com/reactplay/react-play)
 5. 🗣 Commented on [#1142](https://github.com/reactplay/react-play/issues/1142) in [reactplay/react-play](https://github.com/reactplay/react-play)
 6. 🗣 Commented on [#1142](https://github.com/reactplay/react-play/issues/1142) in [reactplay/react-play](https://github.com/reactplay/react-play)
 7. 🗣 Commented on [#1142](https://github.com/reactplay/react-play/issues/1142) in [reactplay/react-play](https://github.com/reactplay/react-play)
-8. 🗣 Commented on [#1138](https://github.com/reactplay/react-play/issues/1138) in [reactplay/react-play](https://github.com/reactplay/react-play)
-9. 💪 Opened PR [#11367](https://github.com/open-metadata/OpenMetadata/pull/11367) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+8. 🗣 Commented on [#1142](https://github.com/reactplay/react-play/issues/1142) in [reactplay/react-play](https://github.com/reactplay/react-play)
+9. 🗣 Commented on [#1142](https://github.com/reactplay/react-play/issues/1142) in [reactplay/react-play](https://github.com/reactplay/react-play)
 10. 🗣 Commented on [#1142](https://github.com/reactplay/react-play/issues/1142) in [reactplay/react-play](https://github.com/reactplay/react-play)
 <!--END_SECTION:activity-->
 
