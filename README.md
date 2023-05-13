@@ -30,9 +30,9 @@ I am available for technical writing, Web project collaboration and Open Source 
 
 - ✨ Contributing to [OpenMetadata](https://github.com/open-metadata), [react-awesome-shapes](https://github.com/ashutosh1919/react-awesome-shapes) and [ReactPlay](https://github.com/reactplay) Open source community.
 
-- ✨ Learing JamStack
+- ✨ Learning Docker
 
-- ✨ Learning DevOps
+- ✨ Learning TypeScript
 
 - 📝 Writing Technical Articles
 
