@@ -18,7 +18,7 @@ jobs:
         with:
           USERNAME: "Sachinchaurasiya" # Hashnode Username
           COUNT: 4 # MAX Visisble
-          STYLE: "blog-left"
+          STYLE: "blog-grid"
           BLOG_URL: "https://blog.sachinchaurasiya.dev/"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
