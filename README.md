@@ -199,16 +199,16 @@ I am available for technical writing, Web project collaboration and Open Source 
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#11912](https://github.com/open-metadata/OpenMetadata/pull/11912) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-2. 💪 Opened PR [#11910](https://github.com/open-metadata/OpenMetadata/pull/11910) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-3. 🔒 Closed issue [#11377](https://github.com/open-metadata/OpenMetadata/issues/11377) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-4. 🗣 Commented on [#11377](https://github.com/open-metadata/OpenMetadata/issues/11377) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-5. 🎉 Merged PR [#11897](https://github.com/open-metadata/OpenMetadata/pull/11897) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-6. 🎉 Merged PR [#132](https://github.com/open-metadata/docs-v1/pull/132) in [open-metadata/docs-v1](https://github.com/open-metadata/docs-v1)
-7. 💪 Opened PR [#11897](https://github.com/open-metadata/OpenMetadata/pull/11897) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-8. 💪 Opened PR [#133](https://github.com/open-metadata/docs-v1/pull/133) in [open-metadata/docs-v1](https://github.com/open-metadata/docs-v1)
-9. 🔒 Closed issue [#11854](https://github.com/open-metadata/OpenMetadata/issues/11854) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-10. 🎉 Merged PR [#11867](https://github.com/open-metadata/OpenMetadata/pull/11867) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+1. 💪 Opened PR [#11916](https://github.com/open-metadata/OpenMetadata/pull/11916) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+2. 💪 Opened PR [#11912](https://github.com/open-metadata/OpenMetadata/pull/11912) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+3. 💪 Opened PR [#11910](https://github.com/open-metadata/OpenMetadata/pull/11910) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+4. 🔒 Closed issue [#11377](https://github.com/open-metadata/OpenMetadata/issues/11377) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+5. 🗣 Commented on [#11377](https://github.com/open-metadata/OpenMetadata/issues/11377) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+6. 🎉 Merged PR [#11897](https://github.com/open-metadata/OpenMetadata/pull/11897) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+7. 🎉 Merged PR [#132](https://github.com/open-metadata/docs-v1/pull/132) in [open-metadata/docs-v1](https://github.com/open-metadata/docs-v1)
+8. 💪 Opened PR [#11897](https://github.com/open-metadata/OpenMetadata/pull/11897) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+9. 💪 Opened PR [#133](https://github.com/open-metadata/docs-v1/pull/133) in [open-metadata/docs-v1](https://github.com/open-metadata/docs-v1)
+10. 🔒 Closed issue [#11854](https://github.com/open-metadata/OpenMetadata/issues/11854) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 <!--END_SECTION:activity-->
 
 # Recent Blog Posts ✍️
