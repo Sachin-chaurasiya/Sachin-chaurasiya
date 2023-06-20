@@ -199,16 +199,16 @@ I am available for technical writing, Web project collaboration and Open Source 
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#11846](https://github.com/open-metadata/OpenMetadata/issues/11846) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-2. 🗣 Commented on [#11846](https://github.com/open-metadata/OpenMetadata/issues/11846) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-3. 🎉 Merged PR [#48](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder/pull/48) in [Sachin-chaurasiya/Code-Snippets-Builder](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder)
-4. 💪 Opened PR [#48](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder/pull/48) in [Sachin-chaurasiya/Code-Snippets-Builder](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder)
-5. 💪 Opened PR [#12045](https://github.com/open-metadata/OpenMetadata/pull/12045) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-6. 🔒 Closed issue [#1188](https://github.com/reactplay/react-play/issues/1188) in [reactplay/react-play](https://github.com/reactplay/react-play)
-7. 🎉 Merged PR [#1186](https://github.com/reactplay/react-play/pull/1186) in [reactplay/react-play](https://github.com/reactplay/react-play)
-8. 🎉 Merged PR [#96](https://github.com/open-metadata/openmetadata-site/pull/96) in [open-metadata/openmetadata-site](https://github.com/open-metadata/openmetadata-site)
-9. 💪 Opened PR [#96](https://github.com/open-metadata/openmetadata-site/pull/96) in [open-metadata/openmetadata-site](https://github.com/open-metadata/openmetadata-site)
-10. 🚀 Published release [v0.0.16](https://github.com/v0.0.16) in [Sachin-chaurasiya/Code-Snippets-Builder](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder)
+1. 🎉 Merged PR [#49](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder/pull/49) in [Sachin-chaurasiya/Code-Snippets-Builder](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder)
+2. 🔒 Closed issue [#11846](https://github.com/open-metadata/OpenMetadata/issues/11846) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+3. 🗣 Commented on [#11846](https://github.com/open-metadata/OpenMetadata/issues/11846) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+4. 🎉 Merged PR [#48](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder/pull/48) in [Sachin-chaurasiya/Code-Snippets-Builder](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder)
+5. 💪 Opened PR [#48](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder/pull/48) in [Sachin-chaurasiya/Code-Snippets-Builder](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder)
+6. 💪 Opened PR [#12045](https://github.com/open-metadata/OpenMetadata/pull/12045) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+7. 🔒 Closed issue [#1188](https://github.com/reactplay/react-play/issues/1188) in [reactplay/react-play](https://github.com/reactplay/react-play)
+8. 🎉 Merged PR [#1186](https://github.com/reactplay/react-play/pull/1186) in [reactplay/react-play](https://github.com/reactplay/react-play)
+9. 🎉 Merged PR [#96](https://github.com/open-metadata/openmetadata-site/pull/96) in [open-metadata/openmetadata-site](https://github.com/open-metadata/openmetadata-site)
+10. 💪 Opened PR [#96](https://github.com/open-metadata/openmetadata-site/pull/96) in [open-metadata/openmetadata-site](https://github.com/open-metadata/openmetadata-site)
 <!--END_SECTION:activity-->
 
 # Recent Blog Posts ✍️
