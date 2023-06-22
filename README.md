@@ -199,16 +199,16 @@ I am available for technical writing, Web project collaboration and Open Source 
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1159](https://github.com/reactplay/react-play/issues/1159) in [reactplay/react-play](https://github.com/reactplay/react-play)
-2. 🚀 Published release [v0.0.18](https://github.com/v0.0.18) in [Sachin-chaurasiya/Code-Snippets-Builder](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder)
-3. 🎉 Merged PR [#50](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder/pull/50) in [Sachin-chaurasiya/Code-Snippets-Builder](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder)
-4. 💪 Opened PR [#50](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder/pull/50) in [Sachin-chaurasiya/Code-Snippets-Builder](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder)
-5. 💪 Opened PR [#12084](https://github.com/open-metadata/OpenMetadata/pull/12084) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-6. 🚀 Published release [v0.0.17](https://github.com/v0.0.17) in [Sachin-chaurasiya/Code-Snippets-Builder](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder)
-7. 🎉 Merged PR [#49](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder/pull/49) in [Sachin-chaurasiya/Code-Snippets-Builder](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder)
-8. 🔒 Closed issue [#11846](https://github.com/open-metadata/OpenMetadata/issues/11846) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-9. 🗣 Commented on [#11846](https://github.com/open-metadata/OpenMetadata/issues/11846) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-10. 🎉 Merged PR [#48](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder/pull/48) in [Sachin-chaurasiya/Code-Snippets-Builder](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder)
+1. 💪 Opened PR [#12097](https://github.com/open-metadata/OpenMetadata/pull/12097) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+2. 🗣 Commented on [#1159](https://github.com/reactplay/react-play/issues/1159) in [reactplay/react-play](https://github.com/reactplay/react-play)
+3. 🚀 Published release [v0.0.18](https://github.com/v0.0.18) in [Sachin-chaurasiya/Code-Snippets-Builder](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder)
+4. 🎉 Merged PR [#50](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder/pull/50) in [Sachin-chaurasiya/Code-Snippets-Builder](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder)
+5. 💪 Opened PR [#50](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder/pull/50) in [Sachin-chaurasiya/Code-Snippets-Builder](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder)
+6. 💪 Opened PR [#12084](https://github.com/open-metadata/OpenMetadata/pull/12084) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+7. 🚀 Published release [v0.0.17](https://github.com/v0.0.17) in [Sachin-chaurasiya/Code-Snippets-Builder](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder)
+8. 🎉 Merged PR [#49](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder/pull/49) in [Sachin-chaurasiya/Code-Snippets-Builder](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder)
+9. 🔒 Closed issue [#11846](https://github.com/open-metadata/OpenMetadata/issues/11846) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+10. 🗣 Commented on [#11846](https://github.com/open-metadata/OpenMetadata/issues/11846) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 <!--END_SECTION:activity-->
 
 # Recent Blog Posts ✍️
