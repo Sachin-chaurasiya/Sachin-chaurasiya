@@ -199,16 +199,16 @@ I am available for technical writing, Web project collaboration and Open Source 
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#12231](https://github.com/open-metadata/OpenMetadata/pull/12231) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-2. 🗣 Commented on [#12163](https://github.com/open-metadata/OpenMetadata/issues/12163) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-3. 💪 Opened PR [#12225](https://github.com/open-metadata/OpenMetadata/pull/12225) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-4. 💪 Opened PR [#12163](https://github.com/open-metadata/OpenMetadata/pull/12163) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-5. 🎉 Merged PR [#53](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder/pull/53) in [Sachin-chaurasiya/Code-Snippets-Builder](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder)
-6. 💪 Opened PR [#53](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder/pull/53) in [Sachin-chaurasiya/Code-Snippets-Builder](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder)
-7. 💪 Opened PR [#12122](https://github.com/open-metadata/OpenMetadata/pull/12122) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-8. 🎉 Merged PR [#52](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder/pull/52) in [Sachin-chaurasiya/Code-Snippets-Builder](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder)
-9. 🚀 Published release [v0.0.19](https://github.com/v0.0.19) in [Sachin-chaurasiya/Code-Snippets-Builder](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder)
-10. 🎉 Merged PR [#51](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder/pull/51) in [Sachin-chaurasiya/Code-Snippets-Builder](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder)
+1. 🔒 Closed issue [#54](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder/issues/54) in [Sachin-chaurasiya/Code-Snippets-Builder](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder)
+2. 🎉 Merged PR [#55](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder/pull/55) in [Sachin-chaurasiya/Code-Snippets-Builder](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder)
+3. 🗣 Commented on [#55](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder/issues/55) in [Sachin-chaurasiya/Code-Snippets-Builder](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder)
+4. 💪 Opened PR [#12231](https://github.com/open-metadata/OpenMetadata/pull/12231) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+5. 🗣 Commented on [#12163](https://github.com/open-metadata/OpenMetadata/issues/12163) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+6. 💪 Opened PR [#12225](https://github.com/open-metadata/OpenMetadata/pull/12225) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+7. 💪 Opened PR [#12163](https://github.com/open-metadata/OpenMetadata/pull/12163) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+8. 🎉 Merged PR [#53](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder/pull/53) in [Sachin-chaurasiya/Code-Snippets-Builder](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder)
+9. 💪 Opened PR [#53](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder/pull/53) in [Sachin-chaurasiya/Code-Snippets-Builder](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder)
+10. 💪 Opened PR [#12122](https://github.com/open-metadata/OpenMetadata/pull/12122) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 <!--END_SECTION:activity-->
 
 # Recent Blog Posts ✍️
