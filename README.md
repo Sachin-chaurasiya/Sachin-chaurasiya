@@ -200,7 +200,7 @@ I am available for technical writing, Web project collaboration and Open Source 
 <!--START_SECTION:activity-->
 
 1. 💪 Opened PR [#12421](https://github.com/open-metadata/OpenMetadata/pull/12421) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-2. 🗣 Commented on [#12403](https://github.com/open-metadata/OpenMetadata/issues/12403) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+2. 🗣 Commented on [#12403](https://github.com/open-metadata/OpenMetadata/issues/12403#issuecomment-1633747855) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 3. 🎉 Merged PR [#67](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder/pull/67) in [Sachin-chaurasiya/Code-Snippets-Builder](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder)
 4. 💪 Opened PR [#67](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder/pull/67) in [Sachin-chaurasiya/Code-Snippets-Builder](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder)
 5. 🎉 Merged PR [#66](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder/pull/66) in [Sachin-chaurasiya/Code-Snippets-Builder](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder)
