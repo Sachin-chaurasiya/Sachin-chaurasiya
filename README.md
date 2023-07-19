@@ -199,16 +199,16 @@ I am available for technical writing, Web project collaboration and Open Source 
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/Sachin-chaurasiya/Open-Source-REST-API/pull/1) in [Sachin-chaurasiya/Open-Source-REST-API](https://github.com/Sachin-chaurasiya/Open-Source-REST-API)
-2. 🗣 Commented on [#12459](https://github.com/open-metadata/OpenMetadata/issues/12459#issuecomment-1640104299) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-3. 💪 Opened PR [#12477](https://github.com/open-metadata/OpenMetadata/pull/12477) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-4. 🎉 Merged PR [#12471](https://github.com/open-metadata/OpenMetadata/pull/12471) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-5. 💪 Opened PR [#12471](https://github.com/open-metadata/OpenMetadata/pull/12471) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-6. 🎉 Merged PR [#73](https://github.com/OpenSource-Journey/Your-Github-Contributions/pull/73) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
-7. 🎉 Merged PR [#72](https://github.com/OpenSource-Journey/Your-Github-Contributions/pull/72) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
-8. 🎉 Merged PR [#70](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder/pull/70) in [Sachin-chaurasiya/Code-Snippets-Builder](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder)
-9. 💪 Opened PR [#70](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder/pull/70) in [Sachin-chaurasiya/Code-Snippets-Builder](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder)
-10. 🎉 Merged PR [#69](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder/pull/69) in [Sachin-chaurasiya/Code-Snippets-Builder](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder)
+1. 🎉 Merged PR [#3](https://github.com/Sachin-chaurasiya/indian-dishes-api/pull/3) in [Sachin-chaurasiya/indian-dishes-api](https://github.com/Sachin-chaurasiya/indian-dishes-api)
+2. 🎉 Merged PR [#2](https://github.com/Sachin-chaurasiya/indian-dishes-api/pull/2) in [Sachin-chaurasiya/indian-dishes-api](https://github.com/Sachin-chaurasiya/indian-dishes-api)
+3. 🎉 Merged PR [#1](https://github.com/Sachin-chaurasiya/Open-Source-REST-API/pull/1) in [Sachin-chaurasiya/Open-Source-REST-API](https://github.com/Sachin-chaurasiya/Open-Source-REST-API)
+4. 🗣 Commented on [#12459](https://github.com/open-metadata/OpenMetadata/issues/12459#issuecomment-1640104299) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+5. 💪 Opened PR [#12477](https://github.com/open-metadata/OpenMetadata/pull/12477) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+6. 🎉 Merged PR [#12471](https://github.com/open-metadata/OpenMetadata/pull/12471) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+7. 💪 Opened PR [#12471](https://github.com/open-metadata/OpenMetadata/pull/12471) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+8. 🎉 Merged PR [#73](https://github.com/OpenSource-Journey/Your-Github-Contributions/pull/73) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
+9. 🎉 Merged PR [#72](https://github.com/OpenSource-Journey/Your-Github-Contributions/pull/72) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
+10. 🎉 Merged PR [#70](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder/pull/70) in [Sachin-chaurasiya/Code-Snippets-Builder](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder)
 <!--END_SECTION:activity-->
 
 # Recent Blog Posts ✍️
