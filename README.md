@@ -38,6 +38,7 @@ I am available for technical writing, Web project collaboration and Open Source 
 
 # NPM Packages Published by Me 📦
 ![npm](https://img.shields.io/npm/dt/github-user-contribution-summary?label=github-user-contribution-summary&style=plastic)
+![npm](https://img.shields.io/npm/dt/sso-clients?label=sso-clients&style=plastic)
 
 # Languages and Tools 🛠
 
