@@ -200,16 +200,16 @@ I am available for technical writing, Web project collaboration and Open Source 
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/Sachin-chaurasiya/sso-clients/pull/1) in [Sachin-chaurasiya/sso-clients](https://github.com/Sachin-chaurasiya/sso-clients)
-2. 💪 Opened PR [#1](https://github.com/Sachin-chaurasiya/sso-clients/pull/1) in [Sachin-chaurasiya/sso-clients](https://github.com/Sachin-chaurasiya/sso-clients)
-3. 🚀 Published release [v0.0.6](https://github.com/Sachin-chaurasiya/sso-clients/releases/tag/v0.0.6) in [Sachin-chaurasiya/sso-clients](https://github.com/Sachin-chaurasiya/sso-clients)
-4. 🗣 Commented on [#12549](https://github.com/open-metadata/OpenMetadata/issues/12549#issuecomment-1646062106) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-5. 💪 Opened PR [#12551](https://github.com/open-metadata/OpenMetadata/pull/12551) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-6. 🔒 Closed issue [#12549](https://github.com/open-metadata/OpenMetadata/issues/12549) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-7. 🗣 Commented on [#12549](https://github.com/open-metadata/OpenMetadata/issues/12549#issuecomment-1645606067) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-8. 💪 Opened PR [#12537](https://github.com/open-metadata/OpenMetadata/pull/12537) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-9. 💪 Opened PR [#12524](https://github.com/open-metadata/OpenMetadata/pull/12524) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-10. 🎉 Merged PR [#3](https://github.com/Sachin-chaurasiya/indian-dishes-api/pull/3) in [Sachin-chaurasiya/indian-dishes-api](https://github.com/Sachin-chaurasiya/indian-dishes-api)
+1. 💪 Opened PR [#3](https://github.com/Sachin-chaurasiya/sso-clients/pull/3) in [Sachin-chaurasiya/sso-clients](https://github.com/Sachin-chaurasiya/sso-clients)
+2. 🎉 Merged PR [#1](https://github.com/Sachin-chaurasiya/sso-clients/pull/1) in [Sachin-chaurasiya/sso-clients](https://github.com/Sachin-chaurasiya/sso-clients)
+3. 💪 Opened PR [#1](https://github.com/Sachin-chaurasiya/sso-clients/pull/1) in [Sachin-chaurasiya/sso-clients](https://github.com/Sachin-chaurasiya/sso-clients)
+4. 🚀 Published release [v0.0.6](https://github.com/Sachin-chaurasiya/sso-clients/releases/tag/v0.0.6) in [Sachin-chaurasiya/sso-clients](https://github.com/Sachin-chaurasiya/sso-clients)
+5. 🗣 Commented on [#12549](https://github.com/open-metadata/OpenMetadata/issues/12549#issuecomment-1646062106) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+6. 💪 Opened PR [#12551](https://github.com/open-metadata/OpenMetadata/pull/12551) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+7. 🔒 Closed issue [#12549](https://github.com/open-metadata/OpenMetadata/issues/12549) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+8. 🗣 Commented on [#12549](https://github.com/open-metadata/OpenMetadata/issues/12549#issuecomment-1645606067) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+9. 💪 Opened PR [#12537](https://github.com/open-metadata/OpenMetadata/pull/12537) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+10. 💪 Opened PR [#12524](https://github.com/open-metadata/OpenMetadata/pull/12524) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 <!--END_SECTION:activity-->
 
 # Recent Blog Posts ✍️
