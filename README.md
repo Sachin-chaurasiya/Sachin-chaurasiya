@@ -197,6 +197,8 @@ I am available for technical writing, Web project collaboration and Open Source 
 
 [![@sachinchaurasiya87's Holopin board](https://holopin.io/api/user/board?user=sachinchaurasiya87)](https://holopin.io/@sachinchaurasiya87)
 
+[![An image of @sachinchaurasiya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sachinchaurasiya)](https://holopin.io/@sachinchaurasiya)
+
 # Recent Activity :zap:
 
 <!--START_SECTION:activity-->
