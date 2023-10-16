@@ -203,16 +203,16 @@ I am available for technical writing, Web project collaboration and Open Source 
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1558](https://github.com/ajv-validator/ajv/issues/1558#issuecomment-1764112262) in [ajv-validator/ajv](https://github.com/ajv-validator/ajv)
-2. 💪 Opened PR [#2336](https://github.com/ajv-validator/ajv/pull/2336) in [ajv-validator/ajv](https://github.com/ajv-validator/ajv)
-3. 🗣 Commented on [#1558](https://github.com/ajv-validator/ajv/issues/1558#issuecomment-1764063472) in [ajv-validator/ajv](https://github.com/ajv-validator/ajv)
-4. 🎉 Merged PR [#106](https://github.com/open-metadata/openmetadata-site/pull/106) in [open-metadata/openmetadata-site](https://github.com/open-metadata/openmetadata-site)
-5. 💪 Opened PR [#106](https://github.com/open-metadata/openmetadata-site/pull/106) in [open-metadata/openmetadata-site](https://github.com/open-metadata/openmetadata-site)
-6. ❗ Opened issue [#245](https://github.com/appwrite/website/issues/245) in [appwrite/website](https://github.com/appwrite/website)
-7. 💪 Opened PR [#13570](https://github.com/open-metadata/OpenMetadata/pull/13570) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-8. 🎉 Merged PR [#80](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder/pull/80) in [Sachin-chaurasiya/Code-Snippets-Builder](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder)
-9. 🔒 Closed issue [#79](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder/issues/79) in [Sachin-chaurasiya/Code-Snippets-Builder](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder)
-10. 🎉 Merged PR [#78](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder/pull/78) in [Sachin-chaurasiya/Code-Snippets-Builder](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder)
+1. 🗣 Commented on [#2336](https://github.com/ajv-validator/ajv/pull/2336#issuecomment-1764263112) in [ajv-validator/ajv](https://github.com/ajv-validator/ajv)
+2. 🗣 Commented on [#1558](https://github.com/ajv-validator/ajv/issues/1558#issuecomment-1764112262) in [ajv-validator/ajv](https://github.com/ajv-validator/ajv)
+3. 💪 Opened PR [#2336](https://github.com/ajv-validator/ajv/pull/2336) in [ajv-validator/ajv](https://github.com/ajv-validator/ajv)
+4. 🗣 Commented on [#1558](https://github.com/ajv-validator/ajv/issues/1558#issuecomment-1764063472) in [ajv-validator/ajv](https://github.com/ajv-validator/ajv)
+5. 🎉 Merged PR [#106](https://github.com/open-metadata/openmetadata-site/pull/106) in [open-metadata/openmetadata-site](https://github.com/open-metadata/openmetadata-site)
+6. 💪 Opened PR [#106](https://github.com/open-metadata/openmetadata-site/pull/106) in [open-metadata/openmetadata-site](https://github.com/open-metadata/openmetadata-site)
+7. ❗ Opened issue [#245](https://github.com/appwrite/website/issues/245) in [appwrite/website](https://github.com/appwrite/website)
+8. 💪 Opened PR [#13570](https://github.com/open-metadata/OpenMetadata/pull/13570) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+9. 🎉 Merged PR [#80](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder/pull/80) in [Sachin-chaurasiya/Code-Snippets-Builder](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder)
+10. 🔒 Closed issue [#79](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder/issues/79) in [Sachin-chaurasiya/Code-Snippets-Builder](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder)
 <!--END_SECTION:activity-->
 
 # Recent Blog Posts ✍️
