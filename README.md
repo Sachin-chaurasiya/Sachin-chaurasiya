@@ -203,16 +203,16 @@ I am available for technical writing, Web project collaboration and Open Source 
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#89](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder/pull/89) in [Sachin-chaurasiya/Code-Snippets-Builder](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder)
-2. 🔒 Closed issue [#87](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder/issues/87) in [Sachin-chaurasiya/Code-Snippets-Builder](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder)
-3. 🎉 Merged PR [#88](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder/pull/88) in [Sachin-chaurasiya/Code-Snippets-Builder](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder)
-4. 💪 Opened PR [#88](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder/pull/88) in [Sachin-chaurasiya/Code-Snippets-Builder](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder)
-5. ❗ Opened issue [#87](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder/issues/87) in [Sachin-chaurasiya/Code-Snippets-Builder](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder)
-6. 🎉 Merged PR [#86](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder/pull/86) in [Sachin-chaurasiya/Code-Snippets-Builder](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder)
-7. 🗣 Commented on [#1357](https://github.com/reactplay/react-play/pull/1357#issuecomment-1806863646) in [reactplay/react-play](https://github.com/reactplay/react-play)
-8. 💪 Opened PR [#86](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder/pull/86) in [Sachin-chaurasiya/Code-Snippets-Builder](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder)
-9. 🗣 Commented on [#85](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder/issues/85#issuecomment-1806082744) in [Sachin-chaurasiya/Code-Snippets-Builder](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder)
-10. 💪 Opened PR [#13941](https://github.com/open-metadata/OpenMetadata/pull/13941) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+1. ❗ Opened issue [#624](https://github.com/appwrite/console/issues/624) in [appwrite/console](https://github.com/appwrite/console)
+2. 🎉 Merged PR [#89](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder/pull/89) in [Sachin-chaurasiya/Code-Snippets-Builder](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder)
+3. 🔒 Closed issue [#87](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder/issues/87) in [Sachin-chaurasiya/Code-Snippets-Builder](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder)
+4. 🎉 Merged PR [#88](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder/pull/88) in [Sachin-chaurasiya/Code-Snippets-Builder](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder)
+5. 💪 Opened PR [#88](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder/pull/88) in [Sachin-chaurasiya/Code-Snippets-Builder](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder)
+6. ❗ Opened issue [#87](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder/issues/87) in [Sachin-chaurasiya/Code-Snippets-Builder](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder)
+7. 🎉 Merged PR [#86](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder/pull/86) in [Sachin-chaurasiya/Code-Snippets-Builder](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder)
+8. 🗣 Commented on [#1357](https://github.com/reactplay/react-play/pull/1357#issuecomment-1806863646) in [reactplay/react-play](https://github.com/reactplay/react-play)
+9. 💪 Opened PR [#86](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder/pull/86) in [Sachin-chaurasiya/Code-Snippets-Builder](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder)
+10. 🗣 Commented on [#85](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder/issues/85#issuecomment-1806082744) in [Sachin-chaurasiya/Code-Snippets-Builder](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder)
 <!--END_SECTION:activity-->
 
 # Recent Blog Posts ✍️
