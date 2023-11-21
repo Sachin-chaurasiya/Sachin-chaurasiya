@@ -203,16 +203,16 @@ I am available for technical writing, Web project collaboration and Open Source 
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#2](https://github.com/open-metadata/blog-ui/pull/2) in [open-metadata/blog-ui](https://github.com/open-metadata/blog-ui)
-2. 🎉 Merged PR [#1](https://github.com/open-metadata/blog-ui/pull/1) in [open-metadata/blog-ui](https://github.com/open-metadata/blog-ui)
-3. 💪 Opened PR [#1](https://github.com/open-metadata/blog-ui/pull/1) in [open-metadata/blog-ui](https://github.com/open-metadata/blog-ui)
-4. 💪 Opened PR [#513](https://github.com/appwrite/awesome-appwrite/pull/513) in [appwrite/awesome-appwrite](https://github.com/appwrite/awesome-appwrite)
-5. ❗ Opened issue [#624](https://github.com/appwrite/console/issues/624) in [appwrite/console](https://github.com/appwrite/console)
-6. 🎉 Merged PR [#89](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder/pull/89) in [Sachin-chaurasiya/Code-Snippets-Builder](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder)
-7. 🔒 Closed issue [#87](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder/issues/87) in [Sachin-chaurasiya/Code-Snippets-Builder](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder)
-8. 🎉 Merged PR [#88](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder/pull/88) in [Sachin-chaurasiya/Code-Snippets-Builder](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder)
-9. 💪 Opened PR [#88](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder/pull/88) in [Sachin-chaurasiya/Code-Snippets-Builder](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder)
-10. ❗ Opened issue [#87](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder/issues/87) in [Sachin-chaurasiya/Code-Snippets-Builder](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder)
+1. 🎉 Merged PR [#2](https://github.com/open-metadata/blog-ui/pull/2) in [open-metadata/blog-ui](https://github.com/open-metadata/blog-ui)
+2. 💪 Opened PR [#2](https://github.com/open-metadata/blog-ui/pull/2) in [open-metadata/blog-ui](https://github.com/open-metadata/blog-ui)
+3. 🎉 Merged PR [#1](https://github.com/open-metadata/blog-ui/pull/1) in [open-metadata/blog-ui](https://github.com/open-metadata/blog-ui)
+4. 💪 Opened PR [#1](https://github.com/open-metadata/blog-ui/pull/1) in [open-metadata/blog-ui](https://github.com/open-metadata/blog-ui)
+5. 💪 Opened PR [#513](https://github.com/appwrite/awesome-appwrite/pull/513) in [appwrite/awesome-appwrite](https://github.com/appwrite/awesome-appwrite)
+6. ❗ Opened issue [#624](https://github.com/appwrite/console/issues/624) in [appwrite/console](https://github.com/appwrite/console)
+7. 🎉 Merged PR [#89](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder/pull/89) in [Sachin-chaurasiya/Code-Snippets-Builder](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder)
+8. 🔒 Closed issue [#87](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder/issues/87) in [Sachin-chaurasiya/Code-Snippets-Builder](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder)
+9. 🎉 Merged PR [#88](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder/pull/88) in [Sachin-chaurasiya/Code-Snippets-Builder](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder)
+10. 💪 Opened PR [#88](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder/pull/88) in [Sachin-chaurasiya/Code-Snippets-Builder](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder)
 <!--END_SECTION:activity-->
 
 # Recent Blog Posts ✍️
