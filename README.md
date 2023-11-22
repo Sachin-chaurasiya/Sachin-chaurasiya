@@ -203,16 +203,16 @@ I am available for technical writing, Web project collaboration and Open Source 
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#14057](https://github.com/open-metadata/OpenMetadata/pull/14057) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-2. 💪 Opened PR [#14052](https://github.com/open-metadata/OpenMetadata/pull/14052) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-3. ❗ Opened issue [#14047](https://github.com/open-metadata/OpenMetadata/issues/14047) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-4. 🎉 Merged PR [#2](https://github.com/open-metadata/blog-ui/pull/2) in [open-metadata/blog-ui](https://github.com/open-metadata/blog-ui)
-5. 💪 Opened PR [#2](https://github.com/open-metadata/blog-ui/pull/2) in [open-metadata/blog-ui](https://github.com/open-metadata/blog-ui)
-6. 🎉 Merged PR [#1](https://github.com/open-metadata/blog-ui/pull/1) in [open-metadata/blog-ui](https://github.com/open-metadata/blog-ui)
-7. 💪 Opened PR [#1](https://github.com/open-metadata/blog-ui/pull/1) in [open-metadata/blog-ui](https://github.com/open-metadata/blog-ui)
-8. 💪 Opened PR [#513](https://github.com/appwrite/awesome-appwrite/pull/513) in [appwrite/awesome-appwrite](https://github.com/appwrite/awesome-appwrite)
-9. ❗ Opened issue [#624](https://github.com/appwrite/console/issues/624) in [appwrite/console](https://github.com/appwrite/console)
-10. 🎉 Merged PR [#89](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder/pull/89) in [Sachin-chaurasiya/Code-Snippets-Builder](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder)
+1. 💪 Opened PR [#14066](https://github.com/open-metadata/OpenMetadata/pull/14066) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+2. 💪 Opened PR [#14057](https://github.com/open-metadata/OpenMetadata/pull/14057) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+3. 💪 Opened PR [#14052](https://github.com/open-metadata/OpenMetadata/pull/14052) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+4. ❗ Opened issue [#14047](https://github.com/open-metadata/OpenMetadata/issues/14047) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+5. 🎉 Merged PR [#2](https://github.com/open-metadata/blog-ui/pull/2) in [open-metadata/blog-ui](https://github.com/open-metadata/blog-ui)
+6. 💪 Opened PR [#2](https://github.com/open-metadata/blog-ui/pull/2) in [open-metadata/blog-ui](https://github.com/open-metadata/blog-ui)
+7. 🎉 Merged PR [#1](https://github.com/open-metadata/blog-ui/pull/1) in [open-metadata/blog-ui](https://github.com/open-metadata/blog-ui)
+8. 💪 Opened PR [#1](https://github.com/open-metadata/blog-ui/pull/1) in [open-metadata/blog-ui](https://github.com/open-metadata/blog-ui)
+9. 💪 Opened PR [#513](https://github.com/appwrite/awesome-appwrite/pull/513) in [appwrite/awesome-appwrite](https://github.com/appwrite/awesome-appwrite)
+10. ❗ Opened issue [#624](https://github.com/appwrite/console/issues/624) in [appwrite/console](https://github.com/appwrite/console)
 <!--END_SECTION:activity-->
 
 # Recent Blog Posts ✍️
