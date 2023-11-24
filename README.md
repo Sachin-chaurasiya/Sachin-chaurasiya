@@ -218,10 +218,32 @@ I am available for technical writing, Web project collaboration and Open Source 
 # Recent Blog Posts ✍️
 
 <!-- HASHNODE_BLOG:START -->
-| ![How to Dynamically Adjust the Height of a Textarea in ReactJS](https://cdn.hashnode.com/res/hashnode/image/upload/v1698231555487/0cf1915a-966c-49fa-99a2-196f0215a956.png) | [How to Dynamically Adjust the Height of a Textarea in ReactJS](https://blog.alexdevero.com/how-to-dynamically-adjust-the-height-of-a-textarea-in-reactjs) | 2023-10-25T10:49:03.849Z |
-| ![Code Snippet Builder - Create stunning code snippets](https://cdn.hashnode.com/res/hashnode/image/upload/v1686681251794/09f021a5-9795-4c30-8481-665235a4697f.png) | [Code Snippet Builder - Create stunning code snippets](https://blog.alexdevero.com/code-snippet-builder-create-stunning-code-snippets) | 2023-06-13T19:06:35.464Z |
-| ![Markdown for beginners: with examples](https://cdn.hashnode.com/res/hashnode/image/upload/v1676461910728/c2e37b38-9fc7-4c24-8a5a-1950cc443031.png) | [Markdown for beginners: with examples](https://blog.alexdevero.com/markdown-for-beginners-with-examples) | 2023-02-15T12:05:18.599Z |
-| ![5 Most Useful Tips For Open Source Contribution](https://cdn.hashnode.com/res/hashnode/image/upload/v1674120392263/3812a35c-9d52-42e5-af36-af4739a28d16.png) | [5 Most Useful Tips For Open Source Contribution](https://blog.alexdevero.com/5-most-useful-tips-for-open-source-contribution) | 2023-01-20T04:35:07.995Z |
-| ![The Power of Collaboration: How Contributing to Open Source Can Help You and Others](https://cdn.hashnode.com/res/hashnode/image/upload/v1673064238114/1578dfcb-b5eb-4628-95cb-e9f52e510196.png) | [The Power of Collaboration: How Contributing to Open Source Can Help You and Others](https://blog.alexdevero.com/the-power-of-collaboration-how-contributing-to-open-source-can-help-you-and-others) | 2023-01-07T06:56:09.872Z |
-| ![How to Integrate ReactJs and react-helmet-async - Manage SEO and Meta Data](https://cdn.hashnode.com/res/hashnode/image/upload/v1672514441464/6752ebaf-d090-4501-99d8-e2bb6c32fde4.png) | [How to Integrate ReactJs and react-helmet-async - Manage SEO and Meta Data](https://blog.alexdevero.com/how-to-integrate-reactjs-and-react-helmet-async-manage-seo-and-meta-data) | 2023-01-02T04:18:08.142Z |
+<table><tr><td><a href="https://blog.sachinchaurasiya.dev//how-to-dynamically-adjust-the-height-of-a-textarea-in-reactjs" title="How to Dynamically Adjust the Height of a Textarea in ReactJS"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1698231555487/0cf1915a-966c-49fa-99a2-196f0215a956.png" alt="How to Dynamically Adjust the Height of a Textarea in ReactJS"   /></a>
+<a href="https://blog.sachinchaurasiya.dev//how-to-dynamically-adjust-the-height-of-a-textarea-in-reactjs" title="How to Dynamically Adjust the Height of a Textarea in ReactJS"><strong>How to Dynamically Adjust the Height of a Textarea in ReactJS</strong></a>
+<br/> Introduction
+Have you ever been curious about how platforms like Notion, Hashnode, and others dynamically adjust the height of their page or article titles (text areas)? If you've noticed, as you type content into a textarea, the height is dynamicall...</td><td><a href="https://blog.sachinchaurasiya.dev//code-snippet-builder-create-stunning-code-snippets" title="Code Snippet Builder - Create stunning code snippets"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1686681251794/09f021a5-9795-4c30-8481-665235a4697f.png" alt="Code Snippet Builder - Create stunning code snippets"   /></a>
+<a href="https://blog.sachinchaurasiya.dev//code-snippet-builder-create-stunning-code-snippets" title="Code Snippet Builder - Create stunning code snippets"><strong>Code Snippet Builder - Create stunning code snippets</strong></a>
+<br/> Code Snippet Builder: Appwrite Hashnode Hackathon
+Thanks, Appwrite and Hashnode for giving us this amazing opportunity.
+Team Details
+
+Sachin Chaurasiya - Sachin Chaurasiya
+
+Description of Project
+
+The Code Snippet Builder is an innovative tool design...</td></tr><tr><td><a href="https://blog.sachinchaurasiya.dev//markdown-for-beginners-with-examples" title="Markdown for beginners: with examples"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1676461910728/c2e37b38-9fc7-4c24-8a5a-1950cc443031.png" alt="Markdown for beginners: with examples"   /></a>
+<a href="https://blog.sachinchaurasiya.dev//markdown-for-beginners-with-examples" title="Markdown for beginners: with examples"><strong>Markdown for beginners: with examples</strong></a>
+<br/> Introduction ✨
+Markdown is a lightweight markup language that is used to format text documents. It is designed to be easy to read and write and is often used for formatting text on the web, such as in blog posts and online forums.
+In this article, we...</td><td><a href="https://blog.sachinchaurasiya.dev//5-most-useful-tips-for-open-source-contribution" title="5 Most Useful Tips For Open Source Contribution"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1674120392263/3812a35c-9d52-42e5-af36-af4739a28d16.png" alt="5 Most Useful Tips For Open Source Contribution"   /></a>
+<a href="https://blog.sachinchaurasiya.dev//5-most-useful-tips-for-open-source-contribution" title="5 Most Useful Tips For Open Source Contribution"><strong>5 Most Useful Tips For Open Source Contribution</strong></a>
+<br/> Are you interested in making a difference in the Open Source community? In this article, I will be sharing the 5 most useful tips to get you started on your journey as a contributor.
+Start Small 1️⃣
+Look for beginner-friendly issues to work on, such ...</td></tr><tr><td><a href="https://blog.sachinchaurasiya.dev//the-power-of-collaboration-how-contributing-to-open-source-can-help-you-and-others" title="The Power of Collaboration: How Contributing to Open Source Can Help You and Others"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1673064238114/1578dfcb-b5eb-4628-95cb-e9f52e510196.png" alt="The Power of Collaboration: How Contributing to Open Source Can Help You and Others"   /></a>
+<a href="https://blog.sachinchaurasiya.dev//the-power-of-collaboration-how-contributing-to-open-source-can-help-you-and-others" title="The Power of Collaboration: How Contributing to Open Source Can Help You and Others"><strong>The Power of Collaboration: How Contributing to Open Source Can Help You and Others</strong></a>
+<br/> If you are doing something and get stuck then you go to the XYZ person and ask for help or ask for his/her suggestions, feedback, and more. this is collaboration and with the help of collaboration you can gain these experiences
+
+Learning - You can co...</td><td><a href="https://blog.sachinchaurasiya.dev//how-to-integrate-reactjs-and-react-helmet-async-manage-seo-and-meta-data" title="How to Integrate ReactJs and react-helmet-async - Manage SEO and Meta Data"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1672514441464/6752ebaf-d090-4501-99d8-e2bb6c32fde4.png" alt="How to Integrate ReactJs and react-helmet-async - Manage SEO and Meta Data"   /></a>
+<a href="https://blog.sachinchaurasiya.dev//how-to-integrate-reactjs-and-react-helmet-async-manage-seo-and-meta-data" title="How to Integrate ReactJs and react-helmet-async - Manage SEO and Meta Data"><strong>How to Integrate ReactJs and react-helmet-async - Manage SEO and Meta Data</strong></a>
+<br/> Earlier we had very basic web technologies and static, just HTML pages with some CSS ( to at least have some UI/UX 😅 ). But as we are moving ahead, we are entering into a new era of web technologies and it's getting better day by day with cutting-ed...</td></tr></table>
 <!-- HASHNODE_BLOG:END -->
