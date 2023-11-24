@@ -14,11 +14,9 @@ jobs:
         uses: actions/checkout@main
 
       - name: "📚  Hashnode Updater"
-        uses: "varunsridharan/action-hashnode-blog@1.1.1"
+        uses: "Sachin-chaurasiya/hashnode-blog-action@v0.0.0"
         with:
-          USERNAME: "Sachinchaurasiya" # Hashnode Username
-          COUNT: 6 # MAX Visisble
-          STYLE: "blog-grid"
-          BLOG_URL: "https://blog.sachinchaurasiya.dev/"
+          HASHNODE_PUBLICATION_NAME: 'blog.sachinchaurasiya.dev'
+          POST_COUNT: 6 # MAX Visisble
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
