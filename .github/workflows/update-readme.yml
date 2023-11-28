@@ -1,13 +1,13 @@
-name: Update README
+name: Update Recent Activity
 
 on:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "*/45 * * * *"
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: Update this repo's README with recent activity
+    name: Update this repo's README with recent activities
 
     steps:
       - uses: actions/checkout@v2
@@ -15,5 +15,5 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          COMMIT_MSG: "Updated README with recent activity"
+          COMMIT_MSG: "Updated README with recent activities"
           MAX_LINES: 10
