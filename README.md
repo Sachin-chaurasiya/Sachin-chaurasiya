@@ -15,16 +15,13 @@
 
 <!-- --- -->
 
-<!--  <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&pause=1000&color=FFFFFF&width=500&height=36&lines=Hey+%F0%9F%91%8B+This+is+Sachin+Chaurasiya;Software+Engineer+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;OpenSource+Contributor+%E2%9C%A8;Technical+Writer+%F0%9F%93%9D" alt="Typing SVG" /></p>
- -->
-
 # About me 👨🏻‍💻
 
-Hello There 👋, My name is Sachin Chaurasiya and I'm a software engineer, Open Source Contributor and Technical Writer from India 🇮🇳.
+Hello There 👋, My name is Sachin Chaurasiya and I'm a software engineer, Open Source Contributor, and Technical Writer from India 🇮🇳.
 
-I enjoy building things and interacting with people. Knowledge sharing is my passion and I share my knowledge through my blogs. I write on topics like JavaScript, TypeScript, ReactJS, Web Development, Open Source, Python, Django, Jamstack and CMS.
+I enjoy building things and interacting with people. Knowledge sharing is my passion and I share my knowledge through my blogs. I write on topics like JavaScript, TypeScript, ReactJS, Web Development, Open Source, Python, Django, Jamstack, and CMS.
 
-I am available for technical writing, Web project collaboration and Open Source project collaboration.
+I am available for technical writing, Web project collaboration, and Open Source project collaboration.
 
 
 # Currently 📝
@@ -39,7 +36,8 @@ I am available for technical writing, Web project collaboration and Open Source 
 
 # NPM Packages Published by Me 📦
 ![npm](https://img.shields.io/npm/dt/github-user-contribution-summary?label=github-user-contribution-summary&style=plastic)
-![npm](https://img.shields.io/npm/dt/sso-clients?label=sso-clients&style=plastic)
+![npm](https://img.shields.io/npm/dt/sso-clients?label=sso-clients&style=plastic) 
+![npm](https://img.shields.io/npm/dt/@sachin-chaurasiya/blockeditor?label=@sachin-chaurasiya/blockeditor&style=plastic)
 
 # Languages and Tools 🛠
 
