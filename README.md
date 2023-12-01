@@ -201,16 +201,16 @@ I am available for technical writing, Web project collaboration, and Open Source
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#195](https://github.com/open-metadata/docs-v1/pull/195#issuecomment-1835513572) in [open-metadata/docs-v1](https://github.com/open-metadata/docs-v1)
-2. 🎉 Merged PR [#14174](https://github.com/open-metadata/OpenMetadata/pull/14174) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-3. 💪 Opened PR [#14174](https://github.com/open-metadata/OpenMetadata/pull/14174) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-4. 🗣 Commented on [#14087](https://github.com/open-metadata/OpenMetadata/pull/14087#issuecomment-1829312098) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-5. 🎉 Merged PR [#8](https://github.com/open-metadata/blog-ui/pull/8) in [open-metadata/blog-ui](https://github.com/open-metadata/blog-ui)
-6. 💪 Opened PR [#8](https://github.com/open-metadata/blog-ui/pull/8) in [open-metadata/blog-ui](https://github.com/open-metadata/blog-ui)
-7. 🎉 Merged PR [#7](https://github.com/open-metadata/blog-ui/pull/7) in [open-metadata/blog-ui](https://github.com/open-metadata/blog-ui)
-8. 💪 Opened PR [#7](https://github.com/open-metadata/blog-ui/pull/7) in [open-metadata/blog-ui](https://github.com/open-metadata/blog-ui)
-9. 💪 Opened PR [#14123](https://github.com/open-metadata/OpenMetadata/pull/14123) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-10. ❗ Opened issue [#14121](https://github.com/open-metadata/OpenMetadata/issues/14121) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+1. 🎉 Merged PR [#195](https://github.com/open-metadata/docs-v1/pull/195) in [open-metadata/docs-v1](https://github.com/open-metadata/docs-v1)
+2. 🔒 Closed issue [#192](https://github.com/open-metadata/docs-v1/issues/192) in [open-metadata/docs-v1](https://github.com/open-metadata/docs-v1)
+3. 🗣 Commented on [#195](https://github.com/open-metadata/docs-v1/pull/195#issuecomment-1835513572) in [open-metadata/docs-v1](https://github.com/open-metadata/docs-v1)
+4. 🎉 Merged PR [#14174](https://github.com/open-metadata/OpenMetadata/pull/14174) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+5. 💪 Opened PR [#14174](https://github.com/open-metadata/OpenMetadata/pull/14174) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+6. 🗣 Commented on [#14087](https://github.com/open-metadata/OpenMetadata/pull/14087#issuecomment-1829312098) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+7. 🎉 Merged PR [#8](https://github.com/open-metadata/blog-ui/pull/8) in [open-metadata/blog-ui](https://github.com/open-metadata/blog-ui)
+8. 💪 Opened PR [#8](https://github.com/open-metadata/blog-ui/pull/8) in [open-metadata/blog-ui](https://github.com/open-metadata/blog-ui)
+9. 🎉 Merged PR [#7](https://github.com/open-metadata/blog-ui/pull/7) in [open-metadata/blog-ui](https://github.com/open-metadata/blog-ui)
+10. 💪 Opened PR [#7](https://github.com/open-metadata/blog-ui/pull/7) in [open-metadata/blog-ui](https://github.com/open-metadata/blog-ui)
 <!--END_SECTION:activity-->
 
 # Recent Blog Posts ✍️
