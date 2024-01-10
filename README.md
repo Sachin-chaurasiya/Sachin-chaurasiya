@@ -200,16 +200,16 @@ If you need help with technical writing or want to collaborate on web or Open So
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#10](https://github.com/Sachin-chaurasiya/sso-clients/pull/10) in [Sachin-chaurasiya/sso-clients](https://github.com/Sachin-chaurasiya/sso-clients)
-2. 💪 Opened PR [#10](https://github.com/Sachin-chaurasiya/sso-clients/pull/10) in [Sachin-chaurasiya/sso-clients](https://github.com/Sachin-chaurasiya/sso-clients)
-3. 🎉 Merged PR [#9](https://github.com/Sachin-chaurasiya/sso-clients/pull/9) in [Sachin-chaurasiya/sso-clients](https://github.com/Sachin-chaurasiya/sso-clients)
-4. 💪 Opened PR [#9](https://github.com/Sachin-chaurasiya/sso-clients/pull/9) in [Sachin-chaurasiya/sso-clients](https://github.com/Sachin-chaurasiya/sso-clients)
-5. 🎉 Merged PR [#8](https://github.com/Sachin-chaurasiya/sso-clients/pull/8) in [Sachin-chaurasiya/sso-clients](https://github.com/Sachin-chaurasiya/sso-clients)
-6. 🎉 Merged PR [#14668](https://github.com/open-metadata/OpenMetadata/pull/14668) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-7. 💪 Opened PR [#14668](https://github.com/open-metadata/OpenMetadata/pull/14668) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-8. 🎉 Merged PR [#14651](https://github.com/open-metadata/OpenMetadata/pull/14651) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-9. 🎉 Merged PR [#7](https://github.com/Sachin-chaurasiya/codespaces-react-chakra-ui/pull/7) in [Sachin-chaurasiya/codespaces-react-chakra-ui](https://github.com/Sachin-chaurasiya/codespaces-react-chakra-ui)
-10. 🎉 Merged PR [#8](https://github.com/Sachin-chaurasiya/codespaces-react-chakra-ui/pull/8) in [Sachin-chaurasiya/codespaces-react-chakra-ui](https://github.com/Sachin-chaurasiya/codespaces-react-chakra-ui)
+1. 💪 Opened PR [#14671](https://github.com/open-metadata/OpenMetadata/pull/14671) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+2. 🎉 Merged PR [#10](https://github.com/Sachin-chaurasiya/sso-clients/pull/10) in [Sachin-chaurasiya/sso-clients](https://github.com/Sachin-chaurasiya/sso-clients)
+3. 💪 Opened PR [#10](https://github.com/Sachin-chaurasiya/sso-clients/pull/10) in [Sachin-chaurasiya/sso-clients](https://github.com/Sachin-chaurasiya/sso-clients)
+4. 🎉 Merged PR [#9](https://github.com/Sachin-chaurasiya/sso-clients/pull/9) in [Sachin-chaurasiya/sso-clients](https://github.com/Sachin-chaurasiya/sso-clients)
+5. 💪 Opened PR [#9](https://github.com/Sachin-chaurasiya/sso-clients/pull/9) in [Sachin-chaurasiya/sso-clients](https://github.com/Sachin-chaurasiya/sso-clients)
+6. 🎉 Merged PR [#8](https://github.com/Sachin-chaurasiya/sso-clients/pull/8) in [Sachin-chaurasiya/sso-clients](https://github.com/Sachin-chaurasiya/sso-clients)
+7. 🎉 Merged PR [#14668](https://github.com/open-metadata/OpenMetadata/pull/14668) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+8. 💪 Opened PR [#14668](https://github.com/open-metadata/OpenMetadata/pull/14668) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+9. 🎉 Merged PR [#14651](https://github.com/open-metadata/OpenMetadata/pull/14651) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+10. 🎉 Merged PR [#7](https://github.com/Sachin-chaurasiya/codespaces-react-chakra-ui/pull/7) in [Sachin-chaurasiya/codespaces-react-chakra-ui](https://github.com/Sachin-chaurasiya/codespaces-react-chakra-ui)
 <!--END_SECTION:activity-->
 
 # Recent Blog Posts ✍️
