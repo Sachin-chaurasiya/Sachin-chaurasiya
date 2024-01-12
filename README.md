@@ -200,16 +200,16 @@ If you need help with technical writing or want to collaborate on web or Open So
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#14671](https://github.com/open-metadata/OpenMetadata/pull/14671) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-2. 🎉 Merged PR [#5](https://github.com/Sachin-chaurasiya/BlockEditor/pull/5) in [Sachin-chaurasiya/BlockEditor](https://github.com/Sachin-chaurasiya/BlockEditor)
-3. 🗣 Commented on [#1368](https://github.com/reactplay/react-play/pull/1368#issuecomment-1885218268) in [reactplay/react-play](https://github.com/reactplay/react-play)
-4. 💪 Opened PR [#14671](https://github.com/open-metadata/OpenMetadata/pull/14671) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-5. 🎉 Merged PR [#10](https://github.com/Sachin-chaurasiya/sso-clients/pull/10) in [Sachin-chaurasiya/sso-clients](https://github.com/Sachin-chaurasiya/sso-clients)
-6. 💪 Opened PR [#10](https://github.com/Sachin-chaurasiya/sso-clients/pull/10) in [Sachin-chaurasiya/sso-clients](https://github.com/Sachin-chaurasiya/sso-clients)
-7. 🎉 Merged PR [#9](https://github.com/Sachin-chaurasiya/sso-clients/pull/9) in [Sachin-chaurasiya/sso-clients](https://github.com/Sachin-chaurasiya/sso-clients)
-8. 💪 Opened PR [#9](https://github.com/Sachin-chaurasiya/sso-clients/pull/9) in [Sachin-chaurasiya/sso-clients](https://github.com/Sachin-chaurasiya/sso-clients)
-9. 🎉 Merged PR [#8](https://github.com/Sachin-chaurasiya/sso-clients/pull/8) in [Sachin-chaurasiya/sso-clients](https://github.com/Sachin-chaurasiya/sso-clients)
-10. 🎉 Merged PR [#14668](https://github.com/open-metadata/OpenMetadata/pull/14668) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+1. ❌ Closed PR [#14473](https://github.com/open-metadata/OpenMetadata/pull/14473) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+2. 🗣 Commented on [#14473](https://github.com/open-metadata/OpenMetadata/pull/14473#issuecomment-1888889931) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+3. 💪 Opened PR [#14701](https://github.com/open-metadata/OpenMetadata/pull/14701) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+4. 🎉 Merged PR [#14671](https://github.com/open-metadata/OpenMetadata/pull/14671) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+5. 🎉 Merged PR [#5](https://github.com/Sachin-chaurasiya/BlockEditor/pull/5) in [Sachin-chaurasiya/BlockEditor](https://github.com/Sachin-chaurasiya/BlockEditor)
+6. 🗣 Commented on [#1368](https://github.com/reactplay/react-play/pull/1368#issuecomment-1885218268) in [reactplay/react-play](https://github.com/reactplay/react-play)
+7. 💪 Opened PR [#14671](https://github.com/open-metadata/OpenMetadata/pull/14671) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+8. 🎉 Merged PR [#10](https://github.com/Sachin-chaurasiya/sso-clients/pull/10) in [Sachin-chaurasiya/sso-clients](https://github.com/Sachin-chaurasiya/sso-clients)
+9. 💪 Opened PR [#10](https://github.com/Sachin-chaurasiya/sso-clients/pull/10) in [Sachin-chaurasiya/sso-clients](https://github.com/Sachin-chaurasiya/sso-clients)
+10. 🎉 Merged PR [#9](https://github.com/Sachin-chaurasiya/sso-clients/pull/9) in [Sachin-chaurasiya/sso-clients](https://github.com/Sachin-chaurasiya/sso-clients)
 <!--END_SECTION:activity-->
 
 # Recent Blog Posts ✍️
