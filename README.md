@@ -200,16 +200,16 @@ If you need help with technical writing or want to collaborate on web or Open So
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#14081](https://github.com/open-metadata/OpenMetadata/issues/14081#issuecomment-1893088150) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-2. 🔒 Closed issue [#14081](https://github.com/open-metadata/OpenMetadata/issues/14081) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-3. 🎉 Merged PR [#92](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder/pull/92) in [Sachin-chaurasiya/Code-Snippets-Builder](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder)
-4. 🎉 Merged PR [#91](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder/pull/91) in [Sachin-chaurasiya/Code-Snippets-Builder](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder)
-5. 🎉 Merged PR [#11](https://github.com/Sachin-chaurasiya/sso-clients/pull/11) in [Sachin-chaurasiya/sso-clients](https://github.com/Sachin-chaurasiya/sso-clients)
-6. 🎉 Merged PR [#90](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder/pull/90) in [Sachin-chaurasiya/Code-Snippets-Builder](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder)
-7. 🎉 Merged PR [#38](https://github.com/Sachin-chaurasiya/hashnode-blog-action/pull/38) in [Sachin-chaurasiya/hashnode-blog-action](https://github.com/Sachin-chaurasiya/hashnode-blog-action)
-8. 🎉 Merged PR [#39](https://github.com/Sachin-chaurasiya/hashnode-blog-action/pull/39) in [Sachin-chaurasiya/hashnode-blog-action](https://github.com/Sachin-chaurasiya/hashnode-blog-action)
-9. 🎉 Merged PR [#40](https://github.com/Sachin-chaurasiya/hashnode-blog-action/pull/40) in [Sachin-chaurasiya/hashnode-blog-action](https://github.com/Sachin-chaurasiya/hashnode-blog-action)
-10. 🗣 Commented on [#1377](https://github.com/reactplay/react-play/pull/1377#issuecomment-1891208672) in [reactplay/react-play](https://github.com/reactplay/react-play)
+1. 🗣 Commented on [#1422](https://github.com/reactplay/react-play/pull/1422#issuecomment-1893196972) in [reactplay/react-play](https://github.com/reactplay/react-play)
+2. 🗣 Commented on [#14081](https://github.com/open-metadata/OpenMetadata/issues/14081#issuecomment-1893088150) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+3. 🔒 Closed issue [#14081](https://github.com/open-metadata/OpenMetadata/issues/14081) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+4. 🎉 Merged PR [#92](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder/pull/92) in [Sachin-chaurasiya/Code-Snippets-Builder](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder)
+5. 🎉 Merged PR [#91](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder/pull/91) in [Sachin-chaurasiya/Code-Snippets-Builder](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder)
+6. 🎉 Merged PR [#11](https://github.com/Sachin-chaurasiya/sso-clients/pull/11) in [Sachin-chaurasiya/sso-clients](https://github.com/Sachin-chaurasiya/sso-clients)
+7. 🎉 Merged PR [#90](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder/pull/90) in [Sachin-chaurasiya/Code-Snippets-Builder](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder)
+8. 🎉 Merged PR [#38](https://github.com/Sachin-chaurasiya/hashnode-blog-action/pull/38) in [Sachin-chaurasiya/hashnode-blog-action](https://github.com/Sachin-chaurasiya/hashnode-blog-action)
+9. 🎉 Merged PR [#39](https://github.com/Sachin-chaurasiya/hashnode-blog-action/pull/39) in [Sachin-chaurasiya/hashnode-blog-action](https://github.com/Sachin-chaurasiya/hashnode-blog-action)
+10. 🎉 Merged PR [#40](https://github.com/Sachin-chaurasiya/hashnode-blog-action/pull/40) in [Sachin-chaurasiya/hashnode-blog-action](https://github.com/Sachin-chaurasiya/hashnode-blog-action)
 <!--END_SECTION:activity-->
 
 # Recent Blog Posts ✍️
