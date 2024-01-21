@@ -200,16 +200,16 @@ If you need help with technical writing or want to collaborate on web or Open So
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#94](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder/pull/94) in [Sachin-chaurasiya/Code-Snippets-Builder](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder)
-2. 🎉 Merged PR [#93](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder/pull/93) in [Sachin-chaurasiya/Code-Snippets-Builder](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder)
-3. 💪 Opened PR [#93](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder/pull/93) in [Sachin-chaurasiya/Code-Snippets-Builder](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder)
-4. 🎉 Merged PR [#2](https://github.com/Sachin-chaurasiya/FreeMockUp/pull/2) in [Sachin-chaurasiya/FreeMockUp](https://github.com/Sachin-chaurasiya/FreeMockUp)
-5. 🎉 Merged PR [#6](https://github.com/Sachin-chaurasiya/BlockEditor/pull/6) in [Sachin-chaurasiya/BlockEditor](https://github.com/Sachin-chaurasiya/BlockEditor)
-6. 🗣 Commented on [#14724](https://github.com/open-metadata/OpenMetadata/issues/14724#issuecomment-1898787426) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-7. 🔒 Closed issue [#14724](https://github.com/open-metadata/OpenMetadata/issues/14724) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-8. 🎉 Merged PR [#36](https://github.com/Sachin-chaurasiya/hashnode-blog-action/pull/36) in [Sachin-chaurasiya/hashnode-blog-action](https://github.com/Sachin-chaurasiya/hashnode-blog-action)
-9. 🎉 Merged PR [#41](https://github.com/Sachin-chaurasiya/hashnode-blog-action/pull/41) in [Sachin-chaurasiya/hashnode-blog-action](https://github.com/Sachin-chaurasiya/hashnode-blog-action)
-10. 🚀 Published release [v0.0.3](https://github.com/Sachin-chaurasiya/hashnode-blog-action/releases/tag/v0.0.3) in [Sachin-chaurasiya/hashnode-blog-action](https://github.com/Sachin-chaurasiya/hashnode-blog-action)
+1. 🎉 Merged PR [#94](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder/pull/94) in [Sachin-chaurasiya/Code-Snippets-Builder](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder)
+2. 💪 Opened PR [#94](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder/pull/94) in [Sachin-chaurasiya/Code-Snippets-Builder](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder)
+3. 🎉 Merged PR [#93](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder/pull/93) in [Sachin-chaurasiya/Code-Snippets-Builder](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder)
+4. 💪 Opened PR [#93](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder/pull/93) in [Sachin-chaurasiya/Code-Snippets-Builder](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder)
+5. 🎉 Merged PR [#2](https://github.com/Sachin-chaurasiya/FreeMockUp/pull/2) in [Sachin-chaurasiya/FreeMockUp](https://github.com/Sachin-chaurasiya/FreeMockUp)
+6. 🎉 Merged PR [#6](https://github.com/Sachin-chaurasiya/BlockEditor/pull/6) in [Sachin-chaurasiya/BlockEditor](https://github.com/Sachin-chaurasiya/BlockEditor)
+7. 🗣 Commented on [#14724](https://github.com/open-metadata/OpenMetadata/issues/14724#issuecomment-1898787426) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+8. 🔒 Closed issue [#14724](https://github.com/open-metadata/OpenMetadata/issues/14724) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+9. 🎉 Merged PR [#36](https://github.com/Sachin-chaurasiya/hashnode-blog-action/pull/36) in [Sachin-chaurasiya/hashnode-blog-action](https://github.com/Sachin-chaurasiya/hashnode-blog-action)
+10. 🎉 Merged PR [#41](https://github.com/Sachin-chaurasiya/hashnode-blog-action/pull/41) in [Sachin-chaurasiya/hashnode-blog-action](https://github.com/Sachin-chaurasiya/hashnode-blog-action)
 <!--END_SECTION:activity-->
 
 # Recent Blog Posts ✍️
