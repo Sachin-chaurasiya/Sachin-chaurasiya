@@ -200,16 +200,16 @@ If you need help with technical writing or want to collaborate on web or Open So
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#43](https://github.com/Sachin-chaurasiya/hashnode-blog-action/pull/43) in [Sachin-chaurasiya/hashnode-blog-action](https://github.com/Sachin-chaurasiya/hashnode-blog-action)
-2. 🎉 Merged PR [#44](https://github.com/Sachin-chaurasiya/hashnode-blog-action/pull/44) in [Sachin-chaurasiya/hashnode-blog-action](https://github.com/Sachin-chaurasiya/hashnode-blog-action)
-3. 🎉 Merged PR [#46](https://github.com/Sachin-chaurasiya/hashnode-blog-action/pull/46) in [Sachin-chaurasiya/hashnode-blog-action](https://github.com/Sachin-chaurasiya/hashnode-blog-action)
-4. 🗣 Commented on [#679](https://github.com/appwrite/sdk-generator/issues/679#issuecomment-1905350210) in [appwrite/sdk-generator](https://github.com/appwrite/sdk-generator)
-5. 🎉 Merged PR [#94](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder/pull/94) in [Sachin-chaurasiya/Code-Snippets-Builder](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder)
-6. 💪 Opened PR [#94](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder/pull/94) in [Sachin-chaurasiya/Code-Snippets-Builder](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder)
-7. 🎉 Merged PR [#93](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder/pull/93) in [Sachin-chaurasiya/Code-Snippets-Builder](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder)
-8. 💪 Opened PR [#93](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder/pull/93) in [Sachin-chaurasiya/Code-Snippets-Builder](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder)
-9. 🎉 Merged PR [#2](https://github.com/Sachin-chaurasiya/FreeMockUp/pull/2) in [Sachin-chaurasiya/FreeMockUp](https://github.com/Sachin-chaurasiya/FreeMockUp)
-10. 🎉 Merged PR [#6](https://github.com/Sachin-chaurasiya/BlockEditor/pull/6) in [Sachin-chaurasiya/BlockEditor](https://github.com/Sachin-chaurasiya/BlockEditor)
+1. 🎉 Merged PR [#45](https://github.com/Sachin-chaurasiya/hashnode-blog-action/pull/45) in [Sachin-chaurasiya/hashnode-blog-action](https://github.com/Sachin-chaurasiya/hashnode-blog-action)
+2. 🎉 Merged PR [#47](https://github.com/Sachin-chaurasiya/hashnode-blog-action/pull/47) in [Sachin-chaurasiya/hashnode-blog-action](https://github.com/Sachin-chaurasiya/hashnode-blog-action)
+3. 🎉 Merged PR [#43](https://github.com/Sachin-chaurasiya/hashnode-blog-action/pull/43) in [Sachin-chaurasiya/hashnode-blog-action](https://github.com/Sachin-chaurasiya/hashnode-blog-action)
+4. 🎉 Merged PR [#44](https://github.com/Sachin-chaurasiya/hashnode-blog-action/pull/44) in [Sachin-chaurasiya/hashnode-blog-action](https://github.com/Sachin-chaurasiya/hashnode-blog-action)
+5. 🎉 Merged PR [#46](https://github.com/Sachin-chaurasiya/hashnode-blog-action/pull/46) in [Sachin-chaurasiya/hashnode-blog-action](https://github.com/Sachin-chaurasiya/hashnode-blog-action)
+6. 🗣 Commented on [#679](https://github.com/appwrite/sdk-generator/issues/679#issuecomment-1905350210) in [appwrite/sdk-generator](https://github.com/appwrite/sdk-generator)
+7. 🎉 Merged PR [#94](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder/pull/94) in [Sachin-chaurasiya/Code-Snippets-Builder](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder)
+8. 💪 Opened PR [#94](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder/pull/94) in [Sachin-chaurasiya/Code-Snippets-Builder](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder)
+9. 🎉 Merged PR [#93](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder/pull/93) in [Sachin-chaurasiya/Code-Snippets-Builder](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder)
+10. 💪 Opened PR [#93](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder/pull/93) in [Sachin-chaurasiya/Code-Snippets-Builder](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder)
 <!--END_SECTION:activity-->
 
 # Recent Blog Posts ✍️
