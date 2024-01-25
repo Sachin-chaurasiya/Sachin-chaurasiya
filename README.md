@@ -200,16 +200,16 @@ If you need help with technical writing or want to collaborate on web or Open So
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#14849](https://github.com/open-metadata/OpenMetadata/pull/14849) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-2. 🎉 Merged PR [#14845](https://github.com/open-metadata/OpenMetadata/pull/14845) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-3. 💪 Opened PR [#14845](https://github.com/open-metadata/OpenMetadata/pull/14845) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-4. 🎉 Merged PR [#16](https://github.com/deuex-solutions/react-tutorial/pull/16) in [deuex-solutions/react-tutorial](https://github.com/deuex-solutions/react-tutorial)
-5. 💪 Opened PR [#16](https://github.com/deuex-solutions/react-tutorial/pull/16) in [deuex-solutions/react-tutorial](https://github.com/deuex-solutions/react-tutorial)
-6. 🎉 Merged PR [#14840](https://github.com/open-metadata/OpenMetadata/pull/14840) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-7. 💪 Opened PR [#15](https://github.com/deuex-solutions/react-tutorial/pull/15) in [deuex-solutions/react-tutorial](https://github.com/deuex-solutions/react-tutorial)
-8. 💪 Opened PR [#14840](https://github.com/open-metadata/OpenMetadata/pull/14840) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-9. 🎉 Merged PR [#14836](https://github.com/open-metadata/OpenMetadata/pull/14836) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-10. 💪 Opened PR [#14836](https://github.com/open-metadata/OpenMetadata/pull/14836) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+1. 🔒 Closed issue [#14417](https://github.com/open-metadata/OpenMetadata/issues/14417) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+2. 🎉 Merged PR [#14828](https://github.com/open-metadata/OpenMetadata/pull/14828) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+3. 💪 Opened PR [#14849](https://github.com/open-metadata/OpenMetadata/pull/14849) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+4. 🎉 Merged PR [#14845](https://github.com/open-metadata/OpenMetadata/pull/14845) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+5. 💪 Opened PR [#14845](https://github.com/open-metadata/OpenMetadata/pull/14845) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+6. 🎉 Merged PR [#16](https://github.com/deuex-solutions/react-tutorial/pull/16) in [deuex-solutions/react-tutorial](https://github.com/deuex-solutions/react-tutorial)
+7. 💪 Opened PR [#16](https://github.com/deuex-solutions/react-tutorial/pull/16) in [deuex-solutions/react-tutorial](https://github.com/deuex-solutions/react-tutorial)
+8. 🎉 Merged PR [#14840](https://github.com/open-metadata/OpenMetadata/pull/14840) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+9. 💪 Opened PR [#15](https://github.com/deuex-solutions/react-tutorial/pull/15) in [deuex-solutions/react-tutorial](https://github.com/deuex-solutions/react-tutorial)
+10. 💪 Opened PR [#14840](https://github.com/open-metadata/OpenMetadata/pull/14840) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 <!--END_SECTION:activity-->
 
 # Recent Blog Posts ✍️
