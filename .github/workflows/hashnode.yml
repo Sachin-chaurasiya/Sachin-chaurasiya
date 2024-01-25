@@ -17,5 +17,6 @@ jobs:
         uses: "Sachin-chaurasiya/hashnode-blog-action@v0.0.3"
         with:
           HASHNODE_PUBLICATION_NAME: 'blog.sachinchaurasiya.dev'
+          FORMAT: 'list'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
