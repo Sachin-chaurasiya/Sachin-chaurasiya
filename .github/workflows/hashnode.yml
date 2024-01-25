@@ -17,6 +17,6 @@ jobs:
         uses: "Sachin-chaurasiya/hashnode-blog-action@main"
         with:
           HASHNODE_PUBLICATION_NAME: 'blog.sachinchaurasiya.dev'
-          FORMAT: 'list'
+          FORMAT: 'card'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
