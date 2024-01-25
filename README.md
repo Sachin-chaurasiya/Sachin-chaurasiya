@@ -215,11 +215,9 @@ If you need help with technical writing or want to collaborate on web or Open So
 # Recent Blog Posts ✍️
 
 <!-- HASHNODE_BLOG:START -->
-- [How to Dynamically Adjust the Height of a Textarea in ReactJS](https://blog.sachinchaurasiya.dev/how-to-dynamically-adjust-the-height-of-a-textarea-in-reactjs)
-  Introduction
+<a href="https://blog.sachinchaurasiya.dev/how-to-dynamically-adjust-the-height-of-a-textarea-in-reactjs"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1698231555487/0cf1915a-966c-49fa-99a2-196f0215a956.png" alt="How to Dynamically Adjust the Height of a Textarea in ReactJS"></a><a href="https://blog.sachinchaurasiya.dev/how-to-dynamically-adjust-the-height-of-a-textarea-in-reactjs"><strong>How to Dynamically Adjust the Height of a Textarea in ReactJS • October 25, 2023 </strong></a><br>Introduction
 Have you ever been curious about how platforms like Notion, Hashnode, and others dynamically adjust the height of their page or article titles (text areas)? If you've noticed, as you type content into a textarea, the height is dynamicall...
-- [Code Snippet Builder - Create stunning code snippets](https://blog.sachinchaurasiya.dev/code-snippet-builder-create-stunning-code-snippets)
-  Code Snippet Builder: Appwrite Hashnode Hackathon
+<a href="https://blog.sachinchaurasiya.dev/code-snippet-builder-create-stunning-code-snippets"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1686681251794/09f021a5-9795-4c30-8481-665235a4697f.png" alt="Code Snippet Builder - Create stunning code snippets"></a><a href="https://blog.sachinchaurasiya.dev/code-snippet-builder-create-stunning-code-snippets"><strong>Code Snippet Builder - Create stunning code snippets • June 13, 2023 </strong></a><br>Code Snippet Builder: Appwrite Hashnode Hackathon
 Thanks, Appwrite and Hashnode for giving us this amazing opportunity.
 Team Details
 
@@ -228,18 +226,14 @@ Sachin Chaurasiya - Sachin Chaurasiya
 Description of Project
 
 The Code Snippet Builder is an innovative tool design...
-- [TypeScript Tuple Types: The What, Why, and How](https://blog.sachinchaurasiya.dev/typescript-tuple-types-the-what-why-and-how)
-  TypeScript is a tool that helps JavaScript developers write better code by allowing them to define rules for the types of data they want to use. By doing this, TypeScript makes it easier to ensure that the code works correctly and reduces the risk of...
-- [How to Test Custom Hook in ReactJS](https://blog.sachinchaurasiya.dev/how-to-test-custom-hook-in-reactjs)
-  Testing Custom Hooks in ReactJS: A Step-by-Step Guide
+<a href="https://blog.sachinchaurasiya.dev/typescript-tuple-types-the-what-why-and-how"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1701175207564/99e47a3c-89e8-45a6-9e17-3df6a3ead85b.avif" alt="TypeScript Tuple Types: The What, Why, and How"></a><a href="https://blog.sachinchaurasiya.dev/typescript-tuple-types-the-what-why-and-how"><strong>TypeScript Tuple Types: The What, Why, and How • May 14, 2023 </strong></a><br>TypeScript is a tool that helps JavaScript developers write better code by allowing them to define rules for the types of data they want to use. By doing this, TypeScript makes it easier to ensure that the code works correctly and reduces the risk of...
+<a href="https://blog.sachinchaurasiya.dev/how-to-test-custom-hook-in-reactjs"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1701175025353/8f5cae3c-aa16-41cb-ac95-e3b483adf656.avif" alt="How to Test Custom Hook in ReactJS"></a><a href="https://blog.sachinchaurasiya.dev/how-to-test-custom-hook-in-reactjs"><strong>How to Test Custom Hook in ReactJS • April 4, 2023 </strong></a><br>Testing Custom Hooks in ReactJS: A Step-by-Step Guide
 What is a custom hook? 🤔
 Custom hooks in ReactJS are reusable pieces of code that encapsulate logic and state management. As developers, we need to ensure that these hooks work as intended and do...
-- [Markdown for beginners: with examples](https://blog.sachinchaurasiya.dev/markdown-for-beginners-with-examples)
-  Introduction ✨
+<a href="https://blog.sachinchaurasiya.dev/markdown-for-beginners-with-examples"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1676461910728/c2e37b38-9fc7-4c24-8a5a-1950cc443031.png" alt="Markdown for beginners: with examples"></a><a href="https://blog.sachinchaurasiya.dev/markdown-for-beginners-with-examples"><strong>Markdown for beginners: with examples • February 15, 2023 </strong></a><br>Introduction ✨
 Markdown is a lightweight markup language that is used to format text documents. It is designed to be easy to read and write and is often used for formatting text on the web, such as in blog posts and online forums.
 In this article, we...
-- [5 Most Useful Tips For Open Source Contribution](https://blog.sachinchaurasiya.dev/5-most-useful-tips-for-open-source-contribution)
-  Are you interested in making a difference in the Open Source community? In this article, I will be sharing the 5 most useful tips to get you started on your journey as a contributor.
+<a href="https://blog.sachinchaurasiya.dev/5-most-useful-tips-for-open-source-contribution"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1674120392263/3812a35c-9d52-42e5-af36-af4739a28d16.png" alt="5 Most Useful Tips For Open Source Contribution"></a><a href="https://blog.sachinchaurasiya.dev/5-most-useful-tips-for-open-source-contribution"><strong>5 Most Useful Tips For Open Source Contribution • January 20, 2023 </strong></a><br>Are you interested in making a difference in the Open Source community? In this article, I will be sharing the 5 most useful tips to get you started on your journey as a contributor.
 Start Small 1️⃣
 Look for beginner-friendly issues to work on, such ...
 
