@@ -200,16 +200,16 @@ If you need help with technical writing or want to collaborate on web or Open So
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#13415](https://github.com/open-metadata/OpenMetadata/issues/13415#issuecomment-1910290262) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-2. 🔒 Closed issue [#11857](https://github.com/open-metadata/OpenMetadata/issues/11857) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-3. 🎉 Merged PR [#14841](https://github.com/open-metadata/OpenMetadata/pull/14841) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-4. 🎉 Merged PR [#14837](https://github.com/open-metadata/OpenMetadata/pull/14837) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-5. 🔒 Closed issue [#14417](https://github.com/open-metadata/OpenMetadata/issues/14417) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-6. 🎉 Merged PR [#14828](https://github.com/open-metadata/OpenMetadata/pull/14828) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-7. 💪 Opened PR [#14849](https://github.com/open-metadata/OpenMetadata/pull/14849) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-8. 🎉 Merged PR [#14845](https://github.com/open-metadata/OpenMetadata/pull/14845) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-9. 💪 Opened PR [#14845](https://github.com/open-metadata/OpenMetadata/pull/14845) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-10. 🎉 Merged PR [#16](https://github.com/deuex-solutions/react-tutorial/pull/16) in [deuex-solutions/react-tutorial](https://github.com/deuex-solutions/react-tutorial)
+1. 🚀 Published release [v0.0.4](https://github.com/Sachin-chaurasiya/hashnode-blog-action/releases/tag/v0.0.4) in [Sachin-chaurasiya/hashnode-blog-action](https://github.com/Sachin-chaurasiya/hashnode-blog-action)
+2. 🔒 Closed issue [#48](https://github.com/Sachin-chaurasiya/hashnode-blog-action/issues/48) in [Sachin-chaurasiya/hashnode-blog-action](https://github.com/Sachin-chaurasiya/hashnode-blog-action)
+3. 🎉 Merged PR [#49](https://github.com/Sachin-chaurasiya/hashnode-blog-action/pull/49) in [Sachin-chaurasiya/hashnode-blog-action](https://github.com/Sachin-chaurasiya/hashnode-blog-action)
+4. 💪 Opened PR [#49](https://github.com/Sachin-chaurasiya/hashnode-blog-action/pull/49) in [Sachin-chaurasiya/hashnode-blog-action](https://github.com/Sachin-chaurasiya/hashnode-blog-action)
+5. ❗ Opened issue [#48](https://github.com/Sachin-chaurasiya/hashnode-blog-action/issues/48) in [Sachin-chaurasiya/hashnode-blog-action](https://github.com/Sachin-chaurasiya/hashnode-blog-action)
+6. 🗣 Commented on [#13415](https://github.com/open-metadata/OpenMetadata/issues/13415#issuecomment-1910290262) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+7. 🔒 Closed issue [#11857](https://github.com/open-metadata/OpenMetadata/issues/11857) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+8. 🎉 Merged PR [#14841](https://github.com/open-metadata/OpenMetadata/pull/14841) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+9. 🎉 Merged PR [#14837](https://github.com/open-metadata/OpenMetadata/pull/14837) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+10. 🔒 Closed issue [#14417](https://github.com/open-metadata/OpenMetadata/issues/14417) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 <!--END_SECTION:activity-->
 
 # Recent Blog Posts ✍️
