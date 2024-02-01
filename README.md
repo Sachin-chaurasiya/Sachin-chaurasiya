@@ -215,11 +215,18 @@ If you need help with technical writing or want to collaborate on web or Open So
 # Recent Blog Posts ✍️
 
 <!-- HASHNODE_BLOG:START -->
-- [How to Dynamically Adjust the Height of a Textarea in ReactJS](https://blog.sachinchaurasiya.dev/how-to-dynamically-adjust-the-height-of-a-textarea-in-reactjs)
-- [Code Snippet Builder - Create stunning code snippets](https://blog.sachinchaurasiya.dev/code-snippet-builder-create-stunning-code-snippets)
-- [TypeScript Tuple Types: The What, Why, and How](https://blog.sachinchaurasiya.dev/typescript-tuple-types-the-what-why-and-how)
-- [How to Test Custom Hook in ReactJS](https://blog.sachinchaurasiya.dev/how-to-test-custom-hook-in-reactjs)
-- [Markdown for beginners: with examples](https://blog.sachinchaurasiya.dev/markdown-for-beginners-with-examples)
-- [5 Most Useful Tips For Open Source Contribution](https://blog.sachinchaurasiya.dev/5-most-useful-tips-for-open-source-contribution)
+<table><tr><td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1706686343036/9cc246a6-598f-4a90-9287-d9e7d211e0f8.png" alt="Hashnode Blog GitHub Action - fetch and display the latest blogs in a nice format"></td><td><a href="https://blog.sachinchaurasiya.dev/hashnode-blog-github-action-fetch-and-display-the-latest-blogs-in-a-nice-format"><strong>Hashnode Blog GitHub Action - fetch and display the latest blogs in a nice format</strong></a><br>As a developer, it is essential to have a GitHub account and profile to showcase your work and skills. You can include information such as your introduction, current projects, skills, contributions, and more. However, you can also leverage the power ...</td></tr><tr><td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1698231555487/0cf1915a-966c-49fa-99a2-196f0215a956.png" alt="How to Dynamically Adjust the Height of a Textarea in ReactJS"></td><td><a href="https://blog.sachinchaurasiya.dev/how-to-dynamically-adjust-the-height-of-a-textarea-in-reactjs"><strong>How to Dynamically Adjust the Height of a Textarea in ReactJS</strong></a><br>Introduction
+Have you ever been curious about how platforms like Notion, Hashnode, and others dynamically adjust the height of their page or article titles (text areas)? If you've noticed, as you type content into a textarea, the height is dynamicall...</td></tr><tr><td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1686681251794/09f021a5-9795-4c30-8481-665235a4697f.png" alt="Code Snippet Builder - Create stunning code snippets"></td><td><a href="https://blog.sachinchaurasiya.dev/code-snippet-builder-create-stunning-code-snippets"><strong>Code Snippet Builder - Create stunning code snippets</strong></a><br>Code Snippet Builder: Appwrite Hashnode Hackathon
+Thanks, Appwrite and Hashnode for giving us this amazing opportunity.
+Team Details
 
+Sachin Chaurasiya - Sachin Chaurasiya
+
+Description of Project
+
+The Code Snippet Builder is an innovative tool design...</td></tr><tr><td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1701175207564/99e47a3c-89e8-45a6-9e17-3df6a3ead85b.avif" alt="TypeScript Tuple Types: The What, Why, and How"></td><td><a href="https://blog.sachinchaurasiya.dev/typescript-tuple-types-the-what-why-and-how"><strong>TypeScript Tuple Types: The What, Why, and How</strong></a><br>TypeScript is a tool that helps JavaScript developers write better code by allowing them to define rules for the types of data they want to use. By doing this, TypeScript makes it easier to ensure that the code works correctly and reduces the risk of...</td></tr><tr><td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1701175025353/8f5cae3c-aa16-41cb-ac95-e3b483adf656.avif" alt="How to Test Custom Hook in ReactJS"></td><td><a href="https://blog.sachinchaurasiya.dev/how-to-test-custom-hook-in-reactjs"><strong>How to Test Custom Hook in ReactJS</strong></a><br>Testing Custom Hooks in ReactJS: A Step-by-Step Guide
+What is a custom hook? 🤔
+Custom hooks in ReactJS are reusable pieces of code that encapsulate logic and state management. As developers, we need to ensure that these hooks work as intended and do...</td></tr><tr><td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1676461910728/c2e37b38-9fc7-4c24-8a5a-1950cc443031.png" alt="Markdown for beginners: with examples"></td><td><a href="https://blog.sachinchaurasiya.dev/markdown-for-beginners-with-examples"><strong>Markdown for beginners: with examples</strong></a><br>Introduction ✨
+Markdown is a lightweight markup language that is used to format text documents. It is designed to be easy to read and write and is often used for formatting text on the web, such as in blog posts and online forums.
+In this article, we...</td></tr></table>
 <!-- HASHNODE_BLOG:END -->
