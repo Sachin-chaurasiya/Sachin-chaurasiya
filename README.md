@@ -27,7 +27,7 @@ If you need help with technical writing or want to collaborate on web or Open So
 
 - ✨ Contributing to [OpenMetadata](https://github.com/open-metadata) and [ReactPlay](https://github.com/reactplay) Open source community.
 
-- ✨ Building [Code Snippet Builder](https://snippetbuilder.sachinchaurasiya.dev/).
+- ✨ Building [Code Snippet Builder](https://snippetbuilder.sachinchaurasiya.dev/) and [Hashnode Blog Action](https://github.com/Sachin-chaurasiya/hashnode-blog-action)
 
 - ✨ Learning TypeScript
 
