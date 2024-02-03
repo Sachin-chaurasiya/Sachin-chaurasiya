@@ -200,16 +200,16 @@ If you need help with technical writing or want to collaborate on web or Open So
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [v0.0.9](https://github.com/Sachin-chaurasiya/github-user-contribution-summary/releases/tag/v0.0.9) in [Sachin-chaurasiya/github-user-contribution-summary](https://github.com/Sachin-chaurasiya/github-user-contribution-summary)
-2. 🎉 Merged PR [#6](https://github.com/Sachin-chaurasiya/github-user-contribution-summary/pull/6) in [Sachin-chaurasiya/github-user-contribution-summary](https://github.com/Sachin-chaurasiya/github-user-contribution-summary)
-3. 💪 Opened PR [#6](https://github.com/Sachin-chaurasiya/github-user-contribution-summary/pull/6) in [Sachin-chaurasiya/github-user-contribution-summary](https://github.com/Sachin-chaurasiya/github-user-contribution-summary)
-4. 🎉 Merged PR [#5](https://github.com/Sachin-chaurasiya/github-user-contribution-summary/pull/5) in [Sachin-chaurasiya/github-user-contribution-summary](https://github.com/Sachin-chaurasiya/github-user-contribution-summary)
-5. 🎉 Merged PR [#4](https://github.com/Sachin-chaurasiya/github-user-contribution-summary/pull/4) in [Sachin-chaurasiya/github-user-contribution-summary](https://github.com/Sachin-chaurasiya/github-user-contribution-summary)
-6. 💪 Opened PR [#15012](https://github.com/open-metadata/OpenMetadata/pull/15012) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-7. 💪 Opened PR [#15002](https://github.com/open-metadata/OpenMetadata/pull/15002) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-8. 🎉 Merged PR [#14908](https://github.com/open-metadata/OpenMetadata/pull/14908) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-9. 🎉 Merged PR [#14988](https://github.com/open-metadata/OpenMetadata/pull/14988) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-10. 💪 Opened PR [#14982](https://github.com/open-metadata/OpenMetadata/pull/14982) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+1. 🎉 Merged PR [#77](https://github.com/OpenSource-Journey/Your-Github-Contributions/pull/77) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
+2. 💪 Opened PR [#77](https://github.com/OpenSource-Journey/Your-Github-Contributions/pull/77) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
+3. 🚀 Published release [v0.0.10](https://github.com/Sachin-chaurasiya/github-user-contribution-summary/releases/tag/v0.0.10) in [Sachin-chaurasiya/github-user-contribution-summary](https://github.com/Sachin-chaurasiya/github-user-contribution-summary)
+4. 🚀 Published release [v0.0.9](https://github.com/Sachin-chaurasiya/github-user-contribution-summary/releases/tag/v0.0.9) in [Sachin-chaurasiya/github-user-contribution-summary](https://github.com/Sachin-chaurasiya/github-user-contribution-summary)
+5. 🎉 Merged PR [#6](https://github.com/Sachin-chaurasiya/github-user-contribution-summary/pull/6) in [Sachin-chaurasiya/github-user-contribution-summary](https://github.com/Sachin-chaurasiya/github-user-contribution-summary)
+6. 💪 Opened PR [#6](https://github.com/Sachin-chaurasiya/github-user-contribution-summary/pull/6) in [Sachin-chaurasiya/github-user-contribution-summary](https://github.com/Sachin-chaurasiya/github-user-contribution-summary)
+7. 🎉 Merged PR [#5](https://github.com/Sachin-chaurasiya/github-user-contribution-summary/pull/5) in [Sachin-chaurasiya/github-user-contribution-summary](https://github.com/Sachin-chaurasiya/github-user-contribution-summary)
+8. 🎉 Merged PR [#4](https://github.com/Sachin-chaurasiya/github-user-contribution-summary/pull/4) in [Sachin-chaurasiya/github-user-contribution-summary](https://github.com/Sachin-chaurasiya/github-user-contribution-summary)
+9. 💪 Opened PR [#15012](https://github.com/open-metadata/OpenMetadata/pull/15012) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+10. 💪 Opened PR [#15002](https://github.com/open-metadata/OpenMetadata/pull/15002) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 <!--END_SECTION:activity-->
 
 # Recent Blog Posts ✍️
