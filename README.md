@@ -29,7 +29,7 @@ If you need help with technical writing or want to collaborate on web or Open So
 
 - ✨ Building [Code Snippet Builder](https://snippetbuilder.sachinchaurasiya.dev/) and [Hashnode Blog Action](https://github.com/Sachin-chaurasiya/hashnode-blog-action)
 
-- ✨ Learning TypeScript
+- ✨ Learning TypeScript, Docker
 
 - 📝 Writing Technical Articles
 
