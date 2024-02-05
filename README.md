@@ -200,16 +200,16 @@ If you need help with technical writing or want to collaborate on web or Open So
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#15022](https://github.com/open-metadata/OpenMetadata/issues/15022) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-2. 🔒 Closed issue [#82](https://github.com/open-metadata/openmetadata-site/issues/82) in [open-metadata/openmetadata-site](https://github.com/open-metadata/openmetadata-site)
-3. 🗣 Commented on [#76](https://github.com/open-metadata/openmetadata-site/issues/76#issuecomment-1925810636) in [open-metadata/openmetadata-site](https://github.com/open-metadata/openmetadata-site)
-4. 🔒 Closed issue [#76](https://github.com/open-metadata/openmetadata-site/issues/76) in [open-metadata/openmetadata-site](https://github.com/open-metadata/openmetadata-site)
-5. 🗣 Commented on [#15012](https://github.com/open-metadata/OpenMetadata/pull/15012#issuecomment-1925379560) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-6. 🎉 Merged PR [#77](https://github.com/OpenSource-Journey/Your-Github-Contributions/pull/77) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
-7. 💪 Opened PR [#77](https://github.com/OpenSource-Journey/Your-Github-Contributions/pull/77) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
-8. 🚀 Published release [v0.0.10](https://github.com/Sachin-chaurasiya/github-user-contribution-summary/releases/tag/v0.0.10) in [Sachin-chaurasiya/github-user-contribution-summary](https://github.com/Sachin-chaurasiya/github-user-contribution-summary)
-9. 🚀 Published release [v0.0.9](https://github.com/Sachin-chaurasiya/github-user-contribution-summary/releases/tag/v0.0.9) in [Sachin-chaurasiya/github-user-contribution-summary](https://github.com/Sachin-chaurasiya/github-user-contribution-summary)
-10. 🎉 Merged PR [#6](https://github.com/Sachin-chaurasiya/github-user-contribution-summary/pull/6) in [Sachin-chaurasiya/github-user-contribution-summary](https://github.com/Sachin-chaurasiya/github-user-contribution-summary)
+1. 💪 Opened PR [#15033](https://github.com/open-metadata/OpenMetadata/pull/15033) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+2. ❗ Opened issue [#15022](https://github.com/open-metadata/OpenMetadata/issues/15022) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+3. 🔒 Closed issue [#82](https://github.com/open-metadata/openmetadata-site/issues/82) in [open-metadata/openmetadata-site](https://github.com/open-metadata/openmetadata-site)
+4. 🗣 Commented on [#76](https://github.com/open-metadata/openmetadata-site/issues/76#issuecomment-1925810636) in [open-metadata/openmetadata-site](https://github.com/open-metadata/openmetadata-site)
+5. 🔒 Closed issue [#76](https://github.com/open-metadata/openmetadata-site/issues/76) in [open-metadata/openmetadata-site](https://github.com/open-metadata/openmetadata-site)
+6. 🗣 Commented on [#15012](https://github.com/open-metadata/OpenMetadata/pull/15012#issuecomment-1925379560) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+7. 🎉 Merged PR [#77](https://github.com/OpenSource-Journey/Your-Github-Contributions/pull/77) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
+8. 💪 Opened PR [#77](https://github.com/OpenSource-Journey/Your-Github-Contributions/pull/77) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
+9. 🚀 Published release [v0.0.10](https://github.com/Sachin-chaurasiya/github-user-contribution-summary/releases/tag/v0.0.10) in [Sachin-chaurasiya/github-user-contribution-summary](https://github.com/Sachin-chaurasiya/github-user-contribution-summary)
+10. 🚀 Published release [v0.0.9](https://github.com/Sachin-chaurasiya/github-user-contribution-summary/releases/tag/v0.0.9) in [Sachin-chaurasiya/github-user-contribution-summary](https://github.com/Sachin-chaurasiya/github-user-contribution-summary)
 <!--END_SECTION:activity-->
 
 # Recent Blog Posts ✍️
