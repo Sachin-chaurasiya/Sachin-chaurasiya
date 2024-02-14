@@ -220,15 +220,10 @@ If you need help with technical writing or want to collaborate on web or Open So
 <p align="left"><a href="https://blog.sachinchaurasiya.dev/how-to-dynamically-adjust-the-height-of-a-textarea-in-reactjs" title="How to Dynamically Adjust the Height of a Textarea in ReactJS"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1707920761613/50615891-524b-4c1b-8b70-506f32b6b683.png" alt="How to Dynamically Adjust the Height of a Textarea in ReactJS" width="300px" align="left" /></a><a href="https://blog.sachinchaurasiya.dev/how-to-dynamically-adjust-the-height-of-a-textarea-in-reactjs" title="How to Dynamically Adjust the Height of a Textarea in ReactJS"><strong>How to Dynamically Adjust the Height of a Textarea in ReactJS</strong></a><div><strong>October 25, 2023</strong></div><br/>Introduction
 Have you ever been curious about how platforms like Notion, Hashnode, and others dynamically adjust the height of their page or article titles (text areas)? If you've noticed, as you type...</p><br/><br/>
 
-<p align="left"><a href="https://blog.sachinchaurasiya.dev/code-snippet-builder-create-stunning-code-snippets" title="Code Snippet Builder - Create stunning code snippets"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1707920268634/049ec808-4ec9-4fc6-b10b-c3fa51d4dd34.png" alt="Code Snippet Builder - Create stunning code snippets" width="300px" align="left" /></a><a href="https://blog.sachinchaurasiya.dev/code-snippet-builder-create-stunning-code-snippets" title="Code Snippet Builder - Create stunning code snippets"><strong>Code Snippet Builder - Create stunning code snippets</strong></a><div><strong>June 13, 2023</strong></div><br/>Code Snippet Builder: Appwrite Hashnode Hackathon
+<p align="left"><a href="https://blog.sachinchaurasiya.dev/code-snippet-builder-create-stunning-code-snippets" title="Code Snippet Builder - Create stunning code snippets"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1707920268634/049ec808-4ec9-4fc6-b10b-c3fa51d4dd34.png" alt="Code Snippet Builder - Create stunning code snippets" width="300px" align="left" /></a><a href="https://blog.sachinchaurasiya.dev/code-snippet-builder-create-stunning-code-snippets" title="Code Snippet Builder - Create stunning code snippets"><strong>Code Snippet Builder - Create stunning code snippets</strong></a><div><strong>June 13, 2023</strong></div><br/>Code Snippet Builder: AppwriteHashnode Hackathon
 Thanks, Appwrite and Hashnode for giving us this amazing opportunity.
-Team Details
-
-Sachin Chaurasiya - Sachin Chaurasiya
-
 Description of Project
-
-The...</p><br/><br/>
+The Code Snippet Builder is an innovative tool designed to...</p><br/><br/>
 
 <p align="left"><a href="https://blog.sachinchaurasiya.dev/typescript-tuple-types-the-what-why-and-how" title="TypeScript Tuple Types: The What, Why, and How"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1701175207564/99e47a3c-89e8-45a6-9e17-3df6a3ead85b.avif" alt="TypeScript Tuple Types: The What, Why, and How" width="300px" align="left" /></a><a href="https://blog.sachinchaurasiya.dev/typescript-tuple-types-the-what-why-and-how" title="TypeScript Tuple Types: The What, Why, and How"><strong>TypeScript Tuple Types: The What, Why, and How</strong></a><div><strong>May 14, 2023</strong></div><br/>TypeScript is a tool that helps JavaScript developers write better code by allowing them to define rules for the types of data they want to use. By doing this, TypeScript makes it easier to ensure tha...</p><br/><br/>
 
