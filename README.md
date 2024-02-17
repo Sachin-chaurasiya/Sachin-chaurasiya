@@ -231,7 +231,7 @@ The Code Snippet Builder is an innovative tool designed to...</p><br/><br/>
 What is a custom hook? 🤔
 Custom hooks in ReactJS are reusable pieces of code that encapsulate logic and state management. As developers, we need ...</p><br/><br/>
 
-<p align="left"><a href="https://blog.sachinchaurasiya.dev/markdown-for-beginners-with-examples" title="Markdown for beginners: with examples"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1676461910728/c2e37b38-9fc7-4c24-8a5a-1950cc443031.png" alt="Markdown for beginners: with examples" width="300px" align="left" /></a><a href="https://blog.sachinchaurasiya.dev/markdown-for-beginners-with-examples" title="Markdown for beginners: with examples"><strong>Markdown for beginners: with examples</strong></a><div><strong>February 15, 2023</strong></div><br/>Introduction ✨
+<p align="left"><a href="https://blog.sachinchaurasiya.dev/markdown-for-beginners-with-examples" title="Markdown for beginners: with examples"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1708109577980/49cd93be-abaf-4699-af2a-e3033ead3469.png" alt="Markdown for beginners: with examples" width="300px" align="left" /></a><a href="https://blog.sachinchaurasiya.dev/markdown-for-beginners-with-examples" title="Markdown for beginners: with examples"><strong>Markdown for beginners: with examples</strong></a><div><strong>February 15, 2023</strong></div><br/>Introduction ✨
 Markdown is a lightweight markup language that is used to format text documents. It is designed to be easy to read and write and is often used for formatting text on the web, such as in...</p><br/><br/>
 
 
