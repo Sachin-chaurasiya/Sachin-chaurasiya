@@ -215,6 +215,8 @@ If you need help with technical writing or want to collaborate on web or Open So
 # Recent Blog Posts ✍️
 
 <!-- HASHNODE_BLOG:START -->
+<p align="left"><a href="https://blog.sachinchaurasiya.dev/type-safety-in-typescript-unknown-vs-any" title="Type Safety in TypeScript - Unknown vs Any"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1709918050418/3e1eb65d-9276-443f-8c30-b71aa5d07356.png" alt="Type Safety in TypeScript - Unknown vs Any" width="300px" align="left" /></a><a href="https://blog.sachinchaurasiya.dev/type-safety-in-typescript-unknown-vs-any" title="Type Safety in TypeScript - Unknown vs Any"><strong>Type Safety in TypeScript - Unknown vs Any</strong></a><div><strong>March 8, 2024</strong></div><br/>TypeScript is very popular because it adds static typing to JavaScript. This makes the code safer and better quality, which JavaScript developers like. In TypeScript, two types that are often used are...</p><br/><br/>
+
 <p align="left"><a href="https://blog.sachinchaurasiya.dev/building-a-sql-expert-bot-a-step-by-step-guide-with-vercel-ai-sdk-and-openai-api" title="Building a SQL Expert Bot: A Step-by-Step Guide with Vercel AI SDK and OpenAI API"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1709394301970/5f3a4779-1a53-49eb-a9ca-dbff406fb87a.png" alt="Building a SQL Expert Bot: A Step-by-Step Guide with Vercel AI SDK and OpenAI API" width="300px" align="left" /></a><a href="https://blog.sachinchaurasiya.dev/building-a-sql-expert-bot-a-step-by-step-guide-with-vercel-ai-sdk-and-openai-api" title="Building a SQL Expert Bot: A Step-by-Step Guide with Vercel AI SDK and OpenAI API"><strong>Building a SQL Expert Bot: A Step-by-Step Guide with Vercel AI SDK and OpenAI API</strong></a><div><strong>March 3, 2024</strong></div><br/>OpenAI has brought the revolution in the AI field by creating the ChatGPT and now we can say the actual AI era has started and everyone from individuals to businesses using AI.
 OpenAI has even created...</p><br/><br/>
 
@@ -229,10 +231,6 @@ Description of Project
 The Code Snippet Builder is an innovative tool designed to...</p><br/><br/>
 
 <p align="left"><a href="https://blog.sachinchaurasiya.dev/typescript-tuple-types-the-what-why-and-how" title="TypeScript Tuple Types: The What, Why, and How"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1701175207564/99e47a3c-89e8-45a6-9e17-3df6a3ead85b.avif" alt="TypeScript Tuple Types: The What, Why, and How" width="300px" align="left" /></a><a href="https://blog.sachinchaurasiya.dev/typescript-tuple-types-the-what-why-and-how" title="TypeScript Tuple Types: The What, Why, and How"><strong>TypeScript Tuple Types: The What, Why, and How</strong></a><div><strong>May 14, 2023</strong></div><br/>TypeScript is a tool that helps JavaScript developers write better code by allowing them to define rules for the types of data they want to use. By doing this, TypeScript makes it easier to ensure tha...</p><br/><br/>
-
-<p align="left"><a href="https://blog.sachinchaurasiya.dev/how-to-test-custom-hook-in-reactjs" title="How to Test Custom Hook in ReactJS"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1701175025353/8f5cae3c-aa16-41cb-ac95-e3b483adf656.avif" alt="How to Test Custom Hook in ReactJS" width="300px" align="left" /></a><a href="https://blog.sachinchaurasiya.dev/how-to-test-custom-hook-in-reactjs" title="How to Test Custom Hook in ReactJS"><strong>How to Test Custom Hook in ReactJS</strong></a><div><strong>April 4, 2023</strong></div><br/>Testing Custom Hooks in ReactJS: A Step-by-Step Guide
-What is a custom hook? 🤔
-Custom hooks in ReactJS are reusable pieces of code that encapsulate logic and state management. As developers, we need ...</p><br/><br/>
 
 
 <!-- HASHNODE_BLOG:END -->
