@@ -16,12 +16,17 @@
 <!-- --- -->
 
 # About me 👨🏻‍💻
+Hello👋, I'm Sachin Chaurasiya, a software engineer from India who's all about creating cool stuff and helping people out. I've been at it for over 3 years now and I really enjoy making products that folks love to use.
 
-Hi! 👋 I'm Sachin Chaurasiya, a software engineer from India. I love creating stuff and connecting with people. Sharing what I know is my thing, and I do it through my blogs. I write about JavaScript, TypeScript, ReactJS, Web Development, Open Source, Python, Django, Jamstack, and CMS.
+I'm a big fan of Open Source, which means I like sharing and working on free software with others. You might even catch me volunteering in different groups!
 
-I learn on my own and stay consistent, believing in the learning process more than just results. Besides, I'm really into contributing to Open Source projects. Right now, I'm working with OpenMetadata, code snippet builder, and ReactPlayIO.
+When it comes to my work, I believe in making sure customers are happy, testing things thoroughly, and working together with others. I also think it's important to share what we know and write good quality code.
 
-If you need help with technical writing or want to collaborate on web or Open Source projects, I'm here! Let's connect! 😊
+Outside of coding, I enjoy writing blogs about tech topics like JavaScript, TypeScript, ReactJS, and more. I'm always up for learning new things and love sharing what I've learned with others.
+
+Right now, I'm busy working on some Open Source projects like **OpenMetadata**, a **code snippet builder**, and **ReactPlayIO**.
+
+If you need a hand with writing about tech stuff or want to team up on a project, feel free to reach out! Let's connect and make some awesome things together! 😊
 
 # Currently 📝
 
