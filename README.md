@@ -205,16 +205,16 @@ If you need a hand with writing about tech stuff or want to team up on a project
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#253](https://github.com/open-metadata/docs-v1/pull/253) in [open-metadata/docs-v1](https://github.com/open-metadata/docs-v1)
-2. 🎉 Merged PR [#9](https://github.com/harsh-vador/openmetadata-site/pull/9) in [harsh-vador/openmetadata-site](https://github.com/harsh-vador/openmetadata-site)
-3. 🎉 Merged PR [#8](https://github.com/harsh-vador/openmetadata-site/pull/8) in [harsh-vador/openmetadata-site](https://github.com/harsh-vador/openmetadata-site)
-4. 🎉 Merged PR [#7](https://github.com/harsh-vador/openmetadata-site/pull/7) in [harsh-vador/openmetadata-site](https://github.com/harsh-vador/openmetadata-site)
-5. 🎉 Merged PR [#6](https://github.com/harsh-vador/openmetadata-site/pull/6) in [harsh-vador/openmetadata-site](https://github.com/harsh-vador/openmetadata-site)
-6. 🎉 Merged PR [#5](https://github.com/harsh-vador/openmetadata-site/pull/5) in [harsh-vador/openmetadata-site](https://github.com/harsh-vador/openmetadata-site)
-7. 🗣 Commented on [#5](https://github.com/harsh-vador/openmetadata-site/pull/5#issuecomment-1981030442) in [harsh-vador/openmetadata-site](https://github.com/harsh-vador/openmetadata-site)
-8. 🎉 Merged PR [#4](https://github.com/harsh-vador/openmetadata-site/pull/4) in [harsh-vador/openmetadata-site](https://github.com/harsh-vador/openmetadata-site)
-9. 🎉 Merged PR [#3](https://github.com/harsh-vador/openmetadata-site/pull/3) in [harsh-vador/openmetadata-site](https://github.com/harsh-vador/openmetadata-site)
-10. 🎉 Merged PR [#2](https://github.com/harsh-vador/openmetadata-site/pull/2) in [harsh-vador/openmetadata-site](https://github.com/harsh-vador/openmetadata-site)
+1. ❌ Closed PR [#65](https://github.com/Sachin-chaurasiya/hashnode-blog-action/pull/65) in [Sachin-chaurasiya/hashnode-blog-action](https://github.com/Sachin-chaurasiya/hashnode-blog-action)
+2. ❌ Closed PR [#67](https://github.com/Sachin-chaurasiya/hashnode-blog-action/pull/67) in [Sachin-chaurasiya/hashnode-blog-action](https://github.com/Sachin-chaurasiya/hashnode-blog-action)
+3. 🎉 Merged PR [#253](https://github.com/open-metadata/docs-v1/pull/253) in [open-metadata/docs-v1](https://github.com/open-metadata/docs-v1)
+4. 🎉 Merged PR [#9](https://github.com/harsh-vador/openmetadata-site/pull/9) in [harsh-vador/openmetadata-site](https://github.com/harsh-vador/openmetadata-site)
+5. 🎉 Merged PR [#8](https://github.com/harsh-vador/openmetadata-site/pull/8) in [harsh-vador/openmetadata-site](https://github.com/harsh-vador/openmetadata-site)
+6. 🎉 Merged PR [#7](https://github.com/harsh-vador/openmetadata-site/pull/7) in [harsh-vador/openmetadata-site](https://github.com/harsh-vador/openmetadata-site)
+7. 🎉 Merged PR [#6](https://github.com/harsh-vador/openmetadata-site/pull/6) in [harsh-vador/openmetadata-site](https://github.com/harsh-vador/openmetadata-site)
+8. 🎉 Merged PR [#5](https://github.com/harsh-vador/openmetadata-site/pull/5) in [harsh-vador/openmetadata-site](https://github.com/harsh-vador/openmetadata-site)
+9. 🗣 Commented on [#5](https://github.com/harsh-vador/openmetadata-site/pull/5#issuecomment-1981030442) in [harsh-vador/openmetadata-site](https://github.com/harsh-vador/openmetadata-site)
+10. 🎉 Merged PR [#4](https://github.com/harsh-vador/openmetadata-site/pull/4) in [harsh-vador/openmetadata-site](https://github.com/harsh-vador/openmetadata-site)
 <!--END_SECTION:activity-->
 
 # Recent Blog Posts ✍️
