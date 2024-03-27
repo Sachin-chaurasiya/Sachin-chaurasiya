@@ -205,16 +205,16 @@ If you need a hand with writing about tech stuff or want to team up on a project
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#15685](https://github.com/open-metadata/OpenMetadata/pull/15685#issuecomment-2020021351) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-2. 🎉 Merged PR [#15448](https://github.com/open-metadata/OpenMetadata/pull/15448) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-3. ❗ Opened issue [#15683](https://github.com/open-metadata/OpenMetadata/issues/15683) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-4. 🎉 Merged PR [#72](https://github.com/Sachin-chaurasiya/hashnode-blog-action/pull/72) in [Sachin-chaurasiya/hashnode-blog-action](https://github.com/Sachin-chaurasiya/hashnode-blog-action)
-5. 🎉 Merged PR [#15648](https://github.com/open-metadata/OpenMetadata/pull/15648) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-6. ❌ Reopened PR [#15448](https://github.com/open-metadata/OpenMetadata/pull/15448) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-7. ❌ Closed PR [#15448](https://github.com/open-metadata/OpenMetadata/pull/15448) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-8. 🎉 Merged PR [#15603](https://github.com/open-metadata/OpenMetadata/pull/15603) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-9. 🔒 Closed issue [#15296](https://github.com/open-metadata/OpenMetadata/issues/15296) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-10. 🎉 Merged PR [#15618](https://github.com/open-metadata/OpenMetadata/pull/15618) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+1. 💪 Opened PR [#15714](https://github.com/open-metadata/OpenMetadata/pull/15714) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+2. 🗣 Commented on [#15685](https://github.com/open-metadata/OpenMetadata/pull/15685#issuecomment-2020021351) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+3. 🎉 Merged PR [#15448](https://github.com/open-metadata/OpenMetadata/pull/15448) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+4. ❗ Opened issue [#15683](https://github.com/open-metadata/OpenMetadata/issues/15683) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+5. 🎉 Merged PR [#72](https://github.com/Sachin-chaurasiya/hashnode-blog-action/pull/72) in [Sachin-chaurasiya/hashnode-blog-action](https://github.com/Sachin-chaurasiya/hashnode-blog-action)
+6. 🎉 Merged PR [#15648](https://github.com/open-metadata/OpenMetadata/pull/15648) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+7. ❌ Reopened PR [#15448](https://github.com/open-metadata/OpenMetadata/pull/15448) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+8. ❌ Closed PR [#15448](https://github.com/open-metadata/OpenMetadata/pull/15448) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+9. 🎉 Merged PR [#15603](https://github.com/open-metadata/OpenMetadata/pull/15603) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+10. 🔒 Closed issue [#15296](https://github.com/open-metadata/OpenMetadata/issues/15296) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 <!--END_SECTION:activity-->
 
 # Recent Blog Posts ✍️
