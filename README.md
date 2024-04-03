@@ -205,16 +205,16 @@ If you need a hand with writing about tech stuff or want to team up on a project
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#15783](https://github.com/open-metadata/OpenMetadata/pull/15783) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-2. 🗣 Commented on [#15128](https://github.com/open-metadata/OpenMetadata/issues/15128#issuecomment-2031509725) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-3. 🔒 Closed issue [#15128](https://github.com/open-metadata/OpenMetadata/issues/15128) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-4. 🎉 Merged PR [#15751](https://github.com/open-metadata/OpenMetadata/pull/15751) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-5. 🎉 Merged PR [#15765](https://github.com/open-metadata/OpenMetadata/pull/15765) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-6. 💪 Opened PR [#15767](https://github.com/open-metadata/OpenMetadata/pull/15767) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-7. 🎉 Merged PR [#9](https://github.com/Sachin-chaurasiya/codespaces-react-chakra-ui/pull/9) in [Sachin-chaurasiya/codespaces-react-chakra-ui](https://github.com/Sachin-chaurasiya/codespaces-react-chakra-ui)
-8. 🎉 Merged PR [#258](https://github.com/open-metadata/docs-v1/pull/258) in [open-metadata/docs-v1](https://github.com/open-metadata/docs-v1)
-9. 🗣 Commented on [#15717](https://github.com/open-metadata/OpenMetadata/issues/15717#issuecomment-2024493610) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-10. 🗣 Commented on [#15128](https://github.com/open-metadata/OpenMetadata/issues/15128#issuecomment-2024489219) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+1. 💪 Opened PR [#117](https://github.com/open-metadata/openmetadata-site/pull/117) in [open-metadata/openmetadata-site](https://github.com/open-metadata/openmetadata-site)
+2. 💪 Opened PR [#15783](https://github.com/open-metadata/OpenMetadata/pull/15783) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+3. 🗣 Commented on [#15128](https://github.com/open-metadata/OpenMetadata/issues/15128#issuecomment-2031509725) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+4. 🔒 Closed issue [#15128](https://github.com/open-metadata/OpenMetadata/issues/15128) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+5. 🎉 Merged PR [#15751](https://github.com/open-metadata/OpenMetadata/pull/15751) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+6. 🎉 Merged PR [#15765](https://github.com/open-metadata/OpenMetadata/pull/15765) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+7. 💪 Opened PR [#15767](https://github.com/open-metadata/OpenMetadata/pull/15767) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+8. 🎉 Merged PR [#9](https://github.com/Sachin-chaurasiya/codespaces-react-chakra-ui/pull/9) in [Sachin-chaurasiya/codespaces-react-chakra-ui](https://github.com/Sachin-chaurasiya/codespaces-react-chakra-ui)
+9. 🎉 Merged PR [#258](https://github.com/open-metadata/docs-v1/pull/258) in [open-metadata/docs-v1](https://github.com/open-metadata/docs-v1)
+10. 🗣 Commented on [#15717](https://github.com/open-metadata/OpenMetadata/issues/15717#issuecomment-2024493610) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 <!--END_SECTION:activity-->
 
 # Recent Blog Posts ✍️
