@@ -201,22 +201,6 @@ If you need a hand with writing about tech stuff or want to team up on a project
 
 [![An image of @sachinchaurasiya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sachinchaurasiya)](https://holopin.io/@sachinchaurasiya)
 
-# Recent Activity :zap:
-
-<!--START_SECTION:activity-->
-
-1. 🎉 Merged PR [#78](https://github.com/Sachin-chaurasiya/hashnode-blog-action/pull/78) in [Sachin-chaurasiya/hashnode-blog-action](https://github.com/Sachin-chaurasiya/hashnode-blog-action)
-2. 🎉 Merged PR [#77](https://github.com/Sachin-chaurasiya/hashnode-blog-action/pull/77) in [Sachin-chaurasiya/hashnode-blog-action](https://github.com/Sachin-chaurasiya/hashnode-blog-action)
-3. 🎉 Merged PR [#71](https://github.com/Sachin-chaurasiya/hashnode-blog-action/pull/71) in [Sachin-chaurasiya/hashnode-blog-action](https://github.com/Sachin-chaurasiya/hashnode-blog-action)
-4. 🎉 Merged PR [#70](https://github.com/Sachin-chaurasiya/hashnode-blog-action/pull/70) in [Sachin-chaurasiya/hashnode-blog-action](https://github.com/Sachin-chaurasiya/hashnode-blog-action)
-5. 🎉 Merged PR [#15714](https://github.com/open-metadata/OpenMetadata/pull/15714) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-6. 🔒 Closed issue [#12980](https://github.com/open-metadata/OpenMetadata/issues/12980) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-7. 🎉 Merged PR [#15778](https://github.com/open-metadata/OpenMetadata/pull/15778) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-8. 🗣 Commented on [#15817](https://github.com/open-metadata/OpenMetadata/issues/15817#issuecomment-2038813989) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-9. 🔒 Closed issue [#15817](https://github.com/open-metadata/OpenMetadata/issues/15817) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-10. 💪 Opened PR [#15803](https://github.com/open-metadata/OpenMetadata/pull/15803) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-<!--END_SECTION:activity-->
-
 # Recent Blog Posts ✍️
 
 <!-- HASHNODE_BLOG:START -->
