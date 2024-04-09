@@ -49,33 +49,45 @@ If you need a hand with writing about tech stuff or want to team up on a project
   <tr>
     <td align="center" width="96">
      <a href="#" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="html5" width="40" height="40"/> 
+      <img src="https://sachinchaurasiya.dev/static/media/html5-original-wordmark.ed5a66323fb7466700b1b551dcf00ea5.svg" title="HTML5" alt="html5" width="40" height="40"/> 
     </a>
     <br/>HTML5
    </td>
    <td align="center" width="96">
     <a href="#" target="_blank"> 
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+     <img src="https://sachinchaurasiya.dev/static/media/css3-original.39769a8bd378bf410d6b381a8d88fa35.svg" alt="css3" width="40" height="40"/> 
     </a>
-    <br/> CSS3
+    <br/>CSS3
    </td>
    <td align="center" width="96">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
+        <img src="https://sachinchaurasiya.dev/static/media/tailwindcss-original-wordmark.17d6eba74d834bf0ee85aa51e8f4e81c.svg" width="48" height="48" alt="TailwindCSS" />
       </a>
-      <br>JavaScript
+      <br>TailwindCSS
     </td>
    <td align="center" width="96">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
+        <img src="https://sachinchaurasiya.dev/static/media/javascript-original.4c1b5332c1b1057928f6f06cf972c91c.svg" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://sachinchaurasiya.dev/static/media/typescript-original.8d9549db1a0f5d73a35aa5dab48a09f9.svg" width="48" height="48" alt="TypeScript" />
       </a>
       <br>TypeScript
     </td>
    <td align="center" width="96">
       <a href="#">
-        <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React" />
+        <img src="https://sachinchaurasiya.dev/static/media/react-original-wordmark.7c8375868df8c536ab4f2d4078519904.svg" width="48" height="48" alt="React" />
       </a>
       <br>React JS
+    </td> 
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://sachinchaurasiya.dev/static/media/nextjs-original-wordmark.87c6bb812d14217a2f68856845c6f754.svg" width="48" height="48" alt="NextJs" />
+      </a>
+      <br>NextJs
     </td> 
    <td align="center" width="96">
       <a href="#" >
@@ -83,88 +95,76 @@ If you need a hand with writing about tech stuff or want to team up on a project
       </a>
       <br>AntD
     </td>
-   <td align="center" width="96">
-      <a href="#" >
-        <img src="https://user-images.githubusercontent.com/59080942/235138549-1de046a5-8e4b-4478-9e0a-8969b99bd851.png" width="100%" height="48" alt="Chakra Ui" />
-      </a>
-      <br>Chakra UI
-    </td>
-   <td align="center" width="96">
-      <a href="#" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-    </td>
   </tr>
   <tr> 
    <td align="center" width="96">
       <a href="#">
-        <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="48" height="48" alt="Material UI" />
+        <img src="https://sachinchaurasiya.dev/static/media/jest-plain.19f1f902afdd6d48345325d83d8ed33b.svg" width="48" height="48" alt="Jest" />
       </a>
-      <br>Material ui
+      <br>Jest
     </td>
    <td align="center" width="96">
       <a href="#">
-        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
+        <img src="https://github.com/Sachin-chaurasiya/Sachin-chaurasiya/assets/59080942/d18c23bb-2237-481f-aea2-fa8a951fe890" width="48" height="48" alt="Cypress" />
       </a>
-      <br>Bootstrap
+      <br>Cypress
     </td>
    <td align="center" width="96">
       <a href="#">
-        <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailWind" />
+        <img src="https://sachinchaurasiya.dev/static/media/nodejs-original-wordmark.8629b14e617e5ef13fedea0da8235e11.svg" alt="NodeJs" />
       </a>
-      <br>TailWind CSS
+      <br>NodeJs
     </td>
    <td align="center" width="96">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="45" height="45" alt="Figma" />
+        <img src="https://sachinchaurasiya.dev/static/media/express-original-wordmark.85a49c648d6d91844db838951511ea8c.svg" width="45" height="45" alt="Express" />
       </a>
-      <br>Figma
+      <br>Express
     </td>
      <td align="center" width="96"> 
       <a href="#" >
-        <img src="https://i.ibb.co/QXHcMvM/58481021cef1014c0b5e494b.png" width="48" height="48" alt="Mongo DB" />
+        <img src="https://sachinchaurasiya.dev/static/media/mongodb-original-wordmark.37c254895b58a4072247e428fc867bbe.svg" width="48" height="48" alt="Mongo DB" />
       </a>
       <br>MongoDB
     </td>
    <td align="center"  width="96">
       <a href="#">
-        <img src="https://user-images.githubusercontent.com/59080942/235139759-1e8dc647-b302-4690-a3c7-bc747a76fad7.png" width="48" height="48" alt="Mysql" />
+        <img src="https://sachinchaurasiya.dev/static/media/mysql-original-wordmark.de1f441d77fea35c2d6e1338f3cc540a.svg" width="48" height="48" alt="Mysql" />
       </a>
       <br>MySQL
    </td>
    <td align="center"  width="96">
       <a href="#">
-        <img src="https://user-images.githubusercontent.com/59080942/235140081-f18d5d9e-d3c3-4dd2-b5a8-bb47ca78690b.png" width="48" height="48" alt="PostgreSQL" />
+        <img src="https://sachinchaurasiya.dev/static/media/postgresql-original-wordmark.7f69300e20bea0f64899de4d79a5f0d3.svg" width="48" height="48" alt="PostgreSQL" />
       </a>
       <br>PostgreSQL
    </td>
    <td align="center"  width="96">
       <a href="#">
-        <img src="https://user-images.githubusercontent.com/59080942/235140554-fb5d74aa-9904-4891-8ac4-2728f79db7fe.png" width="48" height="48" alt="Netlify" />
+        <img src="https://sachinchaurasiya.dev/static/media/docker-original-wordmark.fcfc19cca40e18dde628b0ae8ddc6b26.svg" width="48" height="48" alt="Docker" />
       </a>
-      <br>Netlify
+      <br>Docker
    </td>
   </tr>
 
    <tr>
     <td align="center" width="96">
-      <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="48" height="48" alt="Python" />
+      <a href="#" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
       </a>
-      <br>Python
+      <br>Git
     </td>
    <td align="center" width="96">
       <a href="#">
-        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="48" height="48" alt="Django" />
+        <img src="https://sachinchaurasiya.dev/static/media/github-original-wordmark.aca0843252807bb6d1229e8179a46676.svg" width="48" height="48" alt="GitHub" />
       </a>
-      <br>Django
+      <br>GitHub
    </td>
     <td align="center"  width="96">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/480px-WordPress_blue_logo.svg.png" width="48" height="48" alt="WordPress" />
+        <img src="https://sachinchaurasiya.dev/static/media/markdown-original.48b5a30949e88cfecfeb56bf48843980.svg" width="48" height="48" alt="Markdown" />
       </a>
-      <br>WordPress
+      <br>Markdown
    </td>
     <td align="center" width="96">
       <a href="#" >
@@ -172,11 +172,11 @@ If you need a hand with writing about tech stuff or want to team up on a project
       </a>
       <br>GraphQL
     </td>
-     <td align="center">
+       <td align="center" width="96">
       <a href="#" >
-        <img src="https://user-images.githubusercontent.com/59080942/180596694-1e6dc1c7-081a-417f-aa82-27b304c3c865.png" alt="Strapi" />
+        <img src="https://user-images.githubusercontent.com/59080942/235138549-1de046a5-8e4b-4478-9e0a-8969b99bd851.png" width="100%" height="48" alt="Chakra Ui" />
       </a>
-      <br>Strapi
+      <br>Chakra UI
     </td>
   </tr>
     
