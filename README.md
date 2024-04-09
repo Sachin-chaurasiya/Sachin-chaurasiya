@@ -30,13 +30,11 @@ If you need a hand with writing about tech stuff or want to team up on a project
 
 # Currently 📝
 
-- ✨ Contributing to [OpenMetadata](https://github.com/open-metadata) and [ReactPlay](https://github.com/reactplay) Open source community.
+- ✨ Contributing to [OpenMetadata](https://github.com/open-metadata) and [ReactPlay](https://github.com/reactplay).
 
 - ✨ Building [Code Snippet Builder](https://snippetbuilder.sachinchaurasiya.dev/) and [Hashnode Blog Action](https://github.com/Sachin-chaurasiya/hashnode-blog-action)
 
-- ✨ Learning TypeScript, Docker
-
-- 📝 Writing Technical Articles
+- ✨ Writing Technical Articles
 
 # NPM Packages Published by Me 📦
 ![npm](https://img.shields.io/npm/dt/github-user-contribution-summary?label=github-user-contribution-summary&style=plastic)
