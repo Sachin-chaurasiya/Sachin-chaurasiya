@@ -202,6 +202,8 @@ If you need a hand with writing about tech stuff or want to team up on a project
 # Recent Blog Posts ✍️
 
 <!-- HASHNODE_BLOG:START -->
+<p align="left"><a href="https://blog.sachinchaurasiya.dev/react-error-boundary-a-guide-to-gracefully-handling-errors" title="React Error Boundary: A Guide to Gracefully Handling Errors"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1715486381285/a25ccdfa-5052-4541-a4f6-ccaf80b50124.png" alt="React Error Boundary: A Guide to Gracefully Handling Errors" width="300px" align="left" /></a><a href="https://blog.sachinchaurasiya.dev/react-error-boundary-a-guide-to-gracefully-handling-errors" title="React Error Boundary: A Guide to Gracefully Handling Errors"><strong>React Error Boundary: A Guide to Gracefully Handling Errors</strong></a><div><strong>May 12, 2024</strong></div><br/>React revolves around JavaScript, and as the application expands, certain components may become error-prone, leading to a blank page problem. To tackle this, we should incorporate Error Boundaries. Th...</p><br/><br/>
+
 <p align="left"><a href="https://blog.sachinchaurasiya.dev/build-and-send-emails-using-react-and-typescript" title="Build and Send Emails Using React and TypeScript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1710584063908/7e7789ae-f71d-4630-aebc-d37b59d9767d.png" alt="Build and Send Emails Using React and TypeScript" width="300px" align="left" /></a><a href="https://blog.sachinchaurasiya.dev/build-and-send-emails-using-react-and-typescript" title="Build and Send Emails Using React and TypeScript"><strong>Build and Send Emails Using React and TypeScript</strong></a><div><strong>March 16, 2024</strong></div><br/>Emails are widely used for communication, whether it's expressing thoughts, sharing product information, sending content to newsletter subscribers, sharing event details, and more.
 Crafting and sendin...</p><br/><br/>
 
@@ -214,11 +216,6 @@ OpenAI has even created...</p><br/><br/>
 
 <p align="left"><a href="https://blog.sachinchaurasiya.dev/how-to-dynamically-adjust-the-height-of-a-textarea-in-reactjs" title="How to Dynamically Adjust the Height of a Textarea in ReactJS"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1707920761613/50615891-524b-4c1b-8b70-506f32b6b683.png" alt="How to Dynamically Adjust the Height of a Textarea in ReactJS" width="300px" align="left" /></a><a href="https://blog.sachinchaurasiya.dev/how-to-dynamically-adjust-the-height-of-a-textarea-in-reactjs" title="How to Dynamically Adjust the Height of a Textarea in ReactJS"><strong>How to Dynamically Adjust the Height of a Textarea in ReactJS</strong></a><div><strong>October 25, 2023</strong></div><br/>Introduction
 Have you ever been curious about how platforms like Notion, Hashnode, and others dynamically adjust the height of their page or article titles (text areas)? If you've noticed, as you type...</p><br/><br/>
-
-<p align="left"><a href="https://blog.sachinchaurasiya.dev/code-snippet-builder-create-stunning-code-snippets" title="Code Snippet Builder - Create stunning code snippets"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1707920268634/049ec808-4ec9-4fc6-b10b-c3fa51d4dd34.png" alt="Code Snippet Builder - Create stunning code snippets" width="300px" align="left" /></a><a href="https://blog.sachinchaurasiya.dev/code-snippet-builder-create-stunning-code-snippets" title="Code Snippet Builder - Create stunning code snippets"><strong>Code Snippet Builder - Create stunning code snippets</strong></a><div><strong>June 13, 2023</strong></div><br/>Code Snippet Builder: AppwriteHashnode Hackathon
-Thanks, Appwrite and Hashnode for giving us this amazing opportunity.
-Description of Project
-The Code Snippet Builder is an innovative tool designed to...</p><br/><br/>
 
 
 <!-- HASHNODE_BLOG:END -->
