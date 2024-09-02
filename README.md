@@ -32,9 +32,9 @@ If you need a hand with writing about tech stuff or want to team up on a project
 
 - ✨ Contributing to [OpenMetadata](https://github.com/open-metadata) and [ReactPlay](https://github.com/reactplay).
 
-- ✨ Building [Code Snippet Builder](https://snippetbuilder.sachinchaurasiya.dev/) and [Hashnode Blog Action](https://github.com/Sachin-chaurasiya/hashnode-blog-action)
+- ✨ Building [Code Snippet Builder](https://snippetbuilder.sachinchaurasiya.dev/), [Hashnode Blog Action](https://github.com/Sachin-chaurasiya/hashnode-blog-action) and [GitHubBuddy](https://githubbuddy.sachinchaurasiya.dev/)
 
-- ✨ Writing Technical Articles
+- ✨ Writing technical articles on cutting-edge topics.
 
 # NPM Packages Published by Me 📦
 ![npm](https://img.shields.io/npm/dt/github-user-contribution-summary?label=github-user-contribution-summary&style=plastic)
