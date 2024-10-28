@@ -30,9 +30,7 @@ If you need a hand with writing about tech stuff or want to team up on a project
 
 # Currently 📝
 
-- ✨ Contributing to [OpenMetadata](https://github.com/open-metadata) and [ReactPlay](https://github.com/reactplay).
-
-- ✨ Building [Code Snippet Builder](https://snippetbuilder.sachinchaurasiya.dev/), [Hashnode Blog Action](https://github.com/Sachin-chaurasiya/hashnode-blog-action) and [GitHubBuddy](https://githubbuddy.sachinchaurasiya.dev/)
+- ✨ Building [OpenMetadata](https://github.com/open-metadata), [ReactPlay](https://github.com/reactplay),  [Code Snippet Builder](https://snippetbuilder.sachinchaurasiya.dev/), [Hashnode Blog Action](https://github.com/Sachin-chaurasiya/hashnode-blog-action) and [GitHubBuddy](https://githubbuddy.sachinchaurasiya.dev/)
 
 - ✨ Writing technical articles on cutting-edge topics.
 
