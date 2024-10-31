@@ -16,7 +16,7 @@
 <!-- --- -->
 
 # About me 👨🏻‍💻
-Hello👋, I'm Sachin Chaurasiya, a software engineer from India who's all about creating cool stuff and helping people out. I've been at it for over **3 years** now and I really enjoy making products that folks love to use.
+Hello👋, I'm Sachin Chaurasiya, a software engineer from India who's all about creating cool stuff and helping people out. I've been at it for over **3+ years** now and I really enjoy making products that folks love to use.
 
 I'm a big fan of **Open Source**, which means I like sharing and working on free software with others. You might even catch me volunteering in different groups!
 
