@@ -16,17 +16,13 @@
 <!-- --- -->
 
 # About me 👨🏻‍💻
-Hello👋, I'm Sachin Chaurasiya, a software engineer from India who's all about creating cool stuff and helping people out. I've been at it for over **3+ years** now and I really enjoy making products that folks love to use.
+Hi there 👋, I’m Sachin Chaurasiya, a software engineer with over 4 years of experience in building scalable, performant, and user-centric products. I enjoy solving challenging problems and creating products that make a difference for users.
 
-I'm a big fan of **Open Source**, which means I like sharing and working on free software with others. You might even catch me volunteering in different groups!
+Collaboration is a big part of my work. I’ve worked closely with designers, backend engineers, and other teams to deliver solutions that are efficient and easy to use. I also enjoy mentoring and guiding other engineers to help them grow in their careers.
 
-When it comes to my work, I believe in making sure customers are happy, testing things thoroughly, and working together with others. I also think it's important to share what we know and write good quality code.
+I believe in taking ownership of my work and always strive to go the extra mile to ensure high-quality results. Beyond work, I love sharing knowledge through writing technical blogs and contributing to open-source projects, and I am currently contributing to OpenMetadata and ReactPlay.
 
-Outside of coding, I enjoy writing blogs about tech topics like JavaScript, TypeScript, ReactJS, and more. I'm always up for learning new things and love sharing what I've learned with others.
-
-Right now, I'm busy working on some Open Source projects like **OpenMetadata**, a **code snippet builder**, and **ReactPlayIO**.
-
-If you need a hand with writing about tech stuff or want to team up on a project, feel free to reach out! Let's connect and make some awesome things together! 😊
+If you’re looking for someone who’s passionate about building impactful products and working as part of a team, let’s connect and create something amazing together. You can reach me at sachinchaurasiya.dev@gmail.com.
 
 # Currently 📝
 
