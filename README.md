@@ -9,7 +9,9 @@
  </a>
  <a href = https://www.linkedin.com/in/sachin-chaurasiya><img title="linkedin profile" src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg height='30' weight='30'></a>
 <a href = https://twitter.com/sachindotcom><img title="twitter profile"  src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg height='30' weight='30'></a>
-<a href="https://peerlist.io/sachin87"><img src="https://github-readme-badge.peerlist.io/api/sachin87" title="Peerlist Profile" height='30'/></a>
+<a href="https://peerlist.io/sachin87">
+ Peerlist
+</a>
 </p>
 </div> 
 
