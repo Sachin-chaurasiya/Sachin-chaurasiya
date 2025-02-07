@@ -17,7 +17,7 @@
 
 <!-- --- -->
 
-# About me 👨🏻‍💻
+# About me
 Hi there 👋, I’m Sachin Chaurasiya, a software engineer with over 4 years of experience in building scalable, performant, and user-centric products. I enjoy solving challenging problems and creating products that make a difference for users.
 
 Collaboration is a big part of my work. I’ve worked closely with designers, backend engineers, and other teams to deliver solutions that are efficient and easy to use. I also enjoy mentoring and guiding other engineers to help them grow in their careers.
@@ -26,18 +26,19 @@ I believe in taking ownership of my work and always strive to go the extra mile 
 
 If you’re looking for someone who’s passionate about building impactful products and working as part of a team, let’s connect and create something amazing together. You can reach me at sachinchaurasiya.dev@gmail.com.
 
-# Currently 📝
+# Currently
 
+- ✨ Learning and Contributing
 - ✨ Building [OpenMetadata](https://github.com/open-metadata), [ReactPlay](https://github.com/reactplay),  [Code Snippet Builder](https://snippetbuilder.sachinchaurasiya.dev/), [Hashnode Blog Action](https://github.com/Sachin-chaurasiya/hashnode-blog-action) and [GitHubBuddy](https://githubbuddy.sachinchaurasiya.dev/)
 
 - ✨ Writing technical articles on cutting-edge topics.
 
-# NPM Packages Published by Me 📦
+# NPM Packages Published by Me
 ![npm](https://img.shields.io/npm/dt/github-user-contribution-summary?label=github-user-contribution-summary&style=plastic)
 ![npm](https://img.shields.io/npm/dt/sso-clients?label=sso-clients&style=plastic) 
 ![npm](https://img.shields.io/npm/dt/@sachin-chaurasiya/blockeditor?label=@sachin-chaurasiya/blockeditor&style=plastic)
 
-# Languages and Tools 🛠
+# Languages and Tools
 
 <table align="center">
   <tr>
@@ -176,15 +177,15 @@ If you’re looking for someone who’s passionate about building impactful prod
     
 </table>
 
-# Github Stats 📈📊
+# Github Stats
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Sachin-chaurasiya&column=8&margin-w=15&margin-h=15&theme=dracula)](https://github.com/Sachin-chaurasiya)
 
 #
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sachin-chaurasiya&show_icons=true&theme=dracula" />
-  <img width="48%" src="http://github-readme-streak-stats.herokuapp.com?user=Sachin-chaurasiya&theme=dracula&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sachin-chaurasiya&show_icons=true&theme=dracula" />
+<!--   <img width="48%" src="http://github-readme-streak-stats.herokuapp.com?user=Sachin-chaurasiya&theme=dracula&hide_border=true" /> -->
 </div>
 
 <br/><br/>
