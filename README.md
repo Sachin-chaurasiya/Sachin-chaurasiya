@@ -31,7 +31,7 @@ If you’re looking for someone who’s passionate about building impactful prod
 - ✨ Learning and Contributing
 - ✨ Building [OpenMetadata](https://github.com/open-metadata), [ReactPlay](https://github.com/reactplay),  [Code Snippet Builder](https://snippetbuilder.sachinchaurasiya.dev/), [Hashnode Blog Action](https://github.com/Sachin-chaurasiya/hashnode-blog-action) and [GitHubBuddy](https://githubbuddy.sachinchaurasiya.dev/)
 
-- ✨ Writing technical articles on cutting-edge topics.
+- ✨ Knowledge sharing with technical writing
 
 # NPM Packages Published by Me
 ![npm](https://img.shields.io/npm/dt/github-user-contribution-summary?label=github-user-contribution-summary&style=plastic)
