@@ -26,12 +26,12 @@ I believe in taking ownership of my work and always strive to go the extra mile 
 
 If you’re looking for someone who’s passionate about building impactful products and working as part of a team, let’s connect and create something amazing together. You can reach me at sachinchaurasiya.dev@gmail.com.
 
-# Currently
+# What I’m Working On
+✨ Learning & Building: Learning AI and creating products using it.
 
-- ✨ Learning and Building
-- ✨ Building [OpenMetadata](https://github.com/open-metadata), [ReactPlay](https://github.com/reactplay),  [Code Snippet Builder](https://snippetbuilder.sachinchaurasiya.dev/), [Hashnode Blog Action](https://github.com/Sachin-chaurasiya/hashnode-blog-action) and [GitHubBuddy](https://githubbuddy.sachinchaurasiya.dev/)
+✨ Open Source: Contributing to [OpenMetadata](https://github.com/open-metadata), [ReactPlay](https://github.com/reactplay), [Code Snippet Builder](https://snippetbuilder.sachinchaurasiya.dev/), and [Hashnode Blog Action](https://github.com/Sachin-chaurasiya/hashnode-blog-action).
 
-- ✨ Knowledge sharing with technical writing
+✨ Sharing Knowledge: Writing technical articles to share what I learn with others.
 
 # NPM Packages Published by Me
 ![npm](https://img.shields.io/npm/dt/github-user-contribution-summary?label=github-user-contribution-summary&style=plastic)
