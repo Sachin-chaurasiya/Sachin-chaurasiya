@@ -28,7 +28,7 @@ If you’re looking for someone who’s passionate about building impactful prod
 
 # Currently
 
-- ✨ Learning and Contributing
+- ✨ Learning and Building
 - ✨ Building [OpenMetadata](https://github.com/open-metadata), [ReactPlay](https://github.com/reactplay),  [Code Snippet Builder](https://snippetbuilder.sachinchaurasiya.dev/), [Hashnode Blog Action](https://github.com/Sachin-chaurasiya/hashnode-blog-action) and [GitHubBuddy](https://githubbuddy.sachinchaurasiya.dev/)
 
 - ✨ Knowledge sharing with technical writing
