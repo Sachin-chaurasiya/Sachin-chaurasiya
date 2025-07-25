@@ -32,7 +32,7 @@ If you’re looking for someone who loves building impactful products, exploring
 # What I’m Working On
 ✨ Learning & Building: Learning AI and creating products using it.
 
-✨ Open Source: Contributing to [OpenMetadata](https://github.com/open-metadata), [ReactPlay](https://github.com/reactplay), [Code Snippet Builder](https://snippetbuilder.sachinchaurasiya.dev/), and [Hashnode Blog Action](https://github.com/Sachin-chaurasiya/hashnode-blog-action).
+✨ Open Source: Contributing to [Code Snippet Builder](https://snippetbuilder.sachinchaurasiya.dev/), [Hashnode Blog Action](https://github.com/Sachin-chaurasiya/hashnode-blog-action) , [OpenMetadata](https://github.com/open-metadata), and [ReactPlay](https://github.com/reactplay)
 
 ✨ Sharing Knowledge: Writing technical articles to share what I learn with others.
 
