@@ -30,7 +30,7 @@ If you’re looking for someone who loves building impactful products, exploring
 
 
 # What I’m Working On
-✨ Learning & Building: Learning AI and creating products using it.
+✨ Building aidnn - Agentic AI for Decisions, Not Duels, with Data
 
 ✨ Open Source: Contributing to [Code Snippet Builder](https://snippetbuilder.sachinchaurasiya.dev/), [Hashnode Blog Action](https://github.com/Sachin-chaurasiya/hashnode-blog-action) , [OpenMetadata](https://github.com/open-metadata), and [ReactPlay](https://github.com/reactplay)
 
