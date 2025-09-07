@@ -18,13 +18,11 @@
 <!-- --- -->
 
 # About me
-Hi there 👋, I’m **Sachin Chaurasiya**, a software engineer with 4+ years of experience building scalable, fast, and user-friendly products. I enjoy solving tough problems and creating tools that make a real impact for users.
+Software engineer with over 4+ years of experience in building scalable, performant, and user-centric products. I enjoy solving challenging problems and creating products that make a difference for users.
 
-Lately, I’ve been learning and building **AI-powered products** to help people work smarter and faster.
+Collaboration is a big part of my work. I’ve worked closely with designers, backend engineers, and other teams to deliver solutions that are efficient and easy to use. I also enjoy mentoring and guiding other engineers to help them grow in their careers.
 
-Collaboration is a big part of how I work. I’ve partnered with designers, backend engineers, and other teams to deliver simple and effective solutions. I also enjoy mentoring other engineers and helping them grow in their careers.
-
-I take full ownership of my work and always aim to deliver high-quality results. Outside of work, I share knowledge through writing technical blogs and contribute to open-source projects like **OpenMetadata** and **ReactPlay**.
+I believe in taking ownership of my work and always strive to go the extra mile to ensure high-quality results. Beyond work, I love sharing knowledge through writing technical blogs and contributing to open-source projects.
 
 If you’re looking for someone who loves building impactful products, exploring AI, and working as part of a team, let’s connect and create something amazing together. You can reach me at **[sachinchaurasiya.dev@gmail.com](mailto:sachinchaurasiya.dev@gmail.com)**.
 
