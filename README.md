@@ -29,6 +29,8 @@ If you’re looking for someone who loves building impactful products, exploring
 # What I’m Working On
 ✨ Building [aidnn](https://isotopes.ai/) - Agentic AI for Decisions, Not Duels, with Data
 
+✨ Building Open Source [AI Agent for Cloud & DevOps.](https://github.com/skyflo-ai/skyflo)
+
 ✨ Open Source: Contributing to [Code Snippet Builder](https://snippetbuilder.sachinchaurasiya.dev/), [Hashnode Blog Action](https://github.com/Sachin-chaurasiya/hashnode-blog-action) , [OpenMetadata](https://github.com/open-metadata), and [ReactPlay](https://github.com/reactplay)
 
 ✨ Sharing Knowledge: Writing technical articles to share what I learn with others.
