@@ -2,7 +2,7 @@
 
 
 # About me
-Software Engineer with 5+ years of experience building scalable, performant, and user-centric products. I enjoy solving complex problems, bringing clarity to ambiguity, and turning ideas into high-quality execution.
+Product Engineer with 5+ years of experience building scalable, performant, and user-centric products. I enjoy solving complex problems, bringing clarity to ambiguity, and turning ideas into high-quality execution.
 
 My strength lies in simplifying complexity, designing thoughtful systems, and collaborating across functions to build products that are both technically strong and valuable for users. I care deeply about performance, usability, and the overall product experience.
 
