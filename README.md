@@ -2,13 +2,17 @@
 
 
 # About me
-Software engineer with over 4+ years of experience in building scalable, performant, and user-centric products. I enjoy solving challenging problems and creating products that make a difference for users.
+Software Engineer with 5+ years of experience building scalable, performant, and user-centric products. I enjoy solving complex problems, bringing clarity to ambiguity, and turning ideas into high-quality execution.
 
-Collaboration is a big part of my work. I’ve worked closely with designers, backend engineers, and other teams to deliver solutions that are efficient and easy to use. I also enjoy mentoring and guiding other engineers to help them grow in their careers.
+My strength lies in simplifying complexity, designing thoughtful systems, and collaborating across functions to build products that are both technically strong and valuable for users. I care deeply about performance, usability, and the overall product experience.
 
-I believe in taking ownership of my work and always strive to go the extra mile to ensure high-quality results. Beyond work, I love sharing knowledge through writing technical blogs and contributing to open-source projects.
+I’ve worked closely with designers, backend engineers, and cross-functional teams to deliver reliable, intuitive solutions. I also enjoy mentoring engineers, sharing knowledge, and helping teams move faster with more clarity.
 
-If you’re looking for someone who loves building impactful products, exploring AI, and working as part of a team, let’s connect and create something amazing together. You can reach me at **[sachinchaurasiya.dev@gmail.com](mailto:sachinchaurasiya.dev@gmail.com)**.
+Outside of work, I write about engineering, contribute to open source, and explore ideas around building better products and systems.
+
+Open to connecting with people who care about thoughtful engineering, product thinking, and meaningful work.
+
+Contact: sachinchaurasiya.dev@gmail.com
 
 <ul>
   <li>
